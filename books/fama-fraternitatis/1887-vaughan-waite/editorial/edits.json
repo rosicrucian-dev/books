@@ -1,0 +1,93 @@
+[
+ {
+  "text": "fama",
+  "kind": "typing",
+  "find": "why he is called *Microcosmos*",
+  "replace": "why he is called *Microcosmus*",
+  "note": "1887 print, p. 65: Microcosmus"
+ },
+ {
+  "text": "fama",
+  "kind": "typing",
+  "find": "Although this Brothers dyed",
+  "replace": "Although this Brother dyed",
+  "note": "1887 print, p. 66"
+ },
+ {
+  "text": "fama",
+  "kind": "typing",
+  "find": "the Arabian tongue, se that",
+  "replace": "the Arabian tongue, so that",
+  "note": "1887 print, p. 67"
+ },
+ {
+  "text": "fama",
+  "kind": "typing",
+  "find": "*Trygono igneo*, I whose",
+  "replace": "*Trygono igneo*, whose",
+  "note": "1887 print, p. 70: no I"
+ },
+ {
+  "text": "fama",
+  "kind": "typing",
+  "find": "he bad imparted",
+  "replace": "he had imparted",
+  "note": "1887 print, p. 70"
+ },
+ {
+  "text": "fama",
+  "kind": "typing",
+  "find": "who had some mere knowledge",
+  "replace": "who had some more knowledge",
+  "note": "1887 print, p. 71"
+ },
+ {
+  "text": "fama",
+  "kind": "typing",
+  "find": "to commit carefully writing",
+  "replace": "to commit carefully to writing",
+  "note": "1887 print, p. 71"
+ },
+ {
+  "text": "fama",
+  "kind": "typing",
+  "find": "also there shall he opened",
+  "replace": "also there shall be opened",
+  "note": "1887 print, p. 76"
+ },
+ {
+  "text": "fama",
+  "kind": "typing",
+  "find": "in the center of the siding",
+  "replace": "in the center of the sieling",
+  "note": "1887 print, p. 77: sieling (ceiling)"
+ },
+ {
+  "text": "fama",
+  "kind": "typing",
+  "find": "the upper part or siding",
+  "replace": "the upper part or sieling",
+  "note": "1887 print, p. 77"
+ },
+ {
+  "text": "fama",
+  "kind": "typing",
+  "find": "mihi sepulchram feci",
+  "replace": "mihi sepulchrum feci",
+  "note": "1887 print, p. 77"
+ },
+ {
+  "text": "confessio",
+  "kind": "typing",
+  "find": "in the Fama, or fur certain",
+  "replace": "in the Fama, or for certain",
+  "note": "1887 print, p. 87"
+ },
+ {
+  "text": "confessio",
+  "kind": "typing",
+  "find": "over that which loth anguish",
+  "replace": "over that which doth anguish",
+  "note": "1887 print, p. 95"
+ }
+]

@@ -1,0 +1,18 @@
+[
+  {"page": 22, "translit": "HIV", "hebrew": "היו", "why": "read on the page (Chapter I. 13, Seven)"},
+  {"page": 22, "translit": "HVI", "hebrew": "הוי", "why": "read on the page (Chapter I. 13, Eight); Tesseract's 'HVIL'"},
+  {"page": 22, "translit": "IVH", "hebrew": "יוה", "why": "read on the page (Chapter I. 13, Six)"},
+  {"page": 23, "translit": "VHI", "hebrew": "והי", "why": "read on the page (Chapter I. 13, Ten); Tesseract's 'VHL', Google's 'הי'"},
+  {"page": 24, "translit": "D V M P", "hebrew": "דומפ", "why": "read on the page (Chapter II. 3); Google's 'ךומפ'"},
+  {"page": 29, "translit": "B G D K P R Th", "hebrew": "בגדכפרת", "why": "read on the page (Chapter IV. 1)"},
+  {"page": 31, "translit": "H V Z Ch T I L N S O Tz Q", "hebrew": "הוזחטילנסעצק", "why": "read on the page (Chapter V. 1)"},
+  {"page": 37, "translit": "ALHIM", "hebrew": "אלהים", "why": "read on the page: the transliteration as printed, without the final's f (the print's own)"},
+  {"page": 37, "translit": "ALHIMf ChIIMf", "hebrew": "אלהים חיים", "why": "read on the page"},
+  {"page": 37, "translit": "BSPR VSPR", "hebrew": "בספר וספר וספור", "why": "read on the page: three words, transliterated BSPR VSPR (or VSVPR) VSPVR"},
+  {"page": 39, "translit": "RVMf", "hebrew": "רום", "why": "read on the page; Tesseract's 'RVMS'"},
+  {"page": 39, "translit": "IHID", "hebrew": "יהיד", "why": "read on the page; Google's 'יהיך'"},
+  {"page": 40, "translit": "ASh", "hebrew": "אש", "why": "read on the page"},
+  {"page": 45, "translit": "ShSh MBOVTh", "hebrew": "שש מבעות", "why": "read on the page"},
+  {"page": 46, "translit": "ChIIMf", "hebrew": "חיים", "why": "read on the page"},
+  {"page": 47, "translit": "OVNI", "hebrew": "עוני", "why": "read on the page; Google's 'ערני'"}
+]

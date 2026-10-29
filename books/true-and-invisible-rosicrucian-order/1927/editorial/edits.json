@@ -1,0 +1,1454 @@
+[
+ {
+  "kind": "structure",
+  "find": "The True and Invisible Rosicrucian Order;\n\nAn Examination of the Rosicrucian Allegory, Philosophy, and Grades.",
+  "replace": "## The True and Invisible Rosicrucian Order; An Examination of the Rosicrucian Allegory, Philosophy, and Grades.",
+  "note": "the first lesson's heading, two lines"
+ },
+ {
+  "kind": "structure",
+  "find": "\n\nThe Story of C. R. C.\n\n",
+  "replace": "\n\n### The Story of C. R. C.\n\n",
+  "note": "heading"
+ },
+ {
+  "kind": "structure",
+  "find": "\n\nThe Story of the Finding of the Vault.\n\n",
+  "replace": "\n\n### The Story of the Finding of the Vault.\n\n",
+  "note": "heading"
+ },
+ {
+  "kind": "structure",
+  "find": "\n\nThe Rosicrucian Philosophy\n\n",
+  "replace": "\n\n### The Rosicrucian Philosophy\n\n",
+  "note": "heading"
+ },
+ {
+  "kind": "structure",
+  "find": "\n\nObjects of Rosicrucianism\n\n",
+  "replace": "\n\n### Objects of Rosicrucianism\n\n",
+  "note": "heading"
+ },
+ {
+  "kind": "structure",
+  "find": "\n\nConditions of Entrance into the Fraternity.\n\n",
+  "replace": "\n\n### Conditions of Entrance into the Fraternity.\n\n",
+  "note": "heading"
+ },
+ {
+  "kind": "structure",
+  "find": "\n\nNotes of the Story of C. R. C.\n\n",
+  "replace": "\n\n### Notes of the Story of C. R. C.\n\n",
+  "note": "heading"
+ },
+ {
+  "kind": "structure",
+  "find": "\n\nThe Grade of Zelator, 1=10.\n\n",
+  "replace": "\n\n### The Grade of Zelator, 1=10.\n\n",
+  "note": "heading"
+ },
+ {
+  "kind": "structure",
+  "find": "\n\nThe Path of Tau.\n\n",
+  "replace": "\n\n### The Path of Tau.\n\n",
+  "note": "heading"
+ },
+ {
+  "kind": "structure",
+  "find": "\n\nThe Grade of Theoricus, 2=9.\n\n",
+  "replace": "\n\n### The Grade of Theoricus, 2=9.\n\n",
+  "note": "heading"
+ },
+ {
+  "kind": "structure",
+  "find": "\n\nThe Grade of Philosophus, 4=7.\n\n",
+  "replace": "\n\n### The Grade of Philosophus, 4=7.\n\n",
+  "note": "heading"
+ },
+ {
+  "kind": "structure",
+  "find": "\n\nThe Grade of Lesser Adept, 5=6.\n\n",
+  "replace": "\n\n### The Grade of Lesser Adept, 5=6.\n\n",
+  "note": "heading"
+ },
+ {
+  "kind": "structure",
+  "find": "\n\nThe Grade of Greater Adept, 6=5.\n\n",
+  "replace": "\n\n### The Grade of Greater Adept, 6=5.\n\n",
+  "note": "heading"
+ },
+ {
+  "kind": "structure",
+  "find": "\n\nThe Grade of Exempt Adept, 7=4.\n\n",
+  "replace": "\n\n### The Grade of Exempt Adept, 7=4.\n\n",
+  "note": "heading"
+ },
+ {
+  "kind": "structure",
+  "find": "\n\nThe Grade of Magister Templi, 8=3.\n\n",
+  "replace": "\n\n### The Grade of Magister Templi, 8=3.\n\n",
+  "note": "heading"
+ },
+ {
+  "kind": "structure",
+  "find": "\n\nThe Grade of Magus, 9=2.\n\n",
+  "replace": "\n\n### The Grade of Magus, 9=2.\n\n",
+  "note": "heading"
+ },
+ {
+  "kind": "structure",
+  "find": "\n\nThe Grade of Ipsissimus, 10=1.\n\n",
+  "replace": "\n\n### The Grade of Ipsissimus, 10=1.\n\n",
+  "note": "heading"
+ },
+ {
+  "kind": "structure",
+  "find": "The Invisible Rosicrucian Order.\n\nLesson 2\n\n",
+  "replace": "## Lesson 2\n\n### The Invisible Rosicrucian Order.\n\n",
+  "note": "headings: the lesson's number, then its title"
+ },
+ {
+  "kind": "structure",
+  "find": "\n\nLesson 3\n\nThe Grade of Practicus, 3=8.\n\n",
+  "replace": "\n\n## Lesson 3\n\n### The Grade of Practicus, 3=8.\n\n",
+  "note": "heading"
+ },
+ {
+  "kind": "structure",
+  "find": "1.\n\nThat none of them should profess any other thing that to cure the sick, and that gratis. 2.\n\nNone of the posterity",
+  "replace": "1. That none of them should profess any other thing that to cure the sick, and that gratis.\n\n2. None of the posterity",
+  "note": "the agreement's six points, each number with its point"
+ },
+ {
+  "kind": "structure",
+  "find": "3.\n\nThat every year",
+  "replace": "3. That every year",
+  "note": "agreement"
+ },
+ {
+  "kind": "structure",
+  "find": "4.\n\nEvery Brother should",
+  "replace": "4. Every Brother should",
+  "note": "agreement"
+ },
+ {
+  "kind": "structure",
+  "find": "5.\n\nThe word R. C.",
+  "replace": "5. The word R. C.",
+  "note": "agreement"
+ },
+ {
+  "kind": "structure",
+  "find": "6.\n\nThe Fraternity should remain",
+  "replace": "6. The Fraternity should remain",
+  "note": "agreement"
+ },
+ {
+  "kind": "structure",
+  "find": "(Damcar);\n\nthen further study",
+  "replace": "(Damcar); then further study",
+  "note": "one paragraph, a short line"
+ },
+ {
+  "kind": "structure",
+  "find": "the primal matter. **Ques.** What is the meaning of the center",
+  "replace": "the primal matter.\n\n**Ques.** What is the meaning of the center",
+  "note": "a question and answer each its own"
+ },
+ {
+  "kind": "structure",
+  "find": "for the intonation. 3. See the vibratory",
+  "replace": "for the intonation.\n\n3. See the vibratory",
+  "note": "each step its own"
+ },
+ {
+  "kind": "structure",
+  "find": "[hand written in is Neophyte 0-0]\n\n",
+  "replace": "",
+  "note": "the owner's note in copy no. 16, not the book's"
+ },
+ {
+  "kind": "structure",
+  "find": "First Order\n\n1. Zelator,\n\ncorresponding to 10.\n\n2. Theoricus,\n\ncorresponding to 9.\n\n3. Practicus,\n\ncorresponding to 8.\n\n4. Philosophus,\n\ncorresponding to 7.\n\nSecond Order 5. Adeptus Minor,\n\ncorresponding to 6.\n\n6. Adeptus Major,\n\ncorresponding to 5.\n\n7. Adeptus Exemptus,\n\ncorresponding to 4.\n\n8. Magister Templi,\n\nThird Order\n\ncorresponding to 3.\n\n9. Magus,\n\ncorresponding to 2.\n\n10. Ipsissimus,\n\ncorresponding to 1.",
+  "replace": "| First Order | 1. Zelator, | corresponding to 10. |\n|---|---|---|\n| | 2. Theoricus, | corresponding to 9. |\n| | 3. Practicus, | corresponding to 8. |\n| | 4. Philosophus, | corresponding to 7. |\n| Second Order | 5. Adeptus Minor, | corresponding to 6. |\n| | 6. Adeptus Major, | corresponding to 5. |\n| | 7. Adeptus Exemptus, | corresponding to 4. |\n| Third Order | 8. Magister Templi, | corresponding to 3. |\n| | 9. Magus, | corresponding to 2. |\n| | 10. Ipsissimus, | corresponding to 1. |",
+  "note": "the grades, a table of three columns read row by row"
+ },
+ {
+  "kind": "gap",
+  "find": "Fire [figure], Water [figure], Air [figure], and Earth [figure].",
+  "replace": "Fire <EditorGap>[sign]</EditorGap>, Water <EditorGap>[sign]</EditorGap>, Air <EditorGap>[sign]</EditorGap>, and Earth <EditorGap>[sign]</EditorGap>.",
+  "note": "the elements' signs; [figure] in the transcription"
+ },
+ {
+  "kind": "gap",
+  "find": "\n\n[insert figure of Malkuth Sephira]\n\n",
+  "replace": "\n\n<EditorNote>[The figure, Malkuth divided into four, is not in this copy.]</EditorNote>\n\n",
+  "note": "the figure of Malkuth"
+ },
+ {
+  "kind": "gap",
+  "find": "Represented geometrically it would be {sym:Y}\n\n, or the Pentagram,",
+  "replace": "Represented geometrically it would be <EditorGap>[figure]</EditorGap>, or the Pentagram,",
+  "note": "the figure (a Pentagram between two Hexagrams), a Symbol-font Y in the transcription"
+ },
+ {
+  "kind": "gap",
+  "find": "turning counter-clockwise [figure of counter-clockwise spiral] in the region",
+  "replace": "turning counter-clockwise <EditorGap>[figure]</EditorGap> in the region",
+  "note": "the spiral"
+ },
+ {
+  "kind": "typing",
+  "find": "C. R. C. Did not",
+  "replace": "C. R. C. did not",
+  "note": "a capital put in by the word processor"
+ },
+ {
+  "kind": "typing",
+  "find": "C. R. C. So stirred",
+  "replace": "C. R. C. so stirred",
+  "note": "a capital put in by the word processor"
+ },
+ {
+  "kind": "typing",
+  "find": "Brother C. R. C. After many",
+  "replace": "Brother C. R. C. after many",
+  "note": "a capital put in by the word processor"
+ },
+ {
+  "kind": "typing",
+  "find": "N. N. Became head",
+  "replace": "N. N. became head",
+  "note": "a capital put in by the word processor"
+ },
+ {
+  "kind": "typing",
+  "find": "C. R. C. Is an allegory",
+  "replace": "C. R. C. is an allegory",
+  "note": "a capital put in by the word processor"
+ },
+ {
+  "kind": "typing",
+  "find": "C. R. C. Correspond",
+  "replace": "C. R. C. correspond",
+  "note": "a capital put in by the word processor"
+ },
+ {
+  "kind": "typing",
+  "find": "C. R. To Kaph-Resh",
+  "replace": "C. R. to Kaph-Resh",
+  "note": "a capital put in by the word processor"
+ },
+ {
+  "kind": "typing",
+  "find": "(C. R.) And",
+  "replace": "(C. R.) and",
+  "note": "a capital put in by the word processor"
+ },
+ {
+  "kind": "typing",
+  "find": "C. R. Lived",
+  "replace": "C. R. lived",
+  "note": "a capital put in by the word processor"
+ },
+ {
+  "kind": "typing",
+  "find": "C. R. Is called",
+  "replace": "C. R. is called",
+  "note": "a capital put in by the word processor"
+ },
+ {
+  "kind": "typing",
+  "find": "P. A. L. Written",
+  "replace": "P. A. L. written",
+  "note": "a capital put in by the word processor"
+ },
+ {
+  "kind": "typing",
+  "find": "C. R. Busied",
+  "replace": "C. R. busied",
+  "note": "a capital put in by the word processor"
+ },
+ {
+  "kind": "typing",
+  "find": "G. G. Or GG",
+  "replace": "G. G. or GG",
+  "note": "a capital put in by the word processor"
+ },
+ {
+  "kind": "typing",
+  "find": "\"erudite of Europe,\" A special",
+  "replace": "\"erudite of Europe,\" a special",
+  "note": "a capital put in by the word processor"
+ },
+ {
+  "kind": "typing",
+  "find": "open to the Zelator--That of",
+  "replace": "open to the Zelator--that of",
+  "note": "a capital put in by the word processor"
+ },
+ {
+  "kind": "typing",
+  "find": "means \"Not.\" the Strength",
+  "replace": "means \"Not.\" The Strength",
+  "note": "a capital put in by the word processor"
+ },
+ {
+  "kind": "typing",
+  "find": "of the August mysteries",
+  "replace": "of the august mysteries",
+  "note": "a capital put in by the word processor"
+ },
+ {
+  "kind": "typing",
+  "find": "directly Back, as you see",
+  "replace": "directly back, as you see",
+  "note": "a capital put in by the word processor"
+ },
+ {
+  "kind": "typing",
+  "find": "his skill is physic",
+  "replace": "his skill in physic",
+  "note": "Fama; Case quotes it himself: \"skill in physic\""
+ },
+ {
+  "kind": "typing",
+  "find": "Wise Men of Dam car",
+  "replace": "Wise Men of Damcar",
+  "note": "Fama"
+ },
+ {
+  "kind": "typing",
+  "find": "went to Egypt, were he",
+  "replace": "went to Egypt, where he",
+  "note": "Fama"
+ },
+ {
+  "kind": "typing",
+  "find": "weakened there opinions",
+  "replace": "weakened their opinions",
+  "note": "Fama"
+ },
+ {
+  "kind": "typing",
+  "find": "Whose loveth unquietness",
+  "replace": "Whoso loveth unquietness",
+  "note": "Fama"
+ },
+ {
+  "kind": "typing",
+  "find": "Later the concluded",
+  "replace": "Later they concluded",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "any other thing that to cure",
+  "replace": "any other thing than to cure",
+  "note": "Fama"
+ },
+ {
+  "kind": "typing",
+  "find": "withdrawn, to took with it",
+  "replace": "withdrawn, it took with it",
+  "note": "Fama"
+ },
+ {
+  "kind": "typing",
+  "find": "unius mihi copulchrum feci",
+  "replace": "unius mihi sepulchrum feci",
+  "note": "Fama; \"sepulcher\" in the translation beside it"
+ },
+ {
+  "kind": "typing",
+  "find": "Found about the first circle of brim",
+  "replace": "Round about the first circle or brim",
+  "note": "Fama"
+ },
+ {
+  "kind": "typing",
+  "find": "In his hand so hold a parchment",
+  "replace": "In his hand he held a parchment",
+  "note": "Fama"
+ },
+ {
+  "kind": "typing",
+  "find": "nor those with live in Peru",
+  "replace": "nor those which live in Peru",
+  "note": "Confessio"
+ },
+ {
+  "kind": "typing",
+  "find": "the unworthy man clamor",
+  "replace": "the unworthy may clamor",
+  "note": "Confessio"
+ },
+ {
+  "kind": "typing",
+  "find": "no longer are we behold by",
+  "replace": "no longer are we beheld by",
+  "note": "Confessio"
+ },
+ {
+  "kind": "typing",
+  "find": "betrayed to out hurt",
+  "replace": "betrayed to our hurt",
+  "note": "Confessio; Case quotes it again at the end"
+ },
+ {
+  "kind": "typing",
+  "find": "thenceforward reach himself",
+  "replace": "thenceforward teach himself",
+  "note": "Confessio"
+ },
+ {
+  "kind": "typing",
+  "find": "Abraham who emigrated it to Egypt",
+  "replace": "Abraham who emigrated with it to Egypt",
+  "note": "Ginsburg, The Kabbalah"
+ },
+ {
+  "kind": "typing",
+  "find": "but withhold them from Deuteronomy",
+  "replace": "but withheld them from Deuteronomy",
+  "note": "Ginsburg"
+ },
+ {
+  "kind": "typing",
+  "find": "(1463-14994)",
+  "replace": "(1463-1494)",
+  "note": "Pico's dates"
+ },
+ {
+  "kind": "typing",
+  "find": "Dr. Henery More",
+  "replace": "Dr. Henry More",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "composed of lives, which escape",
+  "replace": "composed of lines, which escape",
+  "note": "Pike, Morals and Dogma p. 629"
+ },
+ {
+  "kind": "typing",
+  "find": "There exist a force in nature",
+  "replace": "There exists a force in nature",
+  "note": "Levi, tr. Waite"
+ },
+ {
+  "kind": "typing",
+  "find": "than steam, my means of which",
+  "replace": "than steam, by means of which",
+  "note": "Levi"
+ },
+ {
+  "kind": "typing",
+  "find": "beings sets directly on this light",
+  "replace": "beings acts directly on this light",
+  "note": "Levi; Case quotes it later: \"the will of intelligent being acts directly\""
+ },
+ {
+  "kind": "typing",
+  "find": "must else be predicted of each faculty",
+  "replace": "must also be predicated of each faculty",
+  "note": "Levi"
+ },
+ {
+  "kind": "typing",
+  "find": "power and capacity.\n\nThis idea",
+  "replace": "power and capacity.\"\n\nThis idea",
+  "note": "the quotation's closing mark"
+ },
+ {
+  "kind": "typing",
+  "find": "ten and not nine, then and not eleven",
+  "replace": "ten and not nine, ten and not eleven",
+  "note": "Sepher Yetzirah"
+ },
+ {
+  "kind": "typing",
+  "find": "result, form the plan of Equilibrium",
+  "replace": "result, from the plan of Equilibrium",
+  "note": "Pike p. 767"
+ },
+ {
+  "kind": "typing",
+  "find": "Tao-Tch-King",
+  "replace": "Tao-Teh-King",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "As Vivkananda writes",
+  "replace": "As Vivekananda writes",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "thou sees not as but a play of love",
+  "replace": "thou seest now as but a play of love",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "A Magus cannot me ignorant",
+  "replace": "A Magus cannot be ignorant",
+  "note": "Levi"
+ },
+ {
+  "kind": "typing",
+  "find": "other things then wisdom, we cannot be betrayed to our heart",
+  "replace": "other things than wisdom, we cannot be betrayed to our hurt",
+  "note": "Confessio, as quoted at the start"
+ },
+ {
+  "kind": "typing",
+  "find": "4. Occultist think",
+  "replace": "4. Occultists think",
+  "note": "plural"
+ },
+ {
+  "kind": "typing",
+  "find": "Occultist have always known",
+  "replace": "Occultists have always known",
+  "note": "plural"
+ },
+ {
+  "kind": "typing",
+  "find": "Turks, as occultist know",
+  "replace": "Turks, as occultists know",
+  "note": "plural"
+ },
+ {
+  "kind": "typing",
+  "find": "Occultist also regard",
+  "replace": "Occultists also regard",
+  "note": "plural"
+ },
+ {
+  "kind": "typing",
+  "find": "Qabalist say of Pure",
+  "replace": "Qabalists say of Pure",
+  "note": "plural"
+ },
+ {
+  "kind": "typing",
+  "find": "Occultist of the Western School",
+  "replace": "Occultists of the Western School",
+  "note": "plural"
+ },
+ {
+  "kind": "typing",
+  "find": "24. Four other who",
+  "replace": "24. Four others who",
+  "note": "plural"
+ },
+ {
+  "kind": "typing",
+  "find": "what occult writer call",
+  "replace": "what occult writers call",
+  "note": "plural"
+ },
+ {
+  "kind": "typing",
+  "find": "with Qabalist that the serpent",
+  "replace": "with Qabalists that the serpent",
+  "note": "plural"
+ },
+ {
+  "kind": "typing",
+  "find": "it deepen you contact",
+  "replace": "to deepen your contact",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "from you body. (You",
+  "replace": "from your body. (You",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "rising from you feet",
+  "replace": "rising from your feet",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "through you body to the Moon",
+  "replace": "through your body to the Moon",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "5. Open you eyes, and fix",
+  "replace": "5. Open your eyes, and fix",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "6. Open you eyes, rub hands",
+  "replace": "6. Open your eyes, rub hands",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "8. Open you eyes, rub hands",
+  "replace": "8. Open your eyes, rub hands",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "results form my ignorant",
+  "replace": "results from my ignorant",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "numbers form 1 to 8",
+  "replace": "numbers from 1 to 8",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "quoted form the Emerald",
+  "replace": "quoted from the Emerald",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "resulting form the work",
+  "replace": "resulting from the work",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "profit form her work",
+  "replace": "profit from her work",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "out form us",
+  "replace": "out from us",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "inseparable form that",
+  "replace": "inseparable from that",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "flows form the Heart",
+  "replace": "flows from the Heart",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "derived form the keenest",
+  "replace": "derived from the keenest",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "first leads form the 5th",
+  "replace": "first leads from the 5th",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "freedom form the illusion",
+  "replace": "freedom from the illusion",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "the \"forth year.\"",
+  "replace": "the \"fourth year.\"",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "of the Forth Race",
+  "replace": "of the Fourth Race",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "The forth point",
+  "replace": "The fourth point",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "the forth path",
+  "replace": "the fourth path",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "has forth-dimensional",
+  "replace": "has fourth-dimensional",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "intone the first name of the note E-natural",
+  "replace": "intone the first name on the note E-natural",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "intone the name Elohim Tsabaoth of D-natural",
+  "replace": "intone the name Elohim Tsabaoth on D-natural",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "divine name of that sphere of the note",
+  "replace": "divine name of that sphere on the note",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "the Christos, of spiritual Self, of man",
+  "replace": "the Christos, or spiritual Self, of man",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "They mystical \"fish",
+  "replace": "The mystical \"fish",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "The alchemical mental \"copper\"",
+  "replace": "The alchemical metal \"copper\"",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "physical weakness must me conquered",
+  "replace": "physical weakness must be conquered",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "It release potent",
+  "replace": "It releases potent",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "a bargain the with Arabians",
+  "replace": "a bargain with the Arabians",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "is the make a scientific",
+  "replace": "is to make a scientific",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "Damcar meas",
+  "replace": "Damcar means",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "ought not to be persecuted",
+  "replace": "ought not to be prosecuted",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "requires definite inquires",
+  "replace": "requires definite inquiries",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "the idea of removal animating",
+  "replace": "the idea of renewal animating",
+  "note": "ChDSh, \"to renew or rebuild\""
+ },
+ {
+  "kind": "typing",
+  "find": "second point dispenses of the",
+  "replace": "second point disposes of the",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "is the make of the genuine",
+  "replace": "is the mark of the genuine",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "whole duty it was",
+  "replace": "whose duty it was",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "Haikal, Temple or Places",
+  "replace": "Haikal, Temple or Palace",
+  "note": "\"the Palace of Tiphareth\""
+ },
+ {
+  "kind": "typing",
+  "find": "Back is cold iron",
+  "replace": "Black is cold iron",
+  "note": "the Earth segment is black"
+ },
+ {
+  "kind": "typing",
+  "find": "corresponding to the back segment",
+  "replace": "corresponding to the black segment",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "he receive a lustration",
+  "replace": "he receives a lustration",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "The word itself in akin",
+  "replace": "The word itself is akin",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "makes the ides more",
+  "replace": "makes the ideas more",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "squaring of the circle..",
+  "replace": "squaring of the circle.",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "Lebanah or Levanah., Sphere",
+  "replace": "Lebanah or Levanah, Sphere",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "that supreme Reasons which",
+  "replace": "that supreme Reason which",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "reveals they mysteries",
+  "replace": "reveals the mysteries",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "but also as Child of the Sun",
+  "replace": "but also a Child of the Sun",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "Imaging your aura as violet",
+  "replace": "Imagine your aura as violet",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "Grades to by explained",
+  "replace": "Grades to be explained",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "grade of Practicus, 4=8;",
+  "replace": "grade of Practicus, 3=8;",
+  "note": "Practicus is 3=8 throughout"
+ },
+ {
+  "kind": "typing",
+  "find": "in a fourfold manner is radiant",
+  "replace": "in a fourfold manner as radiant",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "\"modes of manner\"",
+  "replace": "\"modes of matter\"",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "what we call \"mater\"",
+  "replace": "what we call \"matter\"",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "the aspiration to further instruction",
+  "replace": "the aspirant to further instruction",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "a question must fruitful",
+  "replace": "a question most fruitful",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "who have massed from study",
+  "replace": "who have passed from study",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "the statement;;",
+  "replace": "the statement;",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "estimation or our place",
+  "replace": "estimation of our place",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "although as type my personality",
+  "replace": "although as yet my personality",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "formation of now habits",
+  "replace": "formation of new habits",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "brings the greatest, results",
+  "replace": "brings the greatest results",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "which now seen to be",
+  "replace": "which now seem to be",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "is particularity dedicated",
+  "replace": "is particularly dedicated",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "errors is to is to believe",
+  "replace": "errors is to believe",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "first ten of twenty attempts",
+  "replace": "first ten or twenty attempts",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "the 3= 8 Grade",
+  "replace": "the 3=8 Grade",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "human error his placed Him",
+  "replace": "human error has placed Him",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "will never by quite the same",
+  "replace": "will never be quite the same",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "by seeking the aura as violet",
+  "replace": "by seeing the aura as violet",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "but the one things you want",
+  "replace": "but the one thing you want",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "but often does not.. That is why so may",
+  "replace": "but often does not. That is why so many",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "the certainly of the ultimate",
+  "replace": "the certainty of the ultimate",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "and in environmental present",
+  "replace": "and in environment present",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "what psyche-analysts call",
+  "replace": "what psycho-analysts call",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "will by unsatisfied",
+  "replace": "will be unsatisfied",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "study he corresponding Key",
+  "replace": "study the corresponding Key",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "Beauty is not more prettiness",
+  "replace": "Beauty is not mere prettiness",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "He sees than that he is",
+  "replace": "He sees then that he is",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "Draw it, it you can",
+  "replace": "Draw it, if you can",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "Note of the milliners",
+  "replace": "None of the milliners",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "and rest of the Foundation",
+  "replace": "and rest on the Foundation",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "Hence, is all the mysteries",
+  "replace": "Hence, in all the mysteries",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "cannot be seen my human eyes",
+  "replace": "cannot be seen by human eyes",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "to this and will be found",
+  "replace": "to this end will be found",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "these are state of body",
+  "replace": "these are states of body",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "when is says",
+  "replace": "when it says",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "like a medicine/\"",
+  "replace": "like a medicine.\"",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "what purpose is has",
+  "replace": "what purpose it has",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "imaginatively relates ourselves",
+  "replace": "imaginatively release ourselves",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "of that a One Force",
+  "replace": "of that One Force",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "It is also is the source",
+  "replace": "It is also the source",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "the best possible ways to make",
+  "replace": "the best possible way to make",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "are these of the letters Ayin",
+  "replace": "are those of the letters Ayin",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "For the pains is cost her",
+  "replace": "For the pains it cost her",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "when They has set",
+  "replace": "when They had set",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "their silly names of the walls",
+  "replace": "their silly names on the walls",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "flash like lighting",
+  "replace": "flash like lightning",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "We cold stand silent",
+  "replace": "We could stand silent",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "He cold command",
+  "replace": "He could command",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "superconscoiusness",
+  "replace": "superconsciousness",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "superconscoius direction",
+  "replace": "superconscious direction",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "for concerning those who disagree",
+  "replace": "for condemning those who disagree",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "It is the extension of the illusion",
+  "replace": "It is the extinction of the illusion",
+  "note": "\"the extinction of the candle-light\" follows"
+ },
+ {
+  "kind": "typing",
+  "find": "He has become that Will",
+  "replace": "He has become what Will",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "failures to hit the make",
+  "replace": "failures to hit the mark",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "Right here, the, before",
+  "replace": "Right here, then, before",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "we are not taken an instructor",
+  "replace": "we are not taken as an instructor",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "The conceal themselves",
+  "replace": "They conceal themselves",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "We may know then by this",
+  "replace": "We may know them by this",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "of the 23 path of Mem",
+  "replace": "of the 23rd path of Mem",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "in the preference of action",
+  "replace": "in the performance of action",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "Who is the Hermit\"",
+  "replace": "Who is the Hermit?",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "Jacob Boahme",
+  "replace": "Jacob Boehme",
+  "note": "Boehme, as on p. 56"
+ },
+ {
+  "kind": "typing",
+  "find": "begins to Geburah",
+  "replace": "begins in Geburah",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "similarly to proceeding exercises",
+  "replace": "similarly to preceding exercises",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "Tarot my the lion tamed by the women",
+  "replace": "Tarot by the lion tamed by the woman",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "cosmic law is manifested through",
+  "replace": "cosmic law as manifested through",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "separateness as must as anyone",
+  "replace": "separateness as much as anyone",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "become the dominant suggesting",
+  "replace": "become the dominant suggestion",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "\"matter\". Is the body",
+  "replace": "\"matter\" is the body",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "all the sphere of the Third",
+  "replace": "all the spheres of the Third",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "from the Great of Greater Adept",
+  "replace": "from the Grade of Greater Adept",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "speech, of the Ward",
+  "replace": "speech, of the Word",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "moment my moment",
+  "replace": "moment by moment",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "adept has reach this stage",
+  "replace": "adept has reached this stage",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "he make it as quickly",
+  "replace": "he makes it as quickly",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "facts abut the walls",
+  "replace": "facts about the walls",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "It is also call AB",
+  "replace": "It is also called AB",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "the 15th joints the 6th",
+  "replace": "the 15th joins the 6th",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "what the real MAN is every human",
+  "replace": "what the real MAN in every human",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "Grade of Magus is the Invisible",
+  "replace": "Grade of Magus in the Invisible",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "personal action s completely",
+  "replace": "personal action is completely",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "because he sets merely as",
+  "replace": "because he acts merely as",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "perform mightily works",
+  "replace": "perform mighty works",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "It color is pure white",
+  "replace": "Its color is pure white",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "whom that goal has been reached",
+  "replace": "when that goal has been reached",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "the same it true of",
+  "replace": "the same is true of",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "that of the hand of the Invisible",
+  "replace": "that of the head of the Invisible",
+  "note": "the \"Head\" of the Order follows"
+ },
+ {
+  "kind": "typing",
+  "find": "That person's through dominates",
+  "replace": "That person's thought dominates",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "on your own head be if",
+  "replace": "on your own head be it if",
+  "note": ""
+ },
+ {
+  "kind": "typing",
+  "find": "the number of KLIN, \"vases\"",
+  "replace": "the number of KLIM, \"vases\"",
+  "note": "Hebrew: KLIM, kelim, is 100 as the text says; KLIN would be 110"
+ },
+ {
+  "kind": "typing",
+  "find": "corresponding to ChIVK, *Enoch*",
+  "replace": "corresponding to ChNVK, *Enoch*",
+  "note": "Hebrew: ChNVK, Chanokh, is 84 as the text says; ChIVK would be 44"
+ },
+ {
+  "kind": "structure",
+  "find": "philosophy and the Qabalah. 2. The Founder",
+  "replace": "philosophy and the Qabalah.\n\n2. The Founder",
+  "note": "Note 2 of the Notes of the Story of C. R. C. a paragraph of its own, as the others (the transcription runs it on in the note before)"
+ },
+ {
+  "kind": "structure",
+  "find": "strict and at the same time subtle. 17. Study",
+  "replace": "strict and at the same time subtle.\n\n17. Study",
+  "note": "Note 17 of the Notes of the Story of C. R. C. a paragraph of its own, as the others (the transcription runs it on in the note before)"
+ },
+ {
+  "kind": "structure",
+  "find": "a similar small group. 23. The Qabalistic",
+  "replace": "a similar small group.\n\n23. The Qabalistic",
+  "note": "Note 23 of the Notes of the Story of C. R. C. a paragraph of its own, as the others (the transcription runs it on in the note before)"
+ }
+]

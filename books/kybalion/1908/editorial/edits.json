@@ -1,0 +1,43 @@
+[
+  {
+    "find": "*The Kyhalion",
+    "replace": "*The Kybalion",
+    "count": 5,
+    "why": "typing: the transcription's \"Kyhalion\" under five sayings (pages 26, 32, 38, 70 twice); the print has \"Kybalion\" at each, read on the scan."
+  },
+  {
+    "find": "they help to EXILE on their own plane",
+    "replace": "they help to RULE on their own plane",
+    "why": "typing: the print has \"RULE\" (page 38), read on the scan; the OCR and Gutenberg agree."
+  },
+  {
+    "find": "even in the Kelative sense",
+    "replace": "even in the Relative sense",
+    "why": "typing: the print has \"Relative\" (page 75), read on the scan."
+  },
+  {
+    "find": "and You shall go on, and on, and on, higher and still higher",
+    "replace": "and You shall go on, and on, and on, to higher and still higher",
+    "why": "typing: the transcription drops \"to\"; the print has \"and on, to higher\" (page 75), read on the scan."
+  },
+  {
+    "find": "throw light in dark comers.",
+    "replace": "throw light in dark corners.",
+    "why": "typing: the print has \"corners\" (page 89), read on the scan."
+  },
+  {
+    "find": "in the scale of conscionsness",
+    "replace": "in the scale of consciousness",
+    "why": "typing: the print has \"consciousness\" (page 199, broken \"con-sciousness\"), read on the scan."
+  },
+  {
+    "find": "by \"refusings\" and \"denying\"",
+    "replace": "by \"refusing\" and \"denying\"",
+    "why": "typing: the print has \"refusing\" (page 217, broken \"re-fusing\"), read on the scan."
+  },
+  {
+    "find": "the \"sub jective or involuntary\" mind",
+    "replace": "the \"subjective or involuntary\" mind",
+    "why": "typing: the print has \"subjective\", one word (page 208), read on the scan."
+  }
+]

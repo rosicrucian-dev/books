@@ -1,0 +1,18 @@
+<noinclude><pagequality level="3" user="EggOfReason" /></noinclude>{{c|CONTENTS}}
+{{TOC page listing|{{sc|Chapter.}}|{{sc|Page.}}}}
+{{dtpl|{{0|XIII.}}|[[The Kybalion/Introduction|Introduction]]|pagenum=7|positionoffset=4}}
+{{dtpl|I.|[[The Kybalion/Chapter 1|Hermetic Philosophy]]|pagenum=15|positionoffset=4}}
+{{dtpl|II.|[[The Kybalion/Chapter 2|Seven Hermetic Principles]]|pagenum=25|positionoffset=4}}
+{{dtpl|III.|[[The Kybalion/Chapter 3|Mental Transmutation]]|pagenum=43|positionoffset=4}}
+{{dtpl|IV.|[[The Kybalion/Chapter 4|The All]]|pagenum=53|positionoffset=4}}
+{{dtpl|V.|[[The Kybalion/Chapter 5|The Mental Universe]]|pagenum=65|positionoffset=4}}
+{{dtpl|VI.|[[The Kybalion/Chapter 6|The Divine Paradox]]|pagenum=77|positionoffset=4}}
+{{dtpl|VII.|[[The Kybalion/Chapter 7|"The All" in All]]|pagenum=95|positionoffset=4}}
+{{dtpl|VIII.|[[The Kybalion/Chapter 8|Planes of Correspondence]]|pagenum=113|positionoffset=4}}
+{{dtpl|IX.|[[The Kybalion/Chapter 9|Vibration]]|pagenum=137|positionoffset=4}}
+{{dtpl|X.|[[The Kybalion/Chapter 10|Polarity]]|pagenum=149|positionoffset=4}}
+{{dtpl|XI.|[[The Kybalion/Chapter 11|Rhythm]]|pagenum=159|positionoffset=4}}
+{{dtpl|XII.|[[The Kybalion/Chapter 12|Causation]]|pagenum=171|positionoffset=4}}
+{{dtpl|XIII.|[[The Kybalion/Chapter 13|Gender]]|pagenum=183|positionoffset=4}}
+{{dtpl|XIV.|[[The Kybalion/Chapter 14|Mental Gender]]|pagenum=193|positionoffset=4}}
+{{dtpl|XV.|[[The Kybalion/Chapter 15|Hermetic Axioms]]|{{DJVU page link 2|217|{{SIC|212|213}}}}}}<noinclude></noinclude>

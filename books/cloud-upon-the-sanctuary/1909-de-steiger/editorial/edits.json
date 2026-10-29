@@ -1,0 +1,32 @@
+[
+  {
+    "find": "Thus your natural reason does riot possess",
+    "replace": "Thus your natural reason does not possess",
+    "why": "typing: the transcription's OCR slip (page 3); \"not\" in the 1895 printing and in the sense."
+  },
+  {
+    "find": "new symbols became requisite Tor external use",
+    "replace": "new symbols became requisite for external use",
+    "why": "typing: the transcription's OCR slip (page 23); \"for\" in the 1895 printing."
+  },
+  {
+    "find": "We arc approaching the period",
+    "replace": "We are approaching the period",
+    "why": "typing: the transcription's OCR slip (page 33); \"are\" in the 1895 printing."
+  },
+  {
+    "find": "All the marvels of nature arc subordinate",
+    "replace": "All the marvels of nature are subordinate",
+    "why": "typing: the transcription's OCR slip (page 38); \"are\" in the 1895 printing."
+  },
+  {
+    "find": "but to which we arc near being one",
+    "replace": "but to which we are near being one",
+    "why": "typing: the transcription's OCR slip (page 38); \"are\" in the 1895 printing."
+  },
+  {
+    "find": "extent—‏מלכיצ-דק‎ (MLKIZ-DQ).",
+    "replace": "extent—מלכיצדק (MLKIZDQ).",
+    "why": "Hebrew: Melchizedek, מלכיצדק, 7 letters (מ ל כ י צ ד ק), 40+30+20+10+90+4+100 = 294, as its transliteration MLKIZDQ spells it; one word, as the 1895 printing sets it (read on the scan, The Unknown World, May 1895, p. 17). The transcription's hyphen, after the tsade in both, divides neither the word nor the name (Malki-tsedeq): taken for a break at the line's end in the 1909 print, not seen. Its direction marks left out."
+  }
+]

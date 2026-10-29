@@ -1,0 +1,796 @@
+@part	Introduction
+@5	BY ARTHUR EDWARD WAITE The SEPHER YETZIRAH is a very small, indeed a minute work, even in its most extended recension; but in the hands of successive translators and makers of commentaries its critical position has become exceedingly complex, and it is scarcely possible to reach, much less to hold, any definite view as a mean between the conflicting elements of debate. For the purpose of the present brief consideration I can assume no knowledge on the part of readers and must present therefore only the simpler issues of the subject.
+@5	The SEPHER YETZIRAH, otherwise BOOK OF FORMATION, was introduced to Christian scholarship in 1552 by a Latin translation of William Postel, this being ten years prior to the first issue of the printed Hebrew text, which took place at Mantua in 1562. A second Latin rendering belongs to the year 1587, when it appeared in the first and only volume of ARTIS CABALISTICE SCRIPTORES under the editorship of Pistorius. Finally, so far as I am aware, the Hebrew text with a third translation into Latin was produced by Rittangelius in 1642, together with a commentary on THE 32 PATHS OF WISDOM by Rabbi Abraham ben Dior. The translation of the SEPHER was the work of the editor and was accompanied by notes. As regards the Hebrew text, that of Mantua contained two recensions, with variant readings of both, the second being longer than the first. On the one hand, its additional matter is regarded as later interpolation, but on the other it is held to give “valuable readings which seem older and better than corresponding passages in the shorter.” This is on the authority of the JEWISH ENCYCLOPÆDIA, vol. xii, *s.v. Yezirah*. Other editions of the Hebrew text—apart from translation—were published: (1) at Amsterdam, in 1642, and again in 1713; (2) at Lemberg, in 1680, containing six codices, that of Saadya Gaon included; (3) at Constantinople, 1719; (4) at Zolkiew, in 1745; (5) at Korzec, in 1779, under the editorship of Moses ben Jacob; (6) at Grodno, in 1806, accompanied by five commentaries; (7) at Dyhernfurth, in 1812; (8) at Salonika, in 1831; (9) at Jerusalem, in 1874; (10) at Warsaw, in 1884, with nine commentaries. It may be added that the bibliography of the work is not exhausted by this representative enumeration.
+@6	Among renderings into modern languages with which I am acquainted the first in point of time is that of Meyer into German, together with the Hebrew text, in 1836. In 1894 the text of Isaac Loria and the text of an Arabic version were edited by L. Goldschmidt, with a new German translation. The first French rendering was made by Gérard Encausse, better known under his pseudonym of Papus. The second was by Mayer Lambert, in 1891, an elaborate work, containing (1) the Arabic text of Saadya Gaon’s commentary on the SEPHER YETZIRAH, its translation into French and a rendering of the SEPHER from the Hebrew. In 1913 the Comtesse Calomira de Cimara produced a new rendering which was done with considerable care and was accompanied by folding diagrams and notes.
+@6	The first English translation appeared at New York in 1877, together with the Hebrew text from an excellent fount of type. It is accompanied by notes of considerable interest and is followed by A SKETCH OF THE TALMUD. The translator and author is Mr Isidor Kalisch. The second version is that of Dr W. Wynn Westcott, published originally in 1887 and reissued in a revised form, with additional notes, by the Theosophical Publishing Society as a volume of COLLECTANEA HERMETICA in 1893. It is based on the text of Rittangelius, compared with some other versions. It was prepared for the use of persons described as theosophists, occult and Hermetic students, whose purposeif any—may have been served by such a production, but it is in reality a paraphrase and fulfils few of the conditions required by scholarship.
+@6	As stated in the Translator’s Note, the present version is a word-for-word rendering, the work of a Swedish Hebraist. It may be compared with the beginnings of a rendering by “Mr Phineas Mordell in his ‘Origin of Letters and Numerals, according to the SEFER YETZIRAH,” reprinted in Germany from the JEWISH QUARTERLY REVIEW of 1912-13, and published in Philadelphia by the author. It is dated 1914, but it is explained on a slip that no copies of the thesis became available in America until 1921, owing to the Great War. Mr Mordell’s remarkable study, to which I shall recur shortly, contains the Hebrew text and parallel English rendering of twenty-four *mishnayoth*, versicles or paragraphs, to which number his principles of criticism reduce the original and only authentic text.
+@7	Mr Knut Stenring makes clear his personal position by printing those portions which he believes to be of later date in italics throughout, and this has the merit of offering a clear issue to the general reader.
+@7	The cosmology of SEPHER YETZIRAH, however we elect to translate individual words and paragraphs, is the primary concern of the tract, while the second exhibits a correspondence between the work of God in the universe and in the body of man, in which connection it is to be observed that there is no intimation concerning a spiritual part which answers to the notion of a human soul. The word Formation suggests a work performed on antecedently existing material, *¢.g*., the “formless and void”’ or “mire and clay of c. I, 11. The Yetziratic Lord corresponds therefore to the Masonic description of Deity as the Great Architect of the Universe. It is said indeed in the “text—*ibidem*—that he ‘hewed” the twenty-two letters “as a wall” and ‘covered them as a building.” But those who devised the Emblematic Art *post* 1717 did not intend to suggest that their Architect was not also Creator, and in like manner the SEPHER YETZIRAH represents the Lord, God and Holy One, not only as writing and forming, not only as producing from void and chaos, but according to Dr Stenring’s rendering ‘He made the non-existent exist’ (II, 6), which is in substantial agreement with other modern versions. Compare (1) La Comtesse Cimara: *Il forma quelque chose de concret du Tohu et fit ce qui n'etait pas*. (2) Dr Wynn Westcott: “From the non-existent He made something” (II, 5). (3) Mr Phineas Mordell: “He graved and hewed out of them void and chaos. . . . He formed existence out of void, and made something out of nothing” (pars. 19, 22).
+@7	The SEPHER YETZIRAH introduces also a doctrine of the Logos. The universe was created by ““three forms of expression —Numbers, Letters and Words” (Stenring), otherwise by ‘“Numbers, Letters and Sounds” (Westcott), or by three ‘““books,” which are “Writing, Number and Speech” (Cimara), for which Mordell substitutes ‘Scribe, Script and Scroll.” The root and meaning are one in respect of all the variants, as will be seen more fully by comparing the alternatives of Postel, Pistorius and Rittangelius, which are cited by Mr Stenring in his notes. It is said further that the Word of God is in the Sephiroth (I, 6), otherwise Numerations or Digits (Mordell); that Voice, Spirit and Word are together the Spirit of the Holy One (I, 9); that creation as it is and all creation to come are already or will be formed by the twenty-two letters (II, 2); that Air, Water and Fire proceeded from the Three Mother Letters, *Aleph, Mem* and *Shin*; that the seven planets were brought forth from the Seven Double Letters, as also the directions of space and that Holy Palace in the centre which sustains all things (IV, 4, 15), an allusion to the Divine Immanence operating in created things as an unmanifest behind the manifest; and that the zodiacal signs were drawn forth from the Twelve Simple Letters (V, 3). We may compare later Zoharic doctrine, according to which the letters had been emanated one from another and thereafter the world was created by their help, that it might manifest the Divine Name as an Indwelling Presence therein. Yet later Kabalism distinguished three operations, to create, to form and to make, corresponding to the respective offices of three worlds—*Olam Briah, Olam Yetzirah* and *Olam Assiah*—in the Sephirotic scheme of the Tree of Life, these depending from *Olam Aiziluth*, the world of Deity, wherein is the Crown of the Tree.
+@8	The SEPHER YETZIRAH unfolds also a logical doctrine of correspondences which was destined to be extended by the ZOHAR and its commentators and connections in several suggestive directions. It is obvious, and as they were men of subtle understanding it must have been realised by the theosophists of Israel that they were setting forth in reality and projecting on the Divine Plane a philosophy of the human Logos. It was man and no other for whom the Ten Numerations were a mode of the rational mind; it was he who conceived and gave utterance to letters as sounds, in throat, palate and tongue, through teeth and lips (II, 3). His is the science of numbers and his are the forms of speech: it is he who is scribe and script, and there is even a true sense in which he is also the scroll, or that *tabula* on which the cosmos without impresses its messages, to be received and interpreted by the cosmos within. The sacramental correspondence between that which is communicated to the senses and conveyed through these to the mind is like the covenant placed by the Lord between the hands of Abraham (VI, 16), a guarantee on the part of God that there is a valid relation between *signum* and *signatum*, according to the proportion of which the human understanding is an authentic measure of the universe. Mr Stenring places VI, 16, among the apocryphal paragraphs, and Mr Mordell regards it as belonging to the original text. The former in his translation presents Abraham as contemplating, studying and at length understanding the Yetziratic revelation. He ‘formed and designed till he had reached” this end. On the other hand, according to Mr Mordell, who follows I know not which recension, ‘when Abraham our father arose, he looked and saw and investigated and observed and engraved and hewed and combined and formed and calculated, and his creation was successful.” In other words, by a deep contemplation of the cosmos it was so unfolded to the patriarch that its true pattern was created or formulated in his mind, the result of which (*ibid*.) was that the Lord appeared or was revealed to him, meaning that God became known in His works. Our version says that thereafter ‘he had faith in the Lord —because, I conclude, his deep observation of the “universe had empowered him to justify the ways of God to men.”
+@9	It may well be that this experimental essay in the elucidation of an obscure passage is not precisely according to the mind of the Hebrews, but there is no other in which it can be said of Abraham that ‘his creation was successful,”” and it does exhibit the law of correspondence in its most deep aspect. For the rest, according to SEPHER YETZIRAH, the Hebrew Letters which correspond in the macrocosm to Air, Water and Fire answer in the microcosm of man to head, belly and chest (III, 7); the Double Letters which produced the seven planets are in analogy with seven gateways, so called, in the human organism, namely, eyes, ears, nostrils and mouth, the channels of communication from without inward by sight, hearing, smell and taste (IV, 6, 7 *et seq*.). So also the celestial zodiac was produced by means of the Twelve Simple Letters, which are in correspondence also, and after the same manner, with twelve organs—external and internal—of the human economy—hands, feet, stomach and so onward (V, 3, 6 *et seq*.). I suppose that a Kabalistic astrology could be unfolded from this highly symbolical thesis, and something of the kind may have been attempted in recent days.
+@9	Mr Stenring has produced his translation for the same reason that actuated Dr Papus and subsequently Dr Westcott: it was supposed then and is supposed now to be of importance for occult students. Based on a better understanding of SEPHER YETZIRAH, Mr Stenring looks for a revival of the whole subject. In the introduction to his translation Dr Westcott points out that the text is ““an instructive philosophical treatise upon one aspect of the origin of the universe and mankind,” to say which, however, explains nothing respecting the nature of its appeal to occult students, besides being quite inapplicable as a description of the work itself. On the other hand, Mr Stenring produces his reasons for the faith that is in him. For him the numbers and letters which make up the Paths of Wisdom represent forces created by God from which everything was and is formed in the universe, and by means of their symbols these forces become apprehensible to the mind (pp. 36, 37). Moreover. the work of contemplation can increase knowledge of the forces, up to a certain point. Mr Stenring gives further an elaborate diagram shewing concentric circles inscribed with the English equivalents of the Hebrew letters arranged in a certain order as an explanation of Cap. II, 5, in the text. He claims that this is the great Kabalistic Symbol and “Master-Key to the theoretical and practical Kabalah,” which the SEPHER YETZIRAH conceals in a riddle at the place just indicated and which he has been the first to solve. It follows that Mr Stenring ° delivers the goods”’ that were not apparently in the hands of Papus, Westcott *et hoc genus*, and therefore occult students who are drawn towards Jewish symbolism, according to which the Lord wrote numbers and letters, thus creating forces for the production of the manifest world, can set to work on his diagram and see what they can make of it. They will come at least across many curious permutations and will be in agreement with myself that the elaborate Diagram is one of considerable interest. from whatever point of view it is approached, and however they may interpret Mr Stenring’s statement that absolute knowledge of a single number or letter is “impossible for a human mind “(p. 37), unless it has opened every Gate of Understanding, *i.c*., has acquired ‘‘“an encyclopædic knowledge of all sciences.”
+@10	The early students and editors of SEPHER YETZIRAH—Postel, Pistorius and Rittangelius—hoped that their own zeal would effect the conversion of Israel to the faith of Christ, and it is useful to contrast this enthusiasm with the various motives which actuate ‘occult interest” at the present day. The Sephirotic and Alphabetical Theosophy of the Yetziratic Midrash was developed in the ZOHAR, and this storehouse of Kabalism was in turn developed into a formal system by rabbinical devotees of the sixteenth and seventeenth centuries. The system and its sources, being capable of several constructions, were adapted—as I have explained previously on more than one occasion—by Christian students, from Mirandula to Baron von Rosenroth, for the purpose of proving to Israel that their expected Messiah had come already in Christ. I have shewn also that the informal association for the propagation of the Gospel in the foreign parts of Jewry proved practically of no effect, though the ZOHAR itself must be credited with the conversion of one little band of zealots under Jacob Frank. The occult interest in the SEPHER YETZIRAH is part of the concern in Jewish tradition at large and in other assumed channels of secret knowledge. From my own point of view, it is too often misdirected and therefore loses its way, amidst speculations in cloud and mist on themes which can be hardly specified. There are great masters somewhere about, encompassed by the reverence of pronouns printed with great initial letters; there is a grand secret of undeclared quality hypothecated at the end of a long vista; while if anything can be brought to book in the present connection it is a tentative belief in the question of occult virtue resident in Divine Names. Under such auspices there is no need to add that in Victorian days, when we heard of Hermetic Orders, Brotherhoods of Luxor and the Veil of Isis, it was apt to be a cloak for every kind of false pretence, not to speak of imbecility of thought.
+@11	Mr Stenring belongs to another category and is probably concerned with the occult subject as a curious path of research, much as on my own part I devoted years to its study, seeking a possible light on the several lines of development followed by the Secret Tradition in Christian Times. Magia, Theosophia, Alchimia, Kabalah, Philosophia Occulta are or may be among the paths thereof, in an ascending or descending scale. There is valuable work which remains to be done in all, and this is the direction in which we may share the translator’s hope for ‘a much-needed renaissance of occultism.” It seems to me that at the present day it has entered into its proper sphere as a study of the records of the past, sometimes in the hope that they may throw incidental light upon modern problems which are grouped together under the denomination of psychical research. Outside this, the pursuit is mainly archæological.
+@11	In my DOCTRINE AND LITERATURE OF THE KABALAH, 1902, I indicated that we do not get much help in the study of SEPHER YETZIRAH from the work of modern scholarship which is not of the occult kind, and it is obvious from what has been said that the latter is no source of light. Even at this day the JEWISH ENcycLop&DIA describes the tract as devoted to speculations concerning God and the angels—surely a *very* loose and incorrect account. Ginsburg, following Edersheim, HISTORY OF THE JEWISH PEOPLE, terms it a monologue on the part of Abraham. an inexact inference arising from the last paragraph, to which I have alluded already as unauthentic in the opinion of Mr Stenring, while it is regarded by Mordell as in perfect harmony with all the original material. He affirms, however, that it does not represent Abraham as author of the text itself, but rather as inventor of the alphabet. It is an obscure question, for the text itself is obscure, but it seems necessary to recognise that there is a dual tradition in Kabalistic Jewry according to which (1) Abraham wrote the SEPHER YETZIRAH, the reason being given by A. Saadya, namely, to defend the unity of God against the dualists and tritheists of Babylon but alternatively (2) it was committed by God into the patriarch’s hands, as a bride is given to her husband.:
+@12	Mr Stenring accepts the authorship of Rabbi Akiba as if it were of common recognition in historical criticism or as if there were actual evidence, and he has the authority of Professor Schiller-Sznessy; but it was challenged by Moses of Cordova in the sixteenth century, and Mr Mordell does something to shew that the attribution arose through a misconception. He is disposed on his own part to refer the original portion to a pre-Talmudic period and the additamenta to an undetermined date between A.p. 750 and 931. The unknown author of a commentary on the SEPHER preserved in the Bodleian and referred to the thirteenth century ascribes it to Joseph ben Uzziel by revelation of the prophet Jeremiah—meaning apparently that Joseph was the latter’s disciple—or according to another codex by communication from Joseph’s grandfather Ben Sira, he being the alleged grandson of Jeremiah and one of the supposed authors of Ecclesiasticus. Hereof is some part only of traditional ascriptions and at this it may be left, as neither date nor authorship is likely to reach a settlement. It remains that the text enforces the supreme unity of God and His direct work in creation. Its chief “occult” aspect is the implied virtue resident in Divine Names, with which the deep and the height were sealed; but this connotes for myself a crude recognition of Divine Immanence in the universe. From another point of view the conception belongs to conventional Magic of the so-called practical kind, and I have dealt with the archæology of this subject in other writings. Its roots are remote in the past and its last developments are in Grimoires and Little Alberts. The occult student of modern times is not likely to attempt operations of a ceremonial kind with the aid of Tetragrammaton and its permutations, but Divine Names suggest numerical mysticism, which opens a wide field.
+@13	Mr Stenring institutes a comparison between the twenty-two letters of the Hebrew alphabet and the numerically corresponding symbols which constitute the Trumps Major of the Tarot cards. We owe this analogy to the ingenuity, such as it was, of Éliphas Lévi, who offered it for the acceptance of occultists in the RITUEL DE LA HAUTE MAGIE, 1856, claiming high authority and credit for the revelation of a great arcanum. As Mr Stenring offers us a new arrangement, which differs altogether from that of the French Magus, it is desirable to compare them for the benefit of those who are drawn to the old picture-symbols. The correspondences of Lévi are, however, arbitrary and recall his statements that the APOCALYPSE of St John and the TABLEAU NATUREL of Saint-Martin are based on the traditional sequence of the Trumps Major, his only evidence being that these widely divergent works are each divided into twenty-two chapters or sections—that of the first being of course an arrangement of early editors of the New Testament canon. Lévi’s attribution was as follows: (1) *Aleph* = The Juggler, otherwise Magus; (2) *Beth* = The Female Pope, or High Priestess; (3) *Gimel* = The Empress; (4) *Daleth* = The Emperor; (5) *He* = The Pope, otherwise Hierophant; (6) *Vau* = The Lovers; (7) *Zayin* = The Chariot; (8) *Cheth* = Justice; (9) *Teth* = The Hermit, or Capuchin; (10) *Yod* = The Wheel of Fortune; (11) *Caph* = Strength; (12) *Lamed* = The Hanged Man; (13) *Mem* = Death; (14) *Nun* = Temperance; (15) *Samekh* = The Devil; (16) *Ayin* = The Tower; (17) *Pe* = The Star; (18) *Tzaddi* = The Moon; (19) *Quoph* = The Sun; (20) *Resh* = The Last Judgment; (21) *Shin* = The Fool; (22) *Tau* = The World. Now, it is to be observed that the Fool = 0 in the Tarot sequence, but the letter *Shin* = 300 in the numerology of the Hebrew alphabet, so that in Lévi’s arrangement the correspondence is to this extent voided.
+@13	The proper placing of the Tarot Fool is the great crux of every attempt—and there are several—to create a correspondence between the Trumps Major and the Hebrew letters. If it be worth while to say so, the correct sequence, which emerges from unexpected considerations, has never appeared in print, and it is not to be confused with a Victorian allocation now well known, but which used to be regarded as important: it referred the cipher-card to *Aleph*, and therefore to the number one, so that we are confronted by the strange analogy of 0 = 1, the alternative being—as we have seen—that 0 = 300, otherwise 21 in the alphabetical order.
+@14	Mr Stenring’s arrangement begins by referring the Tarot Minor Arcana to the Ten *Sephiroth* in the following order: (1) *Sephiral* = *Kether*, the Crown = The Four Aces; (2) *Sephira* II = *Chokmah*, Wisdom = The Four Twos;; (3) *Sephira* III = *Binah*, Understanding = The Four Threes; (4) *Sephira* IV = *Chesed*, Mercy = The Four Fours; (5) *Sephira* V = Geburah, Severity = The Four Fives; (6) *Sephira* VI = *Tiphereth*, Beauty = The Four Sixes; (7) *Sephira* VII = *Netzach*, Victory — The Four Sevens; (8) *Sephira* VIII = *Hod*, Glory = The Four Eights; (9) *Sephira* IX = *Yesod*, Foundation = The Four Nines; (10) *Sephira* X = *Malkuth*, The Kingdom = The Four Tens. It is to be observed that these allocations are derived from Lévi in his DOGME DE LA HAUTE MAGIE, 1854. See my translation, TRANSCENDENTAL MAGIC, ete., second edition, pp- 126,127. The Trump cards of the Four Suits are referred by Mr Stenring to the Four Letters of Tetragrammaton: *Yod* = King in each suit; *He* primal = Queen; *Vau* = Knight; and *He* final = Page, Knave or Jack. Lévi missed this obvious correspondence, referring the Four Letters generally to the suits themselves. I should mention that the names of the Sephiroth are found in the ZOHAR but not in the SEPHER YETZIRAH and not in the Patras or Wispou.
+@14	So far as regards the Lesser Tarot Symbols and now in respect of the Trumps Major, Mr Stenring allocates as follows: (1) Three Mother Letters = *Aleph, Mem, Shin* = Juggler, World, Devil; (2) Seven Double Letters = *Beth, Gimel, Daleth, Caph, Pe, Resh, Taw* = Sun, Moon, Chariot, Death, Hierophant, Star, Hanged Man; (3) Twelve Simple Letters = *He, Vau, Zayin, Cheth, Teth, Yod, Lamed, Nun, Samekh, Ayin, Tzaddi, Quoph* = Empress, Emperor, High Priestess, Strength, Temperance, Lovers, Justice, Wheel of Fortune, Tower, Fool, Hermit, Judgment.
+@14	The natural sequence of Letters and Trumps Major works out therefore thus: (1) *Aleph* = Juggler; (2) *Beth* = Sun; (3) *Gimel* = Moon; (4) *Daleth* = Chariot; (5) *He* = Empress; (6) *Vau* = Emperor; (7) *Zayin* = High Priestess; (8) *Cheth* = Strength; (9) *Teeth* = Temperance; (10) *Yod* = Lovers; (11) *Caph* = Death; (12) *Lamed* = Justice; (13) *Mem* = World; (14) *Nun* = Wheel of Fortune; (15) *Samekh* = Tower; (16) *Ayin* = Fool; (17) *Pe* = Pope or Hierophant; (18) *Tzaddi* = Hermit; (19) *Quoph* = Judgment; (20) *Resh* = Star; (21) *Shin* = Devil; (22) *Tau* = Hanged Man.
+@15	It will be seen that in this arrangement the Cipher Card is brought into correspondence with a Letter, the numerical value of which is 70 in Hebrew numeration. It should be noted further that in the Pats or Wispoum those which are numbered 11 to 32, both inclusive, have been referred by Kircher and others to their alphabetical correspondences according to the natural sequence of Letters; but in Mr Stenring’s rearrangement—which deserves study—they are distributed according to the divisions of Mothers, Doubles and Simples, the titles of the Paths remaining unaltered, except in so far as Mr Stenring has transposed two of my own attributions made in the remote past and drawn at the time—if I remember rightly—from the classification adopted by a certain occult school. It should be understood that the attributions vary both in arrangement and titles in different codices. Those of Mr Stenring, Dr Westcott and myself may be compared with the enumeration of the Comtesse de Cimara on pp. 7, 8 of her French translation.
+@15	Mr Stenring claims (p. 26) that the Yetziratic meanings of Letters have enabled him to place the Tarot Trumps Major “in their original and proper order,” referring no doubt to their redistribution in accordance with the triple division of the Hebrew alphabet. The correspondences of the Seven Doubles according to the SEPHER are Life, Peace, Wisdom, Wealth, Grace, Fruitfulness and Dominion, and according to Mr Stenring their Tarot correspondence are Sun, Moon, Chariot, Death, Hierophant, Star and Hanged Man. We may say that the Sun is Life, and astrologically we may connect the Moon with Peace, but I must leave to those who can discern them the analogies between Death and Wealth or the Hanged Man and Dominion. We get in fact the same kind of result throughout as would follow on a comparison of Tarot symbols with the traditional significations attached to the names of Hebrew letters as set forth in Table I. Accordingly, following Mr Stenring’s arrangement, the Juggler answers to an Ox, the Moon-card to a Camel, the High Priestess to a Sword, Temperance to a Serpent, Death to the Palm of a Hand, the Hermit to a FishingHook and the Devil to a Tooth. It may be well to add that I am not to be included among those who are satisfied that there is a valid correspondence between Hebrew letters and Tarot Trump symbols. But Mr Stenring’s arrangement seems to me wrought with exceeding care, and I have tabulated it therefore at length for the convenience of those who think otherwise.
+@16	As the GATES OF UNDERSTANDING are mentioned (p. 25), it may be said that they are exceedingly late, at least in their extant form, which is that of a treatise entitled GATES OF LIGHT, by R. Joseph Gikatilla ben Abraham (1248-1305 or later). I have explained elsewhere—DOCTRINE AND LITERATURE OF THE KABALAH, p. 73—that they begin with the First Matter, proceed through the putative elements to composite substances, thence to organic life, human nature, the heaven of the planets, that of the fixed stars, the *primum mobile*, the angelical orders, and finally to the archetypal world, unseen by mortal eye. There is no doubt that this is R. Joseph, developing Zoharic intimations into a conventional system. For the ZOHAR has references to the Fifty Gates, but they convey very different impressions. Those who are curious concerning them may consult my SECRET DOCTRINE IN ISRAEL, p. 251, where they are collected together. According to the great storehouse of rabbinical theosophy, (1) those who study the Law open the GATES OF BINAH; (2) they are Gates of Salvation; (3) they are in the region of the Supreme Mother, otherwise that Shekinah in Transcendence who gives power to the Mother below, and she is the Shekinah in manifestation; (4) they are also Gates of Compassion, and the last of all, leading from *Binah* to *Chokmah*, or from Supernal Understanding to Supernal Wisdom, was not opened by Moses, because he was in separation from his wife. To realise all that is implied by the last statement, for the fact of which there is authority in the TALMUD, it must be understood that the high intent of the ZOHAR is fixed upon what is called the Mystery of Faith, and this is a Mystery of Sex. In the last resource it is the Mystery of Union between Jehovah and Elohim, or God and His Shekinah, represented by JOD, HE in the Divine Name. Mr Stenring points out that the number 50 is written in Hebrew with the letters KL = All, and he remembers no doubt the allusions to this word in the GATES OF LIGHT. But in the ZOHAR, because of the Mystery of Union, the number of the Gates is obtained by the multiplication of Yod = 10 and He = 5 = 50. It follows that in Zoharic understanding the Gates are Gates of Union, and those who study the Law shall pass thereby into the term thereof.
+@16	A. E. WAITE.
+@part	Translator's Note
+@17	THE ““Book of Formation” embodies the fundamental part of the secret learning, or Kabala, of the Jews. This tradition (Kabala means ‘““to hand down”’) was probably never put into writing until Rabbi Akiba ben Joseph produced the “Book of Formation,” or ‘‘Book of Numbers and Letters,” in the second century after Christ. In order to render his work unintelligible for the profane he used a veiled language, and expressed himself in riddles and conundrums. Owing to this mysterious language the book has been misunderstood, and the philosophical and magical system of the Kabala classified as unreasonable.
+@17	“The present version of ‘Sepher Yetzirah” is a word-for-word translation from the Hebrew, and a list of the texts used for this purpose will be found on the last page. Those portions of the text which we regard as genuine are printed in ordinary type, and the spurious passages in italics. Words placed within brackets are additions or renderings made by us.
+@17	The student is advised to make himself acquainted with the genuine verses of ‘“Sepher Yetzirah “and the illustrative notes thereon before he proceeds to “The 32 Paths of Wisdom.”
+@17	It is hoped that the elucidations provided in the notes will not only reawaken interest in the text itself but in Kabalistic philosophy at large and lead to a much-needed renaissance of occultism.
+@17	KNUT STENRING.
+@17	HELSINGBORG, SWEDEN, 1923.
+@17	17 2
+@19	TABLE I.—HEBREW AND CHALDEE LETTERS 10 11 12 13 14 15 16 17 18 19 20 22
+@19	Su
+@19	oS
+@19	DR . . .
+@19	*Power. olebrew* and *Numerical value*. § S *Name*. Sig eon
+@19	SE
+@19	Mother | x 1 A Aleph | Ox.
+@19	Double | 4 2 B Beth House.
+@19	Double | 3 3 G Gimel | Camel.
+@19	Double | = 4 D Daleth | Door.
+@19	Simple | 7 5 H He Window.
+@19	Simple | | 6 AY Vau Peg, nail.
+@19	Simple | 7 Z Zayin | Weapon,
+@19	sword.
+@19	Simple | pm 8 Ch | Cheth | Enclosure,
+@19	fence.
+@19	Simple | » 9 T Teth Serpent.
+@19	Simple | 10 I Yod Hand.
+@19	JS 20 K Palm of
+@19	Double { Final— | Final—s00 |Kf f| “PM |" “the hand.
+@19	Simple | § 30 L Lamed |Ox-goad.
+@19	adn 40 M |
+@19	Mother Final—p Final—G00 |Mf Mem Water.
+@19	- Sa 50 N 14 .
+@19	Simple 19 “Final; Final—700 |Nf | Nun | Fish.
+@19	Simple | p 60 S Samekh | Prop,
+@19	support.
+@19	Simple | y 70 0] Ayin Eye.
+@19	a) 80 Pp
+@19	Double { Final Final—800 |Pf Pe Mouth.
+@19	Se 90 Tz . | Fishing-
+@19	Simple { Final—p Final—900 |Tzf | 12341 |" hook,
+@19	Simple | p 100 Q Qoph Back of
+@19	the head.
+@19	Double | 5 200 R Resh Head.
+@19	Mother | w 300 Sh Shin Tooth.
+@19	Double | n 400 Th | Tau Sign of the
+@19	cross.
+@19	With *the exception of the second column, this table is according to S. L. MacGregor*
+@19	*Mathers*.
+@part	Chapter I
+@21	1. In thirty-two mysterious paths of wisdom did the Lord write, *the Lord of Hosts, the God of Israel, the Living Elohim, and King of the Universe, the Almighty, Merciful, and Gracious God; He is great and exalted and eternally dwelling in the Height, His name is holy, He is exalted and holy*. He created His Universe by the three forms of expression: Numbers, Letters, and Words.
+@21	2. Ten ineffable Sephiroth and twenty-two basal letters: three mothers, seven double, and twelve simple (letters).
+@21	3. Ten ineffable Sephiroth, corresponding to the ten fingers, five (over) against five and the only token of the covenant in the middle: the word of the tongue and (the circumcision) of the flesh.
+@21	4. Ten ineffable Sephiroth, ten and not nine, ten and not eleven: understand with wisdom and apprehend with care; examine by means of them and search them out; *know, count, and write*. Put forth the subject in its light and place the Formator on His throne. He is the only Creator and the only Formator, and no one exists but He: His attributes are ten and have no limits.
+@21	5. The ineffable Sephiroth: their totality is ten; they are, however, without limits: the infinity of the Beginning and the infinity of the End, the infinity of the Good and the infinity of the Evil, the infinity of the Height and the infinity of the Depth, the infinity of the East and the infinity of the West, the infinity of (the) North and the infinity of (the) South; *and only one Lord God, the trusty King, rules them all from His holy dwelling in all eternity*.
+@21	6. Ten ineffable Sephiroth: their appearance is like that of a flash of lightning, their goal is infinite. His word is in them when they emanate and when they return; at His bidding do they haste like a whirlwind; and before His throne do they prostrate (themselves).
+@22	7. Ten ineffable Sephiroth: their end is in their beginning and likewise their beginning in their end, as the flame is bound to the burning coal. *Know, count, and write*. The Lord is one and the Formator is one and hath no second (beside Him): what number canst thou count before one?
+@22	8. Ten ineffable Sephiroth: close thy mouth lest it speak and thy heart lest it think; and if thy mouth openeth for utterance and thy heart turneth toward thought, bring them back (to thy control). LMQVMS, *therefore it is written*: “*And the living creatures ran and returned*” (Ezekiel i. 14); and hence was the covenant made.
+@22	9. Ten ineffable Sephiroth:
+@22	One—The Spirit of the Living Elohim, His throne is erected in eternity, *blessed and praised be His name, the Living God of ages, eternal and forever; Voice, Spirit, and Word: this is the Spirit of the Holy One. His beginning hath no beginning and His end hath no ending*.
+@22	10. Two—Air from Spirit: He wrote and formed therein twenty-two basal letters; three mothers, seven double, and twelve simple.
+@22	11. Three—Water from Air: He wrote and formed therein twenty-two letters, from the formless and void—mire and clay; He designed them as a platband, He hewed them as a wall, He covered them as a building, He poured snow over them and it became earth, *even as it is written*: “*He saith to the snow: Be thou the earth*” (Job xxxvii. 6).
+@22	12. Four—Fire from Water: and He designed and cut thereof the Throne of Glory: Seraphim, Ophanim, the Holy Animals, the Ministering Angels; and with these three He founded His dwelling. *Therefore it is written*: “*He maketh His angels spirits and His ministers a flaming fire*” (Ps. civ. 4).
+@22	13. He chose three of the simple letters, a secret belonging to the three mothers, wmn=A M Sh, and put them in His Great Name and sealed with them six extensions.
+@22	Five—He scaled the Height stretched upwards and sealed it with yr =THV.
+@22	Six—He sealed the Depth stretched downwards and sealed it with mm =1IVH.
+@22	Seven—He sealed the East stretched forwards and sealed it with v7 =HIV.
+@22	Eight—He sealed the West stretched backwards and sealed it with wi =HVIL
+@23	Nine—He sealed the (North) stretched to the right and sealed it with im =VIH.
+@23	Ten—He sealed the (South) stretched to the left and sealed it with vm = VHL
+@23	14. *These are the ten ineffable Sephiroth: one*—*the Spirit of the Living Elohim; two*—*Air from Spirit; three*—Water *from Air; four*—*Fire from Water; Height, Depth, East, West, North, and South*.
+@part	Chapter II
+@24	1. TWENTY-Two basal letters: three mothers, seven double, and twelve simple. *Three mothers*: won=d4 *M Sh, their foundation: the scale of Merit and the scale of Guilt, and the tongue is* (an) *equilibrating law between the two. Three mothers: AM Sh*—*M is mute, Sh is sibilant, and A equilibrates the two*.
+@24	2. Twenty-two basal letters: He designed them, He formed them, He purified them, He weighed them, and He exchanged them, each one with all; He formed by means of them the whole creation and everything that should be created (subsequently).
+@24	3. *Twenty-two basal letters: three mothers, seven double, and twelve simple; they are designed in the voice, formed in the air and set in the mouth at five places*.
+@24	*The letters*: yn *=4d H Ch O at the throat*,
+@24	*pm=GIKRQ at the palate*,
+@24	*mbva=B T L N Th at the tongue*,
+@24	vor =27Z *8S Tz R Sk at the teeth*,
+@24	pi=DV *MP at the lips*.
+@24	4. Twenty-two basal letters: they are placed together in a ring, as a wall with two hundred and thirty-one gates. The ring may be put in rotation forwards or backwards and its token is this: Nothing excels 23y= ONG ( =pleasure) in good, and nothing excels y13 = NGO ( =plague) in evil.
+@24	5. How did He combine, weigh, and exchange them? A with all and all with A; B with all and all with B; G with all and all with G; and all of them turned round. Hence they go forth through two hundred and thirty-one gates, and thus it comes about that the whole creation and all language proceed from one combination of letters.
+@24	6. He created from the formless and made the non-existent exist; and He formed large columns out of intangible air. This is the token: He beheld, exchanged, and brought forth the whole creation and all objects (by means of) one combination of letters, the token of which is twenty-two objects in one body.
+@part	Chapter III
+@25	1. Three mothers: won =A M Sh. Their foundation is: the scale of Merit and the scale of Guilt, and the tongue is (an) equilibrating law between the two.
+@25	2. Three mothers: A M Sh. Thisis a great, recondite, hidden, and precious secret, sealed with six seals, and from these (A M Sh) proceeded Air, Water, and Fire. *Fathers were produced by them, and from the fathers (descend) the generations*.
+@25	3. Three mothers: AM Sh. He designed, formed, purified, weighed, and exchanged them; and by means of them He brought forth three mothers in the Universe, three mothers in the Year, three mothers in Man, *male and female*.
+@25	4. *Three mothers: AM Sh*—*Fire, Air, and Water. The heavens are produced from I'ire, the wind is produced from Air, and the earth is produced from Water: the Fire above and the Water below, and the Air is* (an) *equilibrating law between the two; by them were the fathers brought forth, and by them were all things produced*.!
+@25	5. Three mothers: AM Sh in the Universe—Air, Water, and Fire. The heavens were in the beginning produced from Fire, the earth from Water, and the wind from Air, which thus equilibrates the two.
+@25	6. Three mothers: AM Sh in the Year—the cold, the heat, and the temperate state. The heat was produced from Fire, the cold from Water, and the temperate state from Air, which thus equilibrates the two.
+@25	7. Three mothers: AM Sh in Man—the head, the belly, and the chest. The head was produced from Fire, the belly from Water, and the chest from Air, which thus equilibrates the two.
+@25	8. He caused the letter A to reign in Air, bound a crown upon it and fused them together. He produced by means of them: the atmosphere in the Universe, the temperate state in the Year, and the chest in Man, *male and female*.
+@25	9. He caused the letter M to reign in Water, bound a crown upon it and fused them together. He produced by means of them the earth in the Universe, the cold in the Year, and the belly in Man, *male and female*.
+@26	10. He caused the letter Sh to reign in Fire, bound a crown upon it and fused them together. He produced by means of them the heavens in the Universe, the heat in the Year, and the head in Man, *male and female*.
+@part	Chapter IV
+@27	CHAPTER 1V
+@27	1. Seven double (letters): mw>ma=B G D K P R Th. Their foundation is: Life, Peace, Wisdom, Wealth, Beauty, Fruitfulness, and Dominion.
+@27	2. Seven double: B GD KP R Th. They are pronounced intwoways: BB,GG, DD, KK,PP,RR, Th Th: according to the form of the soft and hard, the strong and weak breathing.
+@27	3. Seven double: B G D K P R Th, according to pronunciation and permutation: contrary to Life is Death, contrary to Peace is Misfortune, contrary to Wisdom is Folly, contrary to Wealth is Poverty, contrary to Beauty is Ugliness, contrary to Fruitfulness is Devastation, contrary to Dominion is Slavery.
+@27	4. Seven double: B G D K P R Th, Height, Depth, East, West, North, and South, and the Holy Palace in the middle, which sustains them all.
+@27	5. *Seven double: BGD K P R Th, seven and not siz, seven and not eight; examine and search out by means of them, bring the subject forth into light and place the Formator on His throne*.
+@27	6. Seven double: B G D K P Th. He designed, formed, purified, weighed, and exchanged them; He produced by means of them seven planets in the Universe, seven days in the Year, and seven gateways in Man; *and by means of them also He designed seven heavens, seven earths, and seven weeks. Therefore of all things under the heavens did He love the heptad*.
+@27	7. These are the seven planets in the Universe: Saturn, Jupiter, Mars, Sun, Venus, Mercury, Moon. These are the seven days in the Year; the seven days of the week; seven gateways in Man—two eyes, two ears, two nostrils, and the mouth.
+@27	8. He caused the letter B to reign in Wisdom, bound a crown upon it and fused them together. He produced by means of them: (the Sun) in the Universe, Sunday in the Year, and the right eye in Man, *male and female*.
+@27	9. He caused the letter G to reign in Wealth, bound a crown upon it and fused them together; He produced by means of them: (the Moon) in the Universe, Monday in the Year, and the left eye in Man, *male and female*.
+@28	10. He caused the letter D to reign in Fruitfulness, bound a crown upon it and fused them together. He produced by means of them: (Mars) in the Universe, Tuesday in the Year, and the right ear in Man, *male and female*.
+@28	11. He caused the letter K to reign in Life, bound a crown upon it and fused them together. He produced by means of them: (Mercury) in the Universe, Wednesday in the year, and the left car in Man. *male and female*.
+@28	12. He caused the letter P to reign in Dominion, bound a crown upon it and fused them together. He produced by means of them: (Jupiter) in the Universe, Thursday in the Year, and the right nostril in Man, *male and female*.
+@28	13. He caused the letter R to reign in Peace, bound a crown upon it and fused them together. He produced by means of them: (Venus) in the Universe, Friday in the Year, and the left nostril in Man, *male and female*.
+@28	14. He caused the letter Th to reign in Beauty, bound a crown upon it and fused them together. He produced by means of them: (Saturn) in the Universe, Saturday in the Year, and the mouth in Man, *male and female*.
+@28	15. *Seven double: BG D K P R Th. There were designed by means of them, seven earths, seven heavens, seven continents, seven seas, seven rivers, seven deserts, seven days, seven weeks, seven years, seven fallow-years, seven jubilees, and the Holy Palace: hence under all the heavens did He love the heptad*.
+@28	16. Seven double: BGD KP RTh. How did He fuse them together? Two stones build two houses, three stones build six houses. four stones build twenty-four houses, five stones build one hundred and twenty houses, six stones build seven hundred and twenty houses, seven stones build five thousand and forty houses. Make a beginning herefrom and calculate further what the mouth cannot pronounce and what the car cannot hear.
+@part	Chapter V
+@29	1. Twelve simple (letters): prvoy>wrmim=HVZChTILNSO Tz Q. Their foundation is: Sight, Hearing, Smell, Speech, Taste, Coition, Work, Movement, Wrath, Mirth, Meditation, Sleep.
+@29	2. Twelve simple: HVZ Ch TIL NS O Tz Q, twelve and not eleven, twelve and not thirteen. Their foundation corresponds to the twelve oblique angles (or directions): the NorthEast angle, the South-East angle, the above-East angle, the below-East angle, the above-North angle, the below-North angle, the North-West angle, the South-West angle, the above-West angle, the below-West angle, the above-South angle, the belowSouth angle. And they stretch out and diverge into infinity: *these are the arms of Universe*.
+@29	8. Twelvesimple: HVZChTILNSOTzQ. He designed, formed, purified, exchanged, and weighed them, and produced by means of them twelve zodiacal signs in the Universe, twelve months in the Year, and twelve chief (members) in Man, *male and female*.
+@29	4. Twelve zodiacal signs in the Universe: Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricornus, Aquarius, Pisces.
+@29	5. Twelve months in the Year: Nisan, Ijar, Sivan, Tamuz, “Abh, Elul, Tisri, Marhe$van, Kislev, Tebeth, Sebath, Adar.
+@29	6. Twelve chief (members) in Man, *male and female*: two hands, two feet, two kidneys, the liver, the spleen, the gall, the stomach, the colon, the bowels. *He made them according to the order of a battle, even one against the other made God*.
+@29	7. He caused the letter H to reign in Sight, bound a crown upon it and fused them together; He produced by means of them: Aries in the Universe, Nisan in the Year, and the right hand in man, *male and female*.
+@29	8. He caused the letter V to reign in Hearing, bound a crown upon it and fused them together; He produced by means of them: Taurus in the Universe, Ijar in the Year, and the left hand in Man, *male and female*.
+@30	9. He caused the letter Z to reign in Smell, bound a crown upon it and fused them together; He produced by means of them: Gemini in the Universe, Sivan in the Year, and the right foot in Man, *male and female*.
+@30	10. He caused the letter Ch to reign in Speech, bound a crown upon it and fused them together; He produced by means of them: Cancer in the Universe, Tamuz in the Year, and the left foot in Man, *male and female*.
+@30	11. He caused the letter T to reign in Taste, bound a crown upon it and fused them together; He produced by means of them: Leo in the Universe, Abh in the Year, and the right kidney in Man, *male and female*.
+@30	12. He caused the letter I to reign in Coition, bound a crown upon it and fused them together; He produced by means of them: Virgo in the Universe, Elul in the Year, and the left kidney in Man, *male and female*.
+@30	13. He caused the letter L to reign in Work, bound a crown upon it and fused them together; He produced by means of them: Libra in the Universe, Tisri in the Year, and the liver in Man, *male and female*.
+@30	14. He caused the letter N to reign in Movement, bound a crown upon it and fused them together; He produced by means of them: Scorpio in the Universe, Marhesvan in the Year. and the spleen in Man, *male and female*.
+@30	15. He caused the letter S to reign in Wrath, bound a crown upon it and fused them together; He produced by means of them: Sagittarius in the Universe, Kislev in the Year, and the gall in Man, *male and female*.
+@30	16. He caused the letter O to reign in Mirth, bound a crown upon it and fused them together; He produced by means of them: Capricornus in the Universe, Tebeth in the Year, and the stomach in Man, *male and female*.
+@30	17. He caused the letter Tz to reign in Meditation, bound a crown upon it and fused them together;; He produced by means of them: Aquarius in the Universe, Sebath in the Year, and the colon in Man, *male and female*.
+@30	18. He caused the letter Q to reign in Sleep, bound a crown upon it and fused them together; He produced by means of them: Pisces in the Universe, Adar in the Year, and the bowels in Man, *male and female*.
+@30	19. He made them according to the art of warfare, arranged them as a wall, and armed them as for battle.
+@part	Chapter VI
+@31	1. There are three mothers, *that are three fathers*; from them proceed Fire, Air, and Water. Three mothers, seven double, and twelve simple.
+@31	2. (AMSh, BGDKPRTh, HVZChTIL NS O Tz Q). These are the twenty-two letters by means of which the Holy (One), *blessed be He, the Lord, the Lord of Hosts, the Living Elohim, the God of Israel*, hath founded (everything). *He ts great and exalted, the One Who dwelleth (in the Height) eternally. His name 1s exalted and holy; He is exalted and holy*.
+@31	3. A proof of this and true tokens are: the Universe, the Year, and Man. Twelve are beneath, seven upon these, and three upon the seven. From the three He founded His dwelling and everything proceeds from one. This is a token that He is One and hath no second (beside Him). He is the only King in the Universe, He is one and His name is One.
+@31	4. The numbers of the Universe are ten (and twelve); a proof of this and true tokens are: *the Universe, the* Year, *and Man*; Fire, Air, and Water, seven planets and twelve zodiacal signs.
+@31	The numbers of the Year are ten (and twelve): cold, heat, and the temperate state, seven days and twelve months.
+@31	The numbers of Man are ten and twelve: head, belly, and breast, seven gateways and twelve chief members.
+@31	5. *These are the three mothers: AM Sh; from these proceeded fathers, and from the fathers (descend) generations. Three fathers and their generations, seven planets and their hosts, and twelve oblique angles. A proof of this and true tokens are: the Universe, the* Year, *and Man*.
+@31	6. Alawis: the dodecad, the heptad, and the triad; their commissioners are: the dragon, the (celestial) sphere, and the heart.
+@31	7. *Three mothers, AM Sh*—*Air, Water, and Fire; Fire above, Water below, and the Air is an equilibrating law between the two. The token is: the Fire carries the Water*; Mis *mute, Sh is sibilant, and A is an equilibrating law between the two*.
+@31	8. The dragon in the Universe is like a king on his throne; the (celestial) sphere in the Year is like a king in a province; the heart (in Man) is like a king in warfare.
+@32	9. God hath also set one thing against the other; the good against the evil and the evil against the good, good from good and evil from evil; the good marks out the evil and the evil marks out the good; good is reserved for the good ones and evil is reserved for the evil ones.
+@32	10. Three: each one stands alone for himself; one merited, one loaded with guilt, and one equilibrating between the two.
+@32	11. Seven are divided, three against three and one is equilibrating between the two groups.
+@32	12. Twelve are in warfare, *three friends and three enemies, three life-givers, three destroyers*.
+@32	13. *Three friends: the heart and the ears; three enemies: the gall, the tongue, and the liver; three life-givers: the two nostrils and the spleen; three destroyers: the two (lower) apertures and the mouth; and God, a trusty King, ruleth them all from His holy place in all eternity*.
+@32	14. One over three, three over seven, seven over twelve, and all are joined one to the other, a token of which is twenty-two objects in one body.
+@32	15. (A M Sh
+@32	BGDKPRTh
+@32	HVZChTILNSOTzQ.) These arc the twenty-two letters by means of which mms = AHIH, m= *IH*, mm *=IHVH*, onbs = *ALHIM*, mm obs = *ALHIM IHVH*, mwae mim *=IHVH TzBAV Th*, max onion = *ALHIM T:BAVTh, Sx=AL, ~tw=ShDI*, 2x *mm=IHVH ADNI*, hath designed (all); He made three numbers of them and formed His whole world of them; by means of them He formed the whole creation and all that shall yet be created.
+@32	16. *And when our father Abraham, peace be with him, had come, he beheld, contemplated, studied, and understood this; he formed and designed till he had reached it, then the Lord of the Universe, blessed be His name, appeared to him. He took him to His bosom and kissed him on his head and called him Abraham His friend; He made a covenant with him and his children*, “*therefore it is written*: “*He had faith in the Lord.” This was ascribed to him justly. He (the Lord) put the token of the covenant between his (Abraham’s) hands, that is, the longue; and between the feet, that is, the circumcision. He bound the twenty-two letters of the Thora to his tongue, and the Holy One, blessed be He, un- veiled to him His secret. He let them (the letters) soak in Water, burn in Fire, and sway in the Air; He let them shine in the seven stars and lead in the twelve zodiacal signs*.
+@part	Notes
+@36	“The Book of Formation.—m7 2 900 = SPR ITzIRH (” Sepher Yetzirah 7’). .
+@36	Book.—SPR =book, letter.
+@36	Formation.—ITzIRH =formation, creation (Gen. ii. 7).
+@36	After setting aside provisionally those portions of ‘‘Sepher Yetzirah “which, on account of their content, we have come to regard as spurious, it was found that 72 verses remained, and may be taken to constitute the original text, as written by Rabbi Akiba. The old mystics sought to harmonise the outer form of a book with its inward significance, and the number 72 is in perfect correspondence with the subject-matter of ‘“Sepher Yetzirah,” because it can be derived from the name of the Lord in the following manner: IHVH, IHV, IH, I (10 +5 +6 +5) +(10 +5 +6) +(10+5)+10=72. (Comp. the Schemahamphorasch, Exod. xiv. 19, 20, 21.)
+@36	CHAPTER 1
+@36	The main subject in this chapter is The Ten Sephiroth, the transcendental nature of which may be termed obvious. See Table II.
+@36	I. 1. 32 paths of wisdom.—nw55 mana 25 = LB NTHIBVTh PLIAVTh.
+@36	wisdom.—PLIAVTh =mystical wisdom.
+@36	In the Biblical narrative of the creation (Gen. i.) the name of Elohim is mentioned 32 times. 32 =LB in Hebrew characters, and signifies “Heart,” a symbol of spirituality and intelligence.
+@36	*Considering the Mind of man as a faint reflex of the Universal Mind, which is God, it follows that any human idea is the vague image of a perfect idea, which is of God. Man endeavours to idealise this dim mind-picture, and the result is a symbol which, so Jar as human intelligence can reach, will be in the likeness of the perfect idea. Man cannot think without the use of symbols*.
+@36	The 32 Paths of Wisdom are 32 notions which comprehend the whole creation. Under these fundamental ideas all that exists is classified. When the Lord wrote a ‘“Number”’ or a “Letter,” in each of these paths forces were created “from “which everything was formed. By means of their symbols — otherwise “Numbers > and “Letters”—these forces became apprehensible for the human Mind. Thus, by means of their numbers and names (their symbols) they can be communicated “to holy men, after long toil, long experience of divine things, and long meditation thereon.” To reach an absolute knowledge of only one of these mystical paths of divine wisdom is, however, impossible for the human mind. He who endeavours to climb to these supreme heights of wisdom must first pass through “The 50 Gates of Understanding.” In other words, He must acquire an encyclopzdic knowledge of all sciences. 50, in Hebrew characters KL, means “All.” (153 *=K L H =the bride of Microprosopus. K NST L, Ecclesia Israel, Zion, the Holy Palace. See Notes IV*. 4.)
+@37	I. i. the Lord.—m =IH =Kurios (Gr.), Dominus (Lat.). (Ps. Ixviii. 4.)
+@37	This name is the first half of Tetragrammaton, mm =IHVH, the name that must not be pronounced.
+@37	The Lord of hosts.—nax mm = IHVH TzBAVTh (Ps. xxiv. 10).
+@37	The God (of Israel).—o 5x = ALHIM =the “strong” God (of Israel).
+@37	The Living Elohim.—o™r owibs = ALHIMf ChIIMf = the Living Elohim, the Elohim of Life.
+@37	ALHIM( is a plural form, and is by some Kabalists supposed to be the seven forces that emanated from the only God in order to control the manifested world, “Terra viventium” (?). By others it is thought to be an expression for the Trinity of God as found in late Christianity (?).
+@37	God.—5x = AL =God, strong.
+@37	Numbers, Letters, and Words.—oo1 oo) 901 = BSPR VSPR (or VSVPR) VSPVR.
+@37	These words are undoubtedly derived from the same root, viz. 200 = SPR =book, letter, numbering, word, sound (2 Chron. ii. 17).
+@37	Pistorius ~~ gives: scriptis, numeratis, pronunciatis.
+@37	Postellus ,» . humerans, numerus, numeratus.
+@37	Rittangelius ,, numero, numerante, numerato.
+@37	Goldschmidt ,, Zahl, Zihler, Gezihltes.
+@37	Cimara’s I’Ecriture, le Nombre, la Parole.
+@37	Westcott . Numbers, Letters, Sounds.
+@37	Stenring vs Numbers, Letters, Words.
+@38	Numbers signify transcendental forces, *i.e*., the ten Sephiroth. Letters signify basal forces, and these are twenty-two. Words signify the combination of forces, *i.c*., the two hundred and thirty-one gates (““S. Y.,” Chapter II. 4 and 5). These three forms of expression are the symbols of “Prima Faktora.”
+@38	I. 2. Sephiroth.—nypo = SPIRVTh =number.
+@38	=it can be a deriva-
+@38	tion from *odaipa*
+@38	(Gr.), Sphere.
+@38	=predicationes logicee
+@38	(Buxtorf).
+@38	=spiritus (Lat.) (West-
+@38	cott).
+@38	ineffable Sephiroth.—(7wy = OShR) fim51 myoo = SPIRVTh BLIMH (Job xxvi. 7).
+@38	Pistorius gives: præter ineffabile.
+@38	Postellus’ belimah Sephiroth.
+@38	Rittangelius ,, præter illud ineffabile.
+@38	Goldschmidt ,, Zahlen ohne etwas.
+@38	Cimara ve Séphiroths ineffables.
+@38	Westcott »» ineffable Sephiroth.
+@38	Twenty-two basal letters are twenty-two creating ideas or forces which human intelligence has symbolised in the “Book of Thoth,” or the major trump cards of Tarot. The Hebrew letters which in Kabalism are used as symbols of these 32 creating ideas are, in fact, the trump cards of Tarot. The meaning which ‘Sepher Yetzirah” assigns to each letter has enabled us to place the Tarot-cards in their original and proper order, being that of the Paths of Wisdom.
+@38	I. 8. Theliteral translation of the last part of this verse is as follows: “and the only token in the middle—r5n = MILH—of the tongue and of membrum virile.” MILH =(has a double meaning) word, circumcision.
+@38	The covenant that God made with Abraham (Gen. xvii.) had one spiritual and one material aspect. The token of the covenant had also one spiritual and one material aspect. The spiritual aspect of the token was the word of the tongue: “Neither shall thy name any more be ABRM, but thy name shall be ABRHM.” This was the sign of God to make a great people of Abraham and his seed. The material aspect of the token was the circumcision of the flesh: ‘“And ye shall circumcise the flesh of your foreskin.” This was the sign of Abraham’s and his seed’s obedience to God and His commandments.
+@39	I. 4. throne, place.
+@39	I. 5. infinity.—OVMQ, *or* (OMQ) =infinity, profoundness.
+@39	Good.—y = ONG =good, pleasure. ,.,’
+@39	Evil.—1 = NGO =evil, plague. h §.Y.,” IL 4.)
+@39	Height.—ov = RVMS.
+@39	Depth.—pny = OMQ, *or* (OVMQ). (MTH.)
+@39	East.—rmn = MZRCh.
+@39	West.—2wwn = MORB.
+@39	North.—ox = TzPVN{.
+@39	South.—om71=DRVM{.
+@39	Lord.—Tm mm =IHID. 10+4+5+10+4=29. 2+9=11=10-}1. *The Sephiroticforces plus the force of Union. Ten in one (Fig*. 1).
+@39	God.—5x=AL. (NotesI. 1.)
+@39	I. 6. flash of lightning.—The ten Sephiroth are often tabulated along a zigzag line.
+@39	emanate.—go out. On this verse rests the Sephirotic emanation theory which is further developed in Zohar.
+@39	I. 7. Their end is in their beginning and likewise their beginning in their end.—This signifies the transcendental nature of the 10 Sephiroth (Fig. 1).
+@39	the Lord.—7 7 = IHID. (Notes I. 5.)
+@39	I. 8. Rabbi Akiba utters a warning against vain talk about the 10 ineffable Sephiroth and loose speculations on their nature, but, at the same time, he points out that the covenant was made by means of self-control and concentration of thought. This verse forms an introduction to the following five verses:—
+@39	LMQVM{.—? (oypn = MQVMS = place, location, spot.)
+@39	I. 9. Spirit.—rm = RVCh =spirit, air.
+@39	the Living Elohim. (Notes I. 1.)
+@39	in, from, since.
+@39	God.—5x = AL. (Notes I 1.)
+@39	Voice.—5p = QVL.
+@39	Word.—271= DBR, *or* VDBVR.
+@39	I. 10. Air from Spirit.—The Breath of the Spirit of God. Transcendental Air.
+@39	Air,—mmn = RVCh.
+@40	I. 11. Water from Air.—The moisture of the Breath of the Spirit of God. Transcendental Water. The essence of the Od.
+@40	Water.—o wn = MIMS.
+@40	wrote, designed.
+@40	formless.—in = ThHV.
+@40	void.—yma = BHV (Gen. i. 2; Isa. xxxiv. 11).
+@40	(According to Cimara, Tohu is negative and can be formed
+@40	by Bohu, which is positive.)
+@40	snow.—5w = ShLG.
+@40	earth.—poy = OPR.
+@40	The creation of transcendental matter and transcendental form. Order.
+@40	I. 12. Fire from Water.——The warmth or fire contained within the moisture breathed forth by the Spirit of God. Transcendental Fire. The essence of Vitality (Gen. ii. 7).
+@40	Fire.—wx = ASh.
+@40	Throne of Glory.—T1>7 xo> = KSA HKBVD.
+@40	Seraphim.—o"ow = ShRPIMS = (Fiery) Serpents (Isa. vi. 2; Num. xxi. 6, 8).
+@40	Ophanim.—opw = AVPNIMf =Wheel (Ezek. i. 16).
+@40	Holy Animals.—wprr nvr = ChIVTh HQDSh, *or* (HQVDSh) =Holy Animals, Living Creatures, Cherubim (Gen. iii. 24; Exod. xxv. 18; 1 Kings vi. 23).
+@40	Ministering Angels.—nw “5x50 = (V)MLAKI (H)ShRTh = Ministering Angels, Servant Angels (Gen. xlviii. 16; Dan. x. 13; Dan. viii. 16; Ps. civ. 4).
+@40	and with these three He founded His dwelling.
+@40	This can be understood in several ways:
+@40	(a) (1) The Throne of Glory;
+@40	(2) Seraphim, Ophanim, and the Holy Animals;
+@40	(3) the Ministering Angels;
+@40	and with these three He founded His dwelling.
+@40	(6) (1) The Throne of Glory;
+@40	(2) Seraphim;
+@40	(3) Ophanim, or Holy Animals, to Ministering Angels;
+@40	and with these three He founded His dwelling.
+@40	(¢) The Throne of Glory.
+@40	(1) Seraphim;
+@40	(2) Ophanim; and
+@40	(3) the Holy Animals; to Ministering Angels;
+@40	and with these three He founded His dwelling.
+@41	(d) The Throne of Glory.
+@41	(1) Seraphim;
+@41	(2) Ophanim, or the Holy Animals; and
+@41	(3) Ministering Angels;
+@41	and with these three He founded His dwelling.
+@41	(¢) The Throne of Glory.
+@41	(1) Seraphim;
+@41	(2) Ophanim;
+@41	(3) the Holy Animals, or Ministering Angels;
+@41	and with these three He founded His dwelling.
+@41	Of these different explanations (a) is the most probable. The Throne of Glory corresponds to A, the equilibrating power; Seraphim, Ophanim, and the Holy Animals correspond to the three-pointed and fiery Sh; the Ministering Angels, to the watery M.
+@41	I. 13. His great name, Tetragrammaton, the Lord. (Notes I. 1.)
+@41	TABLE VI.—TETRAGRAMMATON
+@41	Equilibrat- — Magic. ing power. *Passive*. Active. Result.
+@41	7 IHVH 1 H V H
+@41	Coition. Sight. Hearing. (Sight.)
+@41	R Love. Empress. Emperor. (Child.) A-O Wands. Cups. Swords. Pantacles.
+@41	T (Clubs.) (Hearts.) (Spades.) (Diamonds. ) *Passive*. Knight. Queen. King. Page. AN A M Sh Mf *Active*. Air. Water. Fire. Earth.
+@41	A oo Result. | Sylph. Undine. Salamander. | Gnome.
+@41	I
+@41	six ends, (the Hexagram = MGNf DVD = Shield of David), the poles of the three dimensions.
+@42	Height, Depth, East, West, North, and South. See Notes I. 5.
+@42	upwards.—n5yn = MOLH =up, upwards.
+@42	stretched backwards, turned round.
+@42	right.—pn» = IMINS.
+@42	left.—5now = ShMAL.
+@42	“This is the only verse in ‘Sepher Yetzirah >> where South precedes North in enumeration of the cardinal points. The content of this verse shows clearly that the words South and North have been exchanged, an error which arose probably with some mediæval transcriber, but is corrected in the present translation. After the Creator had sealed the East He turned round in order to seal the West. In this position North is on His right and South on His left.
+@42	The distribution of the different Trigrams in the several texts is as follows:—
+@42	. True dis-
+@42	Text A. Text B. Text C. Text D. Cimara. tribution. Height . IHV IHV HIV IHV IHV HV Depth . IVH HIV IVH IVH HVI IVH East . . HIV VIH VIH HVI VIH HIV West. . HVI VHI VHI HIV HIV HVI North . VHI HVI HVI VHI VHI VIH South . VIH IVH IVH VIH IVH VHI
+@42	“The name of the Lord, IHV, corresponds to Height (” dwelling
+@42	in the Height,” “S.Y.,”” 1.1). The inf.
+@42	mood of the verb ‘to be,” wr =HIV,
+@42	Ihv corresponds to East. Future, “shall be,”
+@42	*RN Hight* 7m = VIH, corresponds to North. The
+@42	N AH > PIN imperative mood “be,” w7=HVI,
+@42	+ Th “answers to West and signifies sorcery.
+@42	*Ng* 8 Four Trigrams are found in the 20th
+@42	3 \ ness line of the Great “Kabalistic Symbol.”
+@42	*IHA* See also Fig. 2.
+@42	I. 14. The first four Sephiroth con-
+@42	Fic. 2. stitute two groups of transcendental
+@42	elements: Spirit, Air; Water, Fire. The last six Sephiroth constitute three groups: the three dimensions of space.
+@42	CamaptER IT
+@42	This chapter embodies the secret of the “Great Kabalistic Symbol.”
+@42	II. 1. The Twenty-two basal letters are 22 creating factors or forces. These forces cannot be apprehended by the human Mind unless they are symbolised. In Kabalism their symbols are the 22 Hebrew letters. (Notes I. 2.)
+@43	Three mothers. See Notes III.
+@43	sibilant, whistling.
+@43	II. 2. He designed, formed, purified, and weighed them. This signifies the beauty and harmony of the creation.
+@43	purify.—x = TzZRPf =to melt (Bible), to purify (Bible), to unite (Talmud).
+@43	exchange.— wn» =IMR. (MIMRA =word. © VAVMR =: he speaketh.)
+@43	He exchanged them, each one with all. The combination of symbols or letters. Words. Language.
+@43	II. 3. The letters are classified according to their sounds: guttural, palatal, lingual, dental, and labial sounds. (Late origin.)
+@43	II. 4, 5. ring, wheel, circle.
+@43	gate has the same numerical value as “path” (““S.Y.,” 1.1).
+@43	all language.
+@43	combination of letters.—ShMf=group of letters, name. *Previous translators, thinking that the Hebrew expression ShMf refers to the holy name of the Lord, inserted the letters of Tetra- grammaton amongst the* 231 *gates and thus constructed the most impossible tables. The expression in question (ShMS) refers to the Wheel with* 231 *Gates* ““*the Great Kabalistic Symbol*.”
+@43	THE GREAT KABALISTIC SYMBOL
+@43	The 231 Gates
+@43	Eighteen hundred years ago, when Rabbi Akiba ben Joseph reduced into writing the secret tradition of the Jews in the “Book of Formation,” he hesitated to unveil the greatest secret of the Kabala, the Arcanum of the Great Symbol, which had been handed down to him from his forefathers. For this reason he embodied it in a riddle (““S. Y.,” II. 4 and 5), which many ancient and modern philosophers have tried in vain to solve. Of all the different tabulations, claiming to be the Great Arcanum of the Kabala, that we have examined, none is correct. The token of the original table ONG and NGO was not to be found in any of them. We have succeeded in solving this riddle. The true Kabalistic Symbol, the Great Master-Key to the theoretical and practical Kabala will be found facing p. 24 of the present translation.
+@44	The symbol consists of 21 lines (IHV =21). Each line contains 22 letters which, by means of 11 circles, are divided in 11 two-letter-words (HV =11. See Table VI.). The first circle is the perfect circle, because it contains all the letters of the alphabet. The letter A, the equilibrating power, is here combined with all the rest of the letters. For this reason the first circle may be put in rotation while the outer part of the symbol remains fixed. The 10 outer circles do not contain the equilibrating power, and are therefore dependent on the first circle and its movements. The first five of the ten outer circles are more powerful than the last five, because they show 21 (IHV =21) different forces (letters) against 15 (IH =15) different forces of the last five circles. Moreover, the letter that starts each circle corresponds in the first six circles of the Symbol to the respective number of the circle. This is not the case with the last five circles (Ch, T, K, M, O).
+@44	According to the symbolism of the Kabala we should expect to find the greatest secrets where the most powerful letters are combined. The most powerful letters of the alphabet are the three mothers, A M Sh. The mothers are combined in three places: AM in the 12th line, ASh in the 20th line, and ShM in the 5th line.
+@44	AM. In the 12th line we read NGO (plague). If we take the table as a symbol of the Universe, NGO is the idea of suffering. If we take the table as a symbol of Man, NGO is the suffering of Man. How can this suffering be overcome? Make the apprehensible reflections of the 10 Sephiroth as if your own property. Let the Ego move ten steps forward. Turn the first circle (the innermost circle of the Symbol) ten steps forward and read in the 12th line O(G)N(B)G(A); ONG (good, pleasure). This is the token or the key of the Great Symbol and is given in Chapter II. verse 4.
+@44	ASh. In the 20th line we read IHV, HIV, and VIH, the Trigrams of the positive trigon of the Hexagram (Fig. 2). VHI, the last seal, is also found equilibrating the first seal IHV.
+@44	ShM. In the 5th line we read ShM (combination of letters). This word was used by Rabbi Akiba to signify the Great Master-Key of the Kabala. It has been explained that this word has been misunderstood by students of the Kabala, and owing hereto the riddle has remained unsolved for eighteen centuries.
+@44	In the 3rd line, the 4th and 5th circle, we find the name of the Lord, 7» = IH (Notes I. 1), and six circles above this we find conjunctions of equal forces in the 1st, 2nd, 3rd, 4th, 5th, 6th, and 21st lines. These seven conjunctions correspond to the seven double-letters. The seventh (line 21) of these conjunctions corresponds to Th (Saturn); the first (POP) to B (Sun); the second (TzOTz) to G (Moon); the third (QOQ) to D (Mars); the fourth (ROR) to K (Mercurius); the fifth (ShOSh) to P (Jupiter); the sixth (ThOTh) to R (Venus). Compare Table IX.
+@45	In the 8th and 9th circles, the 9th to the 19th lines, we find similar conjunctions signifying the 10 Sephiroth.
+@45	The Great Symbol of the Kabala embodies the secret of the practical Kabala.
+@45	II. 6. formless. (Notes I. 11.)
+@45	non-existent.—;» = AINf = non-existent, the abstract conception of nothingness (Waite); *fine carens* (Rosenroth).
+@45	large columns (2 Chron. iii. 17), compare the Sephirotic columns or pillars of the Zohar.
+@45	intangible air, transcendental air. (Notes I. 10.)
+@45	combination of letters. (Notes II. 5.)
+@45	This chapter interprets the three most powerful symbols of the Hebrew alphabet: the three mothers, wns =A M Sh. The Law of Equilibrium, Table III.
+@45	III. 1. This verse contains the fundamental law of the Kabala, the Law of Equilibrium. Sh and M are a pair of scales. In some cases M represents the Good and Sh represents the Evil; in other cases Mis the scale of Evil and Sh is the scale of Good. A is always the equilibrating point between the scales. The symbol of this point is the tongue or pointer of the scales. If a finger directs the pointer, the two scales are also directed. If the finger represents the will-power, Good and Evil are directed by the Will. A is a symbol of Man. If he does not use his will-power, the surrounding conditions move him, as the pointer is moved by the weights on the scales; but, if Man uses his will-power, he is able to master the surrounding conditions, as the scales are mastered by the finger which directs the pointer.
+@45	III. 2. six seals.-—(V) rwan ww=ShSh MBOVTh =six signet-rings, six seals. (Notes I. 13, 14.)
+@45	The three mothers are sealed by the Lord (IHV) within the three dimensions of space and thus made apprehensible for the human intellect.
+@45	produced, born.
+@45	fathers, patriarchs.
+@46	III. 3. He designed, formed, purified, weighed, and exchanged them. (Notes II. 2.)
+@46	Universe.—The world, macrocosm (M). (pax=ARTzf— the Earth.)
+@46	the Year.—Time (A).
+@46	Man.—Body, microcosm (Sh).
+@46	male and female (Gen. i. 27); male (Sh), female (M), love (A). Table VI.
+@46	III. 5. Air, Water, Fire, and Earth. (Notes I. 10, 11, 12.)
+@46	heavens.—oww = ShMIMf. (Notes II. 5, ShM{.)
+@46	wind, atmosphere.
+@46	III. 6. Cold, winter, heat, summer.
+@46	temperate state.—m1=RVIH has a double meaning = temperate state (between heat and cold), moist (between dry and wet) (Ps. xxiii. 5; Ps. Ixvi. 12).
+@46	III. 7. chest, body.
+@46	Man. Male. Female.
+@46	Head . . ShAM ShMA
+@46	Chest . ASHM AMSh
+@46	Belly . . MSHA MASh
+@46	Several authors have put forth intentional blinds regarding the three mothers. now=A M Th (Truth) and jpx=A M N (Amen) have been given as mother-letters. These evasions were prompted probably by the fact that Sh relates to Fire, Transmutation, and the Devil.
+@46	In this chapter the holy and the averse heptad are expounded. Table IV.
+@46	IV. 1. Life.—o~r1 = ChIIMf (plur. masc.)=life, support, health.
+@46	Peace.—o5w = ShLVMf (masc.) =peace, salvation.
+@46	Wisdom.—mor = ChKMH (fem.) =wisdom, learning, art.
+@46	Wealth.— wy = OShR (masc.) *or* OVShR.
+@46	Grace (Beauty).— mr = ChNf *or* j'r1 = ChINT (masc.).
+@46	Fruitfulness.—v = ZRO (masc.) =fruitfulness, seed, spern.
+@46	Dominjon.—i5wnmy = VMMShLH (fem. ) =dominion, power.
+@46	IV. 3. permutation, contrast.
+@46	Death.—m in = MVTh (masc.).
+@47	Misfortune.—v1 = RO (masc.) =misfortune, evil, weakness, illness.
+@47	Folly.—n%w = AVLTh.
+@47	Poverty.— ww = OVNI *or* vy = ONI (masc.).
+@47	Ugliness.— ww» = KIOVR (masc.).
+@47	Devastation.—mnw = ShMMH (fem.) =devastation, desolation.
+@47	Slavery.—my1av = OBDVTh (fem.).
+@47	IV. 4. Height, Depth, East, West, North, and South. (Notes I. 5; Notes III. 2, six seals).
+@47	(the) Holy Palace.—wmprn 5» = (V)HIKL HQVDSh. (Jerusalem or Zion, where Man can communicate with God.) It corresponds to the mouth. (According to Zohar it relates to the organ of sexual intercourse.)
+@47	IV. 5. examine and search out by means of them. This refers to Kabalistic Astrology and its associated arts.
+@47	throne, place.
+@47	IV. 6. He designed, formed, purified, weighed, and exchanged them. (Notes II. 2.)
+@47	Universe, the Year, Man. (Notes III. 3.)
+@47	seven weeks. Probably the seven weeks between Passover and the Feast of Pentecost.
+@47	IV. 7-14. The order of the planets is according to Text A. (See p. 67.) The other texts give: Saturn, Jupiter, Mars, Sun, Venus, Mercurius, Moon; *or* Saturn, Mars, Mercurius, Sun, Jupiter, Venus, Moon; *or* Sun, Venus, Mercurius, Moon, Saturn, Jupiter, Mars. The planets are enumerated (verse 7) in an order that corresponds to their velocity. First Saturn, which is the slowest of the seven planets, then Jupiter and Mars. The apparent velocity of the Sun lies between the velocity of Mars and that of Venus. After Venus comes Mercurius, and last, the swiftest of them all, the Moon. Each of these planets has two poles, one negative and one positive; the negative pole corresponds to the evil foundation and the positive to the good foundation. These “twice seven” different powers are directed by the zodiacal signs. In Aries they are directed according to the constant virtues of that sign; and so on through all the 12 signs of the zodiac. Thus we get: 2x7 x12=168. 168 different planetary influences in the Universe. Table VII. shows these 168 influences. The planets are inserted in the table according to the order of their velocity, starting at the upper lefthand corner and proceeding downwards. The table consists of
+@48	& 48 The Book of Formation 7 columns. The planets of the uppermost row correspond to the days of the week, and the 24 influences of each column correspond to the hours of the day. Thus the Hebrew letters, products in Time—otherwise, in the year—are deducted from their products in the Universe (the planets and the zodiacal signs). It is interesting to note that Saturday precedes Sunday in the enumeration of the days of the week. Compare this with the seven conjunctions of forces in the Great Symbol of the Kabala (see plate facing p. 24). There is a close spiritual relation between the “last” and the ‘first,” in this case between Th (Saturn) and B (Sun). Saturday is the Sabbath of the *Jews* and Sunday is the Sabbath of the Christians. If we compare the Tarot-correspondences of Th and B, we shall reach the same result. The head of “the hanged man “signifies the Sun; the gallows, in the form of a Hebrew Th, signifies the orbit of Saturn. Compare the 20th Path in ‘“The 32 Paths of Wisdom”’ (Notes VI. 11).
+@48	ille:
+@48	Text A. | PUES: TE | Dione.
+@48	Saturn . . . | ShBTHAI | ShBThI nr.1
+@48	Jupiter . . | TzDQ TzDQ nw 5
+@48	Mars . . . | MADIMf | NVGH ,» 2 | MZL.
+@48	Sun . . . | ChMCh ChMCh » 4 | (ShMSh).
+@48	Venus . . . | NVGH KVKB , 6 | KKB NGH.
+@48	Mercury . . | KVKB MADIMF ,, 3 | KKB.
+@48	Moon . . . | LBNH LBGH , 7 | IRCh.
+@48	right eye.—po pv = OINf IMINf (fem.).
+@48	left eye.—5xow py = OINF SMAL (fem.).
+@48	right ear.—po (mn) pw —=AVZNf IMINf (AZNf IMINf) masc.).
+@48	left ear.—Ssow (je) je = AVZNf ShMAL (AZNf ShMAL) (masc.).
+@48	right nostril.—;»> 2110 = NCHIR IMIN (masc.).
+@48	left nostril.—5xnw v3 = NCHIR ShMAL (masc.).
+@48	mouth.—5 = PH (common gender).
+@48	IV. 15. Holy Palace. (Notes IV. 4.)
+@48	12 enumerations (corresponding to the 12 simple-letters), 11 heptads and the Holy Palace. 11 *x7=77*; 77+1=78; 78 is the number of cards in the Tarot.
+@49	TABLE VII.—THE CHALDEAN CALENDAR *Sor Sunday*. | *Monday*. pg Wes: *Thurs: Friday*. | *Hours*. ThH{BYV |G Ch|DI|KUL [PS |R Tz |12-1 *a.m*. P HRV |ThCh|B I |G L |D S |KfTz}| 1-2 *a.m*. D HKVYV |P ChfRI|ThN [BS |G Tz | 2-3 am. B HIG YV |[DCh|KI|PENfIR S |ThTz | 3-4 am. R H{ThZ |B Ch{G I |D N |K S |Pf Tzf] 45 am. K HIPZ |[RCh|{ThI|{B N |G S |D Tz] 5-6 am. G HD Z |K Ch|P I|R N |[ThO |BTz| 6-7 am. ThH{B Z |G Ch|D I[{KfNf|P O |R Tz | 7-8 *a.m*. P HIRZ |Th TB I|G N |{D O |KfTzf| 89 am. D HK Z ||P T|RI|ThN (B O |G Tz | 9-10 am. B HIG Z |D T{KI|PfN R O |ThQ |10-11 *a.m*. R H|ThZ |B T|G I |D N |KO (P Q 11-12 *a.m*. K HP Z RT |ThL|B N |G O |D Q }12-1 *p.m*. G HI DZ |KT|P L|R N|ThO |BQ 1-2 *p.m*. ThV|B %2 |G T |D L|KENt|P O |R Q | 2-3 pm. P VIRZ |ThT |B L|G N |DO |KQ 3-4 *p.m*. D VIKZ|PTI|RUL|ThS [BO |GQ 4-5 *p.m*. B V|(GZ |DT |KL|P S |RO |ThQ 5-6 *p.m*. R ViThCh|B T |G L|D S |KO (PQ 6-7 p.m. K V(P Ch RT |ThL|B S |G O [DQ 7-8 *p.m*. G VIDCh|KT ||P L|RS |ThTz |BQ 8-9 *p.m*. ThV{B Ch|G T |[D L|K S |Pf Tz2f|]R Q 9-10 *p.m*. P V|R Ch|ThI BL(GS |[D Tz |KQ |10-11 *p.m*. D VIK Ch|P 1 R L(ThS |B Tz |G Q *|11-12p.m*.
+@50	IV. 16. 1stone: 1 =1 house.
+@50	2 stones: 1x2 =2 houses.
+@50	3 stones: 1 ×2x3 =6 houses.
+@50	4 stones: 1 x2x3x4 =24 houses.
+@50	5 stones: 1 X2X3X4X5 } =120 houses.
+@50	6 stones: 1 X2×3x4X35X6 =720 houses.
+@50	7stones: 1X2X3X4X5×6XT =5040 houses.
+@50	S stones: 1 K2X3IXE+AXIK6XT XS =40320 houses.
+@50	9stones: 1 X2X3XEXIXO6XTX8XI ==362880 houses.
+@50	10 stones: 1 X2X3X4XIXO6XTX8XI X10 =3628800 houses.
+@50	11 stones: 1 X2X3X4XIX6XTX8XIXI0OX1] =39916800 houses.
+@50	12 stones: 1 X2X3X4XI3XOEXTX8XxIX10x11>12=479001600 houses.
+@50	stones (letters).
+@50	houses (words).
+@50	This chapter elucidates the secrets of the constant dodecad. Table V.
+@50	V. 1. Sight.—m~1 = RAIH (fem.).
+@50	Hearing.—ynw = ShMOH (ShMO) (verb) =hear.
+@50	Smell.—r™ = (RICh) RIChH (RIChA) (masc.).
+@50	Speech.—1rw = ShIChIT (ShChH) (ShVChH) (fem.) =speech, low speech.
+@50	Taste.-—(2v5) mows = LOITH (LOT) (fem.)=ecating, digestion, eating and drinking, savour.
+@50	Coition.—w own = ThShMISh (masc.).
+@50	Work.—(roy) nwyn=MOShH (OShH) (masc.) = work, action, employment.
+@50	Movement.— (151) 757=HLVKf (HILVKf) (masc. = movement, walking, motion.
+@50	Wrath.—21 = RVGZ (masc.) = wrath, anger, excitement.
+@50	Mirth.—(prw) pw = ShChVQ (masc.) = mirth, laughter, idolatry, sin.
+@50	Meditation.—mm 7 = HRHVR (HRHR)(HIRHVR)(masc.) = meditation, thought, mind (Pistorius); suspicion (Postellus); imagination (Westcott).
+@50	Sleep.— (x20) (Mow) mw = ShINH (ShNH) (ShINA) (fem.) = sleep; (ShINA *or* ShIN (*masc*.) =urine.). Compare Table I.
+@50	These 12 words stand, according to several old Kabalists, in a certain relation to PShVTVTh.
+@51	V. 2. oblique.—o35% =ALKSVNY.
+@51	*North. Height. Height*.
+@51	P B
+@51	x] m © *J* tn = *J* ta
+@51	JX: Th——D 3 K- Th—D 5p *Th*: RE
+@51	= DZD LI ZN AZ AN
+@51	v | Ch r Q
+@51	R
+@51	*South. Depth. Depth*.
+@51	Fic. 3. Fic. 4. Fic. b.
+@51	stretch out, stretch themselves out.
+@51	V. 3. He designed, formed, purified, exchanged, and weighed them. See Notes II. 2.
+@51	zodiacal sign.—MZL =place of ascending, shelter, fortune, fate, zodiacal sign.
+@51	V. 4. Aries.—15» = TLH =ram.
+@51	Taurus.—mw = ShVR =bull.
+@51	Gemini.-—owwsn = ThAVMIMS =twins.
+@51	Cancer.—j» D0 = SRTNf =crab.
+@51	Leo.—m w= ARIH =lion.
+@51	Virgo.—15 m1 = BThVLH =virgin.
+@51	Libra.—ominn = MAZNIMS =scales.
+@51	Scorpio.—py = OQRB =scorpion.
+@51	Sagittarius.—nwp = QShTh =arch.
+@51	Capricornus.— 12 = GDI =goat.
+@51	Aquarius.—57 = DLI =pail.
+@51	Pisces.—p 17 = DGIMS =fishes.
+@51	V. 5. Twelve months in the Year: ow = NISNf, vn = AIIR, po = SIVNS, non = ThMVZ, ax = AB, 5%x = ALVL, von = ThShRI, pwn = MRChShVNf (Cimara gives pwr = ChShVNTf), Yop> = KSLV (Cimara gives v5p3 = KSLIV), nan = TBTh, »w = ShBT, ye:=ADR.
+@51	V. 6. right hand.—» 7 = ID IMINf{.
+@51	left hand.—5xow 7 =ID SMALL. (ID, masc. *or* fem.)
+@51	right foot.—pn» 53:9=RGL IMINf{.
+@51	left foot.—Sxnw 517 = RGL SMAL. (RGL, fem.)
+@51	right kidney.—m x51 = KVLIA IMINf (KVLIIA IMINf) = right kidney, right testicle.
+@51	left kidney. —5wnw w5w = KVLIA ShMAL (KVLIIA ShMAL) =left kidney, left testicle. (KVLIA, fem.)
+@51	liver.—71> = KBD = weight, pressure (masc.); heaviness, seat of melancholy, liver (masc. *or* fem.).
+@52	spleen.—5mv = TChL (TChVL) (masc.). (“Having had their milt cut as fast runners.” Talmud.)
+@52	gall.— mn = MRH =bitter taste, poison, gall, pick, to be fat, to be disobedient (wn = RVSh, gall) (xan = MRHBIA, pride, haughtiness).
+@52	The following three words are very dubious: ponm = VHMSS, mapy = VQIBH, jap1py = VQVRQBNT.
+@52	stomach.—HMSS (MSS) =intestine, gut, bowel; private, secret, hidden; liquid (masc.); to melt, to dissolve; stomach (masc.); the first stomach of ruminants.
+@52	colon.—QIBH (QBH) =stomach (fem.); craw of birds; the fourth stomach of ruminants, the idea includes also the fat in or about this stomach; (HQBH) rennet, used to curdle milk.
+@52	bowel.—QVRQBNf =stomach in Man; craw of birds; rectum in Man (masc.).
+@52	*The translation of these dubious words according to*:
+@52	Pistorius . . colon, coagulum, et ventriculus.
+@52	(*large intestine, spleen, and stomach*.)
+@52	Postellus . . colon, coagulum, et ventriculus.
+@52	Rittangelius . . intestina, sesica, et arteriæ.
+@52	(*intestines, bladder, and arteries*.)
+@52	Cimara . . les intestins, le colon, I’estomac.
+@52	Goldschmidt . . Darm, Magen, Mastdarm.
+@52	Westcott . . private parts, stomach, intestines.
+@52	[X3
+@52	In an old commentary we read: “*Two discontented or in- sulting: the liver, the gall. Two jolly or laughing: the colon, the spleen. Two advising* © *the kidneys. Two taking advice: the stomach, the bowels (rectum). Two robbing: the hands. Two hunting: the feet*.”
+@52	*Note*.—” *colon, stomach,” and* “*bowels*.”
+@52	God.—o Sx = ALHIMS. (Notes I. 1.)
+@52	99 46
+@52	V. 7-18. See Notes V. 1-6.
+@52	V. 19. asa wall.—(a circle) like a city wall, the zodiacal circle.
+@52	There is a constant strife amongst the 12 simple-letters (the zodiacal signs). They are all of the same strength and arranged round a circle. The directions and manifestations of these forces cannot be influenced or changed in any way, but they themselves influence other forces, *i.c*., the 7 double-letters corresponding to the planets.
+@53	This chapter explains the relation in which the triad, the heptad. and the dodecad stand to each other.
+@53	VI. 1. that are three fathers—means that copulation of different sex qualities was not used by the Creator when the essences of Fire, Air, and Water were created.
+@53	VI. 2. the Holy.—wn 1pm = VHQDYVSh.
+@53	About the names of the Lord, see Notes I. 1.
+@53	*The first two verses of this chapter constitute in the texts the end of Chapter V*. We *have ventured to transfer them to this chapter on account of their contents*.
+@53	VI. 3. From the three He founded His dwelling (Notes I. 12).
+@53	VI. 5. twelve oblique angles.—This expression is misplaced. “Twelve zodiacal signs”’ would be more reasonable.
+@53	VI. 6. the dodecad.
+@53	HVZCHTILNSOTzQ.
+@53	12 forces arranged in a circle make one unity. This unity plus the 12 individual forces make 13.
+@53	The finals of the heptad, KfPf=500 80041300; 13.
+@53	Tre = AChD (Deut. vi. 4, One, Unity) =183.
+@53	nxt) = BRAShITh (the first word in the Hebrew Bible, meaning “In the beginning”’) =918; 94143 =13.
+@53	mms = AHBH (Love) =13.
+@53	the heptad.
+@53	BGDKPRTh =2 +3 +4 +20 +80 +200 4-400 =709;
+@53	7+0+9=16; 146=7.
+@53	The finals of the dodecad, NfTzf =700 4-900 =1600; 1-6 =7.
+@53	The sum of the squares on the 10 Sephiroth is equal to 385:
+@53	14224824424 524624 724-824 924+102=14 449416
+@53	+25 +36 +49 +64 1814100 =3885; 34+8-+-5=16; 1-6=7.
+@53	ow = ShKINH (The Divine Majesty) =300 4-20 +10 +50
+@53	+5=385; 3+8+5=16; 1+6="7.
+@53	715 x2» = IBA ShILH (Gen. xlix. 10, “Shiloh shall come”)
+@53	=858; 8+54+8=16; 14-6=7.
+@53	mown = MShICh (Messiah) =858; 8+5+8=16; 1+6=1.
+@53	6=7OT (Gen. ii. 9, “The Tree of good and evil”)
+@53	=70+90 =160; 1-6=7.
+@54	the triad.
+@54	wrx = AMSh =841; 344+1=S8.
+@54	Sdi (““Almighty,” name of God) =314; 3+1+4=8.
+@54	mven = MTTRVN (“Angel of the Presence,” ‘World Prince >’; Zohar) =314; 3-+1+4=8.
+@54	rwbw mar = VANH ShLShH (Gen. xviii. 2, ¢“And lo, three
+@54	men’)=701; 741=8.
+@54	Laem Smad Sao Yor = ALV MIKAL GBRIAL VRPAL (““These are Michael, Gabriel, and Raphael”) =701; 7 +1 =8.
+@54	the dragon.—5n = ThLI =the dragon (which encircles the Universe) (12 simple-letters).
+@54	sphere.—b151 = GLGI =(celestial) sphere (7 double-letters).
+@54	*The sphere precedes the dragon in the teat, but as the dragon corresponds to the Universe we have changed the order*.
+@54	VI. 7. Notes III. 5.
+@54	VI. 8. TABLE VIII.—-TO BE
+@54	. Dragon Sphere Heart | The King. | (HD). I V).
+@54	re 12 podiacal 7 planets. Earth.
+@54	The Year. a Temperate
+@54	(A): 12 months. | 7 days. | state.
+@54	Man. 12 leading re Head.
+@54	(Sh): members. 7 gateways. (Reason.)
+@54	¢“The dragon” in the Universe is like a king on his throne, because everything which is encircled by the Odic dragon (the zodiac) is ruled by the signs of the zodiac, as a country is ruled by its king.
+@54	¢¢ the sphere > in the Year is like a king in a province.— The kingdom of ‘‘the Year” has 52 provinces, the 52 weeks. The present week is like a king in his province.
+@54	¢¢ the heart > (in Man) is like a king in warfare.—The human intelligence is always in warfare against ignorance and superstition.
+@55	VI. 9. God.—or5ni1 = HALHIMS. (Notes I. 1.)
+@55	the good marks out the evil, and the evil marks out the good, the evil is distinguished by means of the good, and the good is distinguished by means of the evil.
+@55	“““good”’ is reserved for the good ones, and “evil”’ is reserved for the evil ones.
+@55	¢ good.”—w = TVB, mw =TVBH =good (end).
+@55	¢¢ evil.”—y1 =RO, v7 = ROH =evil (end).
+@55	VI. 10. himself, *or* herself.
+@55	merited, sanctified, made happy, exonerated.
+@55	loaded with guilt, excommunicated, made unhappy, accused. (Notes III. 1.)
+@55	VI. 11. between the two groups, *or* amongst them.
+@55	Amongst the seven doubles, either B. or Th is the equilibrating power (see the 20th path of ‘The 32 Paths of Wisdom “). If B (Sun) equilibrates: Th (Saturn), P (Jupiter), and D (Mars) constitute one group; R (Venus), K (Mercurius), and G (Moon) arc the other group, or—G D K one group, and PR Th the other. If Th (Saturn) equilibrates: D, P, and B constitute one group, R, K, and G the other group, or—B R P one group, and G D K the other. (Notes IV. 7-14.)
+@55	In the first line of Table IX. we find the doubles in an order that corresponds to their velocity in the Universe. In the second line we find them in an order that. corresponds to their enumeration in the Year (the days of the week). If Th (Saturn) is equilibrating, the spiritual focus A (*see our notes to the 20th path of “The* 32 *Paths of Wisdom*”) predominates; the material focus B (Sun) is then of lesser importance. This is symbolised in the third and fourth line of our table. The third line is deducted from the first line in the following manner: Let B and Th in the first line exchange their positions. Th is now the equilibrating power and the polarity of the line is changed —it is written in the opposite direction. The fourth line stands in the same relation to the third as the second to the first. About the finals, see Table X.
+@55	VI. 13. This is the most clumsy of all the spurious passages in ““Sepher Yetzirah.”
+@55	VI. 15. min = AHIH=I am (Exod. iii. 14). 14541045 =21. (Notes II. 4, 5.)
+@56	TABLE IX.—THE EQUILIBRIUM OF THE 7 DOUBLES
+@56	M. *A*. Sh.
+@56	hTh *YP* gD OB?R BK )G
+@56	H
+@56	Pf Kf
+@56	Y H
+@56	*4* PR Th | ®@B | »G gD 3K
+@56	I
+@56	Pf Kf
+@56	Pf H
+@56	G) KO RO | Thh | Dg *PY* BE
+@56	H
+@56	Kf Pf
+@56	H V
+@56	Ky Dg G( | Thh | B® RQ *Pu*
+@56	Kf Pf
+@56	H ¥ > = ShDI=Almighty (Gen. xvii. 1; Ezek. i. 24). 278 = ADNI=God. (The name of the Lord that may be pronounced.) (Jud. i. 5.) About the other names of God, see Notes I. 1. designed, written. He made three numbers of them. See the dodecad, the heptad, and the triad (Notes VI. 6). VI. 16.—the Lord of the Universe.» oby= OLIMf ADVNT.: bosom, lap. the Lord.—IHVH. (Notes I. 1.) between his hands. A word-for-word translation would be: ‘““between the ten fingers of his (two) hands.” between his feet. A word-for-word translation would be: ‘““between the ten toes of his (two) feet.” (Notes I. 3.) (the) Thora.— nn = (H)ThVRH =Pentateuch. the Holy.—w7pm = VHQDVSh.
+@57	TABLE X.—THE 5 FINALS
+@57	Mother, Doubles. Simples.
+@57	Mf. Kf. *Pf*. Nf. Tzf.
+@57	*The essence*
+@57	*ofEarth*,
+@57	Dominion
+@57	: *Mystical over and* pgs Their: Movement | Meditation Founda- | Result. pi *and Slavery* in unknown | (*the body* tion: Death. unknown *dimensions*. | *paralysed*).
+@57	*Jorces*. |
+@57	| Universe \"4 bis Wy n us (M): Earth. (Uranus). (Neptune). (Scorpio). (Aquarius).
+@57	(*Oct*. 23—- (*Jan*. 20The Year Wednesdays | Thursdays *Nov*. 22) *Feb*. 19) (A): Cold. *|when* © in Malwhen © *in when* Bl in Ma|when V ines
+@57	*or* Qin lor ©@ inMa| *or* Vin Ma | *or* Hl in =
+@57	Marhe8van. Sebath. Man R 8th 9th: Poisonous (Sh): (Child.) gateway. gateway. BMils, fluids.
+@part	The 32 Paths of Wisdom
+@58	*THE author of this tract is unknown. Judging from the style of the treatise it is of considerably later date than* “*Sepher Yetzirah.” As there are several extant versions which differ in various points, the tabulation of Paths and their titles will be given according to Comtesse Calomira de Cimara, and the translation of the tract accord- ing to Waite and Westcott. The correspondences with Hebrew letters and the Tarot symbols have been established on our own part*.
+@58	(THE TRANSCENDENTAL DECAD)
+@58	The first path is called the Mystical Intelligence.
+@58	x50 Sow wpa wT Ma?
+@58	HNTHIB H “A” NQRA ShKL MVPLA.
+@58	(Sephira 1. In Tarot, the four Aces.)
+@58	“The first path is called the Admirable Intelligence. the Supreme Crown. It is the light which imparts understanding of the beginning which is without beginning, and this also is the First Splendour. No created being can attain to its essence.” (Waite.)
+@58	The second path is called the Illuminating Intelligence.
+@58	HNThIB H “B” NQRA ShKL 31m =MZHIR.
+@58	(Sephira 2. In Tarot, the four Twos.)
+@58	“The second path is called the Illuminating Intelligence. It is the Crown of Creation and the splendour of the Supreme Unity, to which it is most near in proximity. It is exalted above every head, and is distinguished by Kabalists as the Second Splendour.” (Waite.)
+@58	The third path is called the Sanctifying Intelligence.
+@58	HNThIB H “G” NQRA ShKL wmpn=MQVDSh.
+@58	(Sephira 3. In Tarot, the four Threes.)
+@58	“The third path is called the Sanctifying Intelligence, and it is the foundation of Primordial Wisdom, termed the Creation of Faith. Its roots are AMKf. It is the mother of Faith, which indeed emanates therefrom.” (Waite.)
+@58	! In the subsequent enumeration of Paths only the variant qualifications of Intelligence are given in Hebrew lettering.
+@59	The fourth path is called the Receptacular Intelligence.
+@59	HNTHIB H “D” NQRA SHKL »ap=QBVO.
+@59	(Sephira 4. In Tarot, the four Fours.)
+@59	“The fourth path is called the Arresting or Receiving Intelligence, because it arises like a boundary to receive the emanations of the higher intelligences which are sent down to it. Herefrom all spiritual virtues emanate by the way of subtlety, which itself emanates from the Supreme Crown.” (Waite.)
+@59	“The fourth path is named Measuring, Cohesive, or Receptacular; and is so called because it contains all the holy powers, and from it emanate all spiritual virtues with the most exalted essences; they emanate one from the other by the power of the primordial emanation.” (Westcott.)
+@59	(“‘*The Supreme Crown” and the primordial emanation signify Sephira* 1.)
+@59	The fifth path is called the Radical or Rooted Intelligence.
+@59	HNThIB H “H” NQRA ShKIL ww) = NShRSh.
+@59	(Sephira 5. In Tarot, the four Fives.)
+@59	“The fifth path is called the Radical Intelligence, because it is more akin than any other to the Supreme Unity and emanates from the depths of the Primordial Wisdom.” “(Waite.)
+@59	“. .. from the primordial depths of Chokmah.” (Westcott.)
+@59	(“““*The Primordial Wisdom” and* °° *Chokmah” signify Sephiroth* 2.)
+@59	The sixth path is called the Intelligence of Separated Emanation.
+@59	HNTHIB H “V” NQRA SHKL 57a; vow = ShPO NBDL.
+@59	(Sephira 6. In Tarot, the four Sixes.)
+@59	“The sixth path is called the Intelligence of Mediating Influence, because the flux of the emanations is multiplied therein. It communicates this affluence to those blessed men who are united with it.” (Waite.)
+@59	“... It causes that influence to flow into all the reservoirs of the Blessings with which these themselves are united.” (Westcott.)
+@59	The seventh path is called the Hidden Intelligence.
+@59	HNThIB H “Z” NQRA SHKL 3noy= NSThR.
+@59	(Sephira 7. In Tarot, the four Sevens.)
+@59	“The seventh path is called the Hidden Intelligence, because it pours out a brilliant splendour on all intellectual virtues which are beheld with the eyes of the spirit and by the ecstasy of faith.” (Waite.)
+@60	The eighth path is called the Perfect Intelligence.
+@60	HNThIB H “Ch” NQRA SHKL o5w = ShLM{.
+@60	(Sephira 8. In Tarot, the four Eights.)
+@60	“The eighth path is called the Perfect and Absolute Intelligence. The preparation of principles emanates therefrom.! The roots to which it adheres are in the depths of the Sphere Magnificence, from the very substance of which it emanates.” (Waite.)
+@60	The ninth path is called the Purified Intelligence.
+@60	HNThIB H “T” NQRA SHKL =v» =THVR.
+@60	(Sephira 9. In Tarot, the four Nines.)
+@60	“The ninth path is called the Purified Intelligence. It purifies the numerations, prevents and stays the fracture of their images, for it establishes their unity to preserve them from destruction and division by their union with itself.” (Waite.)
+@60	“The ninth path is named the Purified Intelligence. It purifies the numerations, proves and corrects the designing of their representations, it disposes their unity with which they are combined without diminution or division.” (Westcott.)
+@60	The tenth path is called the Resplendent Intelligence.
+@60	HNThIB H “I” NQRA ShKL ygnnn=MThNVTzO.
+@60	(Sephira 10. In Tarot, the four Tens.)
+@60	“The tenth path is called Resplendent Intelligence, because it is exalted above every head and has its seat in Binah;? it enlightens the fire of all lights and emanates the power of the principle of forms.” (Waite.)
+@60	« . “causes a supply of influence to emanate from the Prince of Countenances.” (Westcott.)
+@60	(THE PERFECT TRIAD)
+@60	The eleventh path is called the Fiery Intelligence.
+@60	HNTHIB I “A” NQRA SHKL nxrmgn = MTzVChTzCh.
+@60	(The mother-letter Sh. Fire *A*. In Tarot, the Devil.)
+@60	“The eleventh path is called the Fiery Intelligence. It is the veil placed before the dispositions and order of the superior and inferior causes. Whosoever possesses this path is in the
+@60	1s
+@60	. « « It is the means of the primordial. . . .” (Westcott.)
+@60	¢ Binah =Understanding =Sephira 3. enjoyment of great dignity; to possess it is to be face to face with the Cause of Causes.” (Waite.)
+@61	“The eleventh path is named the Fiery Intelligence. Itis the essence of that curtain which is placed close to the order of disposition, and this is a special dignity given to it that it may be able to stand before the face of the Cause of Causes.” (Westcott.)
+@61	(The secret of Transmutation is communicated from this path (Sh). *According to Éliphas Lévi* (*‘La Clef des Grand Mysteres,” p. 234), *this secret belongs to the 31st path. He applied the Hebrew letters in their* “*alphabetical order* > *to the* 22 *last paths. This manner of application is, however, entirely wrong*.)
+@61	The twelfth path is called the Intelligence of Transparency.
+@61	HNThIB I “B” NQRA ShKL 5a =BHIR.
+@61	(The mother-letter M. Water *¥v*. In Tarot, the World.)
+@61	“The twelfth path is called the Intelligence of the Light,! because it is the image of magnificence. It is said to be the source of vision in those who behold apparitions.” (Waite.)
+@61	The thirteenth path is called the Conductive Intelligence of Unity.
+@61	HNTHIB I “G” NQRA ShKL xan = MNHIG (or nyrin = HACHDVTh).
+@61	(The mother-letter *A*. Air *A*. In Tarot, the Magician.)
+@61	“The thirteenth path is called the Inductive Intelligence of Unity. It is the substance of glory, and it manifests truth to every spirit.” (Waite.)
+@61	“... “It is the consummation of the truth of individual spiritual things.” (Westcott.)
+@61	(No magical work can be accomplished without communication with this path. It is the equilibrating power and the source of volition. It is the spiritual focus of gravitation and the directing force. The Conductive Intelligence is always accompanied by Responsibility. These two ideas stand in direct proportion to each other.)
+@61	(THE HOLY AND THE AVERSE HEPTAD)
+@61	The fourteenth path is called the Luminous Intelligence.
+@61	HNTHIB I “D” NQRA SKL = MAIR.
+@61	(The double-letter B. Sun ®. In Tarot, the Sun.)
+@61	“The fourteenth path is called the Illuminating Intelligence.
+@61	1 ¢. . The Intelligence of Transparency. . . .”” (Westcott.) It is the institutor of arcana, the foundation of holiness.” (Waite.)
+@62	(The path of Wisdom and Folly.)
+@62	The fifteenth path is called the Constituting Intelligence.
+@62	HNTHIB T “V?” NQRA SHKL Twnyn=MOMID.
+@62	(The double-letter G. Moon D. In Tarot, the Moon.)
+@62	“The fifteenth path.is called the Constituting Intelligence, because it constitutes creation in the darkness of the world. According to the philosophers, it is itself that darkness mentioned by Scripture (Job xxxviii. 9), cloud and the envelope thereof.” (Waite.)
+@62	(The path of Wealth and Poverty.)
+@62	The sixteenth path is called the Eternal Intelligence.
+@62	HNThIB I “V” NQRA SHKL rm = NTzChl.
+@62	(The double-letter D. Mars ¢. In Tarot, the Chariot.)
+@62	“The sixteenth path is called the Triumphant and Eternal Intelligence, the delight of glory, the paradise of pleasure prepared for the just.” (Waite.)
+@62	(The path of Fruitfulness and Devastation.)
+@62	The seventeenth path is called the Sensible and Disposing Intelligence.
+@62	HNTHIB I “Z” NQRA ShKL wim =HHRGSh.
+@62	(The double-letter K. Mercurius ¥. In Tarot, Death.)
+@62	‘The seventeenth path is called the Disposing Intelligence. It disposes the devout to perseverance, and thus prepares them to receive the Holy Spirit.” 2 (Waite.)
+@62	(The path of Life and Death.)
+@62	The eighteenth path is called the Emanative Intelligence or House of Influence.
+@62	HNTHIB I ¢“Ch” NQRA ShKL »pwi na = BITh HShPO.
+@62	(The double-letter P. Jupiter ¥. In Tarot, the Hierophant.)
+@62	“The eighteenth path is called the Intelligence or House of Influence,® and thence are drawn the arcana and the concealed meanings which repose in the shadow thereof.” (Waite.)
+@62	(The path of Dominion and Slavery.)
+@62	1 ¢_ _ . It constitutes the substance of creations in pure darkness. . ..” (Westcott.)
+@62	2 «, .. Itis called the foundation of excellence in the state of higher things.” (*Added by* Westcott.)
+@62	3 ¢“, . . By the greatness of whose abundance the influx of good things upon created beings is increased. . . .”’ (*Added by* Westcott.)
+@63	The nineteenth path is called the Intelligence of the Secret of Spiritual Activities.
+@63	HNThIB I “T” NQRA ShKL wmbwen T0=SVD HPOVLVT.
+@63	(The double-letter R. Venus ¢. In Tarot, the Star.)
+@63	“The nineteenth path is called the Intelligence of the Secret (or) of (all) spiritual activities. The fullness which it receives derives from the highest benediction and the supreme glory.” (Waite.)
+@63	(The path of Peace and Misfortune.)
+@63	The twentieth path is called the Intelligence of Will.
+@63	“HNThIB “K” NQRA ShKL jem =HRTzVNS.
+@63	(The double-letter Th. Saturn I. In Tarot, the Hanged Man.)
+@63	“The twentieth path is called the Intelligence of Will. It prepares all created beings, each individually, for the demonstration of the existence of the primordial glory.” (Waite.)
+@63	(The path of Grace and Ugliness.)
+@63	(Th (Saturn), the seventh and last of the heptad, is like an ellipse having one of its foci in A (the equilibrating power, the Spiritual Sun) and the other in B (the Sun). The double-letters G (Moon), D (Mars), K (Mercurius), P (Jupiter), and R (Venus) are always within the limits of this ellipse. Th and B (the first of the heptad) stand in a very close spiritual relation to each other.) (Notes IV. 7-14; VI. 11.)
+@63	(THE CONSTANT DODECAD)
+@63	The twenty-first path is called the Intelligence of Desire.
+@63	HNThIB K “A” NQRA ShKL wpanr port = HChPTzf HMBVQSh.
+@63	(The simple-letter H. Aries 7. In Tarot, the Empress.)
+@63	“The twenty-first path is called the Rewarding Intelligence of those who seek.! It receives the divine influence, and it influences by its benediction all existing things.” (Waite.)
+@63	(The path of Sight.)
+@63	The twenty-second path is called the Faithful Intelligence.
+@63	HNThIB K “B” NQRA ShKL jos) = NAMNT{.
+@63	(The simple-letter *V*. Taurus 8. In Tarot, the Emperor.)
+@63	“The twenty-second path is called the Faithful Intelligence, because spiritual virtues are deposited and augment therein,
+@63	’
+@63	t “The twenty-first path is named the Conciliating Intelligence. . . . (Westcott.) . until they pass to those who dwell under the shadow thereof.” (Waite.)
+@64	“The twenty-second path is named the Faithful Intelligence, by it spiritual virtues are increased, and all dwellers on earth are merely under its shadow.” (Westcott.)
+@64	(The path of Hearing.)
+@64	The twenty-third path is called the Stable Intelligence.
+@64	HNThIB K “G” NQRA SHKL pvp = QIIM{,
+@64	(The simple-letter Z. Gemini nm. In Tarot, the High Priestess.)
+@64	“The twenty-third path is called the Stable Intelligence. It is the source of consistency in all the numerations.” (Waite.)
+@64	(The path of Smell.)
+@64	The twenty-fourth path is called the Imaginative Intelligence.
+@64	HNThIB K “D” NQRA SHKL -yn7=DMIVNIL
+@64	(The simple-letter Ch. Cancer os. In Tarot, Strength.)
+@64	“The twenty-fourth path is called the Imaginative Intelligence. It is the ground of similarity in the likeness of beings who are created to its agreement after its aspects.” (Waite.)
+@64	(The path of Speech.)
+@64	The twenty-fifth path is called the Intelligence of Temptation or Trial.
+@64	HNThIB K “H” NQRA ShKL -1p1= NSIVNI.
+@64	(The simple-letter T. Leo . In Tarot, Temperance.)
+@64	‘The twenty-fifth path is called the Intelligence of Temptation or Trial, because it is the first temptation by which God tests the devout.” (Waite.)
+@64	(The path of Eating *and Drinking*.)
+@64	The twenty-sixth path is called the Renewing Intelligence.
+@64	HNThIB KX “V” NQRA SHKL wtrm=MChDSh (or win = MChVDSh).
+@64	(The simple-letter I. Virgo my. In Tarot, the Lovers.)
+@64	“The twenty-sixth path is called the Renewing Intelligence, for thereby God—blessed be He!—reneweth all which is capable of renovation in the creation of the world.” 1 (Waite.)
+@64	(The path of Coition.)
+@64	The (twenty-seventh) path is called the Natural Intelligence.
+@64	1 ©... reneweth all the changing things which are renewed by the creation of the world.” (Westcott.)
+@65	HNThIB (K “Z”) NQRA ShKL yawn = MVTBO.
+@65	(The simple-letter L. Libra =~. In Tarot, Justice.)
+@65	“The (twenty-seventh) path is called the Natural Intelligence, whereby the nature of everything found in the orb of the sun is completed and perfected.” (Waite.)
+@65	“The twenty-seventh path is the Exciting Intelligence, and it is so called because through it is consummated and perfected the nature of every existent being under the orb of the sun, in perfection.” (Westcott.)
+@65	(The path of Work.)
+@65	(*Comtesse Calomira de Cimara and Mr Waite give* “*twenty- eight*” (*K* ““*Ch”) as the number of this path. The teat followed by Dr Westcott gives the correct number, which is* “*twenty-seven*.”
+@65	The (twenty-eighth) path is called the Palpable or Active Intelligence.
+@65	HNThIB (K “Ch”) NQRA SHKL xn =MVRGSh.
+@65	(The simple-letter N. Scorpio Ms. In Tarot, Wheel of Fortune.)
+@65	“The (twenty-eighth) path is called the Active Intelligence, for thence is created the spirit of every creature of the supreme orb, and the activity, that is to say, the motion, to which they are subject.” (Waite.)
+@65	(The path of Movement.)
+@65	(*This path is omitted by Dr Westcott. In the versions of Comtesse Calomira de Cimara and Mr Waite it is numbered* “the ‘*twenty-seventh*” (*K* “Z 7°”). *That this is a mistake may be found by comparing the contents of this path and the twenty- seventh with the foundations of the seventh and eighth of the simple-letters (Land N*). “8.Y.” *Chapter V*. 13 and 14.)
+@65	The twenty-ninth path is called the Corporeal Intelligence.
+@65	HNThIB K “T” NQRA ShKL own =MVGShM{.
+@65	(The simple-letter S. Sagittarius f In Tarot, the Tower.)
+@65	‘“The twenty-ninth path is called the Corporeal Intelligence; it informs every body which is incorporated under all orbs, and it is the growth thereof.” (Waite.)
+@65	(The path of Wrath.)
+@65	(*In black magic this path helps the operator to come* “*en rapport” with his victim*.)
+@65	The thirtieth path is called the Collective Intelligence.
+@65	HNTHIB “L” NQRA ShKL 55; = KLLI.
+@65	5)
+@66	(The simple-letter 0. Capricornus 15¥. In Tarot, the Fool.)
+@66	“The thirtieth path is called the Collective Intelligence, for thence astrologers, by the judgment of the stars and the heavenly signs, derive their speculations and the perfection of their science according to the motions of the stars.” (Waite.)
+@66	(The path of Mirth.)
+@66	The thirty-first path is called the Perpetual Intelligence.
+@66	HNThIB I. “A” NQRA SHKL >71wn =ThMIDI.
+@66	(The simple-letter Tz. Aquarius =. In Tarot, the Hermit.)
+@66	“The thirty-first path is called the Perpetual Intelligence. Why is it so called? Because it rules the movement of the sun and the moon according to their constitution. and causes each to gravitate in its respective orb.” (Waite.)
+@66	(The path of Meditation.)
+@66	(*The ability to concentrate thought and to keep it along a given line for any length of time, even as the sun and the moon are kept in their orbs, is communicated from this path*.)
+@66	The thirty-second path is called the Assisting Intelligence.
+@66	HNTHIB L “B” NQRA ShKIL Tav3 = NOBD.
+@66	(The simple-letter Q. Pisces )(. In Tarot, Judgment.)
+@66	“The thirty-second path is called the Assisting Intelligence, because it directs all the operations of the seven planets, with their divisions, and concurs therein.” (Waite.)
+@66	(The path of sleep.)
+@66	(*End of* “*The* 32 *Paths of Wisdom*”)
+@part	Works Used
+@67	LIST OF WORKS USED BY US IN OUR STUDY OF
+@67	“SEPHER YETZIRAH”
+@67	*Text A*—The “Mantua”’ edition of ‘“Sepher Yetzirah,” 1562.
+@67	*Text* B.—The text of Isaac Loria according to L. Goldschmidt, 1895.
+@67	*Text* C.—The text according to R. Saadya Gaon.
+@67	*Text* D.—The text from an Arabic Commentary on ‘“Sepher Yetzirah” according to L. Goldschmidt, 1895.
+@67	“Cimara.—French version of “Sepher Yetzirah,” by Comtesse Calomira de Cimara, 1913 (published by Durville).
+@67	Westcott.—English version of “Sepher Yetzirah,”” by Dr W. Wynn Westcott. }
+@67	*Goldschmidt.—German* version of ‘‘Sepher Yetzirah,” by L. Goldschmidt, 1895.
+@67	*Postellus*.—” Abrahami Patriarcha: Liber Jezirah,” by Gulielmus Postellus, 1552.
+@67	*Pistorius*.—” Artis Cabalisticee Scriptores,” a collection of Pistorius, 1587.
+@67	*Rittangelius.—The* Amsterdam Hebrew and Latin versions, by Rittangelius, 1642.
+@67	*Waite*—” The Doctrine and Literature of the Kabalah,” by A. E. Waite.
+@67	PRINTED IN GREAT BRITAIN BY NEILL AND CO., LTD., EDINBURGH.

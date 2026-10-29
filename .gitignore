@@ -1,0 +1,16 @@
+# The scans and page renders the texts were read against stay out of git:
+# large, and all from public archives. They are kept locally beside the
+# scripts that read them.
+*.pdf
+*.djvu
+*.traineddata
+**/editorial/**/*.png
+**/editorial/**/*.jpg
+**/editorial/**/*.tif
+**/editorial/**/*.tiff
+__pycache__/
+.DS_Store
+
+# The print build
+node_modules/
+dist/

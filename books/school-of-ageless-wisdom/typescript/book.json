@@ -1,0 +1,93 @@
+{
+  "title": "The School of Ageless Wisdom",
+  "subtitle": "The lessons: Sections A to D, the Tarot Instruction, and Hermetic Science and Practice",
+  "author": "Paul Foster Case",
+  "imprint": "Set from the School's typed lessons. Rosicrucian Developers, 2026",
+  "short": "School of Ageless Wisdom",
+  "edition": "The typed lessons, as the School issued them to its students; the typescript is undated",
+  "language": "English",
+  "publicDomain": "Paul Foster Case died in 1954. The School's lessons were issued privately to its students and never published; under US law an unpublished work's copyright runs seventy years from its author's death, so they entered the public domain on 1 January 2025.",
+  "note": "Set from the School's typed lessons, contributed by Tony DeLuce, as transcribed and corrected for agelesswisdom.school from 2025 (that site's repository, rosicrucian-dev/agelesswisdom, holds the work of reading them in), and brought here in October 2026 with the words unchanged (editorial/port.py). The School's separately issued pieces, Correlation of Sound and Colour and the Oracle of Tarot, are not in this book.",
+  "parts": [
+    {
+      "title": "Section A",
+      "dir": "section-a",
+      "contents": 10
+    },
+    {
+      "title": "Section B",
+      "dir": "section-b",
+      "contents": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Lesson 4",
+        "Lesson 5",
+        "Lesson 6",
+        "Lesson 7",
+        "Supplement 1",
+        "Supplement 2",
+        "Supplement 3"
+      ]
+    },
+    {
+      "title": "Section C",
+      "dir": "section-c",
+      "contents": 9
+    },
+    {
+      "title": "Section D",
+      "dir": "section-d",
+      "contents": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Lesson 4",
+        "Lesson 5",
+        "Lesson 6",
+        "Lesson 7",
+        "Supplement 1"
+      ]
+    },
+    {
+      "title": "Tarot Instruction – First Section",
+      "dir": "section-first",
+      "contents": 24
+    },
+    {
+      "title": "Tarot Instruction – Second Section",
+      "dir": "section-second",
+      "contents": [
+        "Lesson 1",
+        "Lesson 2",
+        "Lesson 3",
+        "Lesson 4",
+        "Lesson 5",
+        "Lesson 6",
+        "Lesson 7",
+        "Lesson 8",
+        "Lesson 9",
+        "Lesson 10",
+        "Lesson 11",
+        "Lesson 12",
+        "Lesson 13",
+        "Lesson 14",
+        "Lesson 15",
+        "Lesson 16",
+        "Lesson 17",
+        "Lesson 18",
+        "Lesson 19",
+        "Lesson 20",
+        "Lesson 21",
+        "Lesson 22",
+        "Lesson 23",
+        "Supplement 1"
+      ]
+    },
+    {
+      "title": "Hermetic Science and Practice",
+      "dir": "hermetic-alchemy",
+      "contents": 10
+    }
+  ]
+}

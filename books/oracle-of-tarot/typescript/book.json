@@ -1,0 +1,12 @@
+{
+  "title": "The Oracle of Tarot",
+  "subtitle": "A course in divination, in ten lessons",
+  "author": "Paul Foster Case",
+  "imprint": "Set from the School's typed lessons. Rosicrucian Developers, 2026",
+  "short": "Oracle of Tarot",
+  "edition": "The typed lessons, as the School issued them to its students; the typescript is undated",
+  "language": "English",
+  "publicDomain": "Paul Foster Case died in 1954. Lessons issued privately to the School's students and never published were, under US law, in copyright for seventy years after his death: in the public domain since 1 January 2025.",
+  "note": "Set from the School's typed lessons, contributed by Tony DeLuce, as transcribed and corrected for agelesswisdom.school (that site's repository, rosicrucian-dev/agelesswisdom, holds the work of reading them in), and brought here in October 2026 with the words unchanged (editorial/port.py).",
+  "contents": 10
+}

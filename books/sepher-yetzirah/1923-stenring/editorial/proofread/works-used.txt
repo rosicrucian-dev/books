@@ -1,0 +1,13 @@
+@67	<Center>LIST OF WORKS USED BY US IN OUR STUDY OF “SEPHER YETZIRAH”</Center>
+@67	*Text A.*—The “Mantua” edition of “Sepher Yetzirah,” 1562.
+@67	*Text B.*—The text of Isaac Loria according to L. Goldschmidt, 1895.
+@67	*Text C.*—The text according to R. Saadya Gaon.
+@67	*Text D.*—The text from an Arabic Commentary on “Sepher Yetzirah” according to L. Goldschmidt, 1895.
+@67	*Cimara.*—French version of “Sepher Yetzirah,” by Comtesse Calomira de Cimara, 1913 (published by Durville).
+@67	*Westcott.*—English version of “Sepher Yetzirah,” by Dr W. Wynn Westcott.
+@67	*Goldschmidt.*—German version of “Sepher Yetzirah,” by L. Goldschmidt, 1895.
+@67	*Postellus.*—“Abrahami Patriarchæ Liber Jezirah,” by Gulielmus Postellus, 1552.
+@67	*Pistorius.*—“Artis Cabalisticæ Scriptores,” a collection of Pistorius, 1587.
+@67	*Rittangelius.*—The Amsterdam Hebrew and Latin versions, by Rittangelius, 1642.
+@67	*Waite.*—“The Doctrine and Literature of the Kabalah,” by A. E. Waite.
+@67	<Center>PRINTED IN GREAT BRITAIN BY NEILL AND CO., LTD., EDINBURGH.</Center>

@@ -1,0 +1,332 @@
+[
+  {
+    "find": "the great Triadic Law sunder the direction",
+    "replace": "the great Triadic Law under the direction",
+    "why": "typing: the print has \"under\" (page 12), read on the scan."
+  },
+  {
+    "find": "the Oriental mind day is not",
+    "replace": "the Oriental mind to-day is not",
+    "why": "typing: the transcription leaves a gap where the print has \"to-day\" (page 12), read on the scan."
+  },
+  {
+    "find": "causes Swift, Mid asserts",
+    "replace": "causes Swift, and asserts",
+    "why": "typing: the print has \"and\" (page 32), read on the scan."
+  },
+  {
+    "find": "<Right>Darn. in *Parm*.",
+    "replace": "<Right>Dam. in *Parm*.",
+    "why": "typing: the print has \"Dam.\" (Damascius; page 34), read on the scan."
+  },
+  {
+    "find": "Paternal mind, and Both instil",
+    "replace": "Paternal mind, and doth instil",
+    "why": "typing: the print has \"doth\" (page 34), read on the scan."
+  },
+  {
+    "find": "the Soul is derived front the",
+    "replace": "the Soul is derived from the",
+    "why": "typing: the print has \"from\" (page 39), read on the scan."
+  },
+  {
+    "find": "disguise anything front His",
+    "replace": "disguise anything from His",
+    "why": "typing: the print has \"from\" (page 54), read on the scan."
+  },
+  {
+    "find": "a certain respect the bands and",
+    "replace": "a certain respect the bonds and",
+    "why": "typing: the print has \"bonds\" (page 45), read on the scan."
+  },
+  {
+    "find": "*Theologian*, 333",
+    "replace": "*Theologiam*, 333",
+    "why": "typing: the print has \"Theologiam\" (page 27), read on the scan."
+  },
+  {
+    "find": "*Theologian Platonis*, 171",
+    "replace": "*Theologiam Platonis*, 171",
+    "why": "typing: the print has \"Theologiam\" (page 28), read on the scan."
+  },
+  {
+    "find": "*Politico*, p. 399",
+    "replace": "*Politica*, p. 399",
+    "why": "typing: the print has \"Politica\" (page 27), read on the scan."
+  },
+  {
+    "find": "*Euclidemi*, 27",
+    "replace": "*Euclidem*, 27",
+    "why": "typing: the print has \"Euclidem\" (page 28, oracle 26), read on the scan."
+  },
+  {
+    "find": "divine speculation's or works",
+    "replace": "divine speculations or works",
+    "why": "typing: the print has \"speculations\" (page 51), read on the scan."
+  },
+  {
+    "find": "@47\t1S9. The Gods",
+    "replace": "@47\t159. The Gods",
+    "why": "typing: the print numbers the oracle \"159\" (page 47), read on the scan."
+  },
+  {
+    "find": "collecting rules, for be is carried",
+    "replace": "collecting rules, for he is carried",
+    "why": "typing: the print has \"he\" (page 45), read on the scan."
+  },
+  {
+    "find": "in three-different destinies",
+    "replace": "in three different destinies",
+    "why": "typing: no hyphen in the print (page 16), read on the scan."
+  },
+  {
+    "find": "explains the four -Worlds",
+    "replace": "explains the four Worlds",
+    "why": "typing: no hyphen in the print (page 12), read on the scan."
+  },
+  {
+    "find": "the elevation, of the imagination",
+    "replace": "the elevation of the imagination",
+    "why": "typing: no comma in the print (page 22), read on the scan."
+  },
+  {
+    "find": "124.. Z. or T.",
+    "replace": "124. Z. or T.",
+    "why": "typing: one full stop in the print (page 27), read on the scan."
+  },
+  {
+    "find": "to govern all things and to order",
+    "replace": "to govern all things, and to order",
+    "why": "typing: the print has a comma after \"things\" (page 28, oracle 27), read on the scan."
+  },
+  {
+    "find": "from the Father alike, was the Will",
+    "replace": "from the Father alike was the Will",
+    "why": "typing: no comma in the print (page 30), read on the scan."
+  },
+  {
+    "find": "rendered themselves. worthy, encouragement",
+    "replace": "rendered themselves worthy, encouragement",
+    "why": "typing: no full stop in the print (page 20), read on the scan."
+  },
+  {
+    "find": "\"the image,\" that is. the astral",
+    "replace": "\"the image,\" that is, the astral",
+    "why": "typing: the print has a comma (page 16), read on the scan."
+  },
+  {
+    "find": "universal principles: This latter",
+    "replace": "universal principles. This latter",
+    "why": "typing: the print has a full stop (page 14), read on the scan."
+  },
+  {
+    "find": "also attributed;, the planetary",
+    "replace": "also attributed; the planetary",
+    "why": "typing: no comma in the print (page 18), read on the scan."
+  },
+  {
+    "find": "Gods, Water Walkers:",
+    "replace": "Gods, Water Walkers.",
+    "why": "typing: the print has a full stop (page 35), read on the scan."
+  },
+  {
+    "find": "*Pletho*, 6.. Z.",
+    "replace": "*Pletho*, 6. Z.",
+    "why": "typing: one full stop in the print (page 36), read on the scan."
+  },
+  {
+    "find": "and are of -a more",
+    "replace": "and are of a more",
+    "why": "typing: no hyphen in the print (page 36), read on the scan."
+  },
+  {
+    "find": "her punishments The Oracles",
+    "replace": "her punishments. The Oracles",
+    "why": "typing: the print has a full stop (page 37), read on the scan."
+  },
+  {
+    "find": "compelled to. pass back",
+    "replace": "compelled to pass back",
+    "why": "typing: no full stop in the print (page 39), read on the scan."
+  },
+  {
+    "find": "condition of being,. it",
+    "replace": "condition of being, it",
+    "why": "typing: no full stop in the print (page 39), read on the scan."
+  },
+  {
+    "find": "not appear membranous,",
+    "replace": "not appear membranous.",
+    "why": "typing: the print has a full stop (page 41, oracle 115), read on the scan."
+  },
+  {
+    "find": "Fire, Air,. Water",
+    "replace": "Fire, Air, Water",
+    "why": "typing: no full stop in the print (page 42), read on the scan."
+  },
+  {
+    "find": "and of. the Aërial",
+    "replace": "and of the Aërial",
+    "why": "typing: no full stop in the print (page 43), read on the scan."
+  },
+  {
+    "find": "Supra-mundane Orders for there",
+    "replace": "Supra-mundane Orders: for there",
+    "why": "typing: the print has a colon (page 43), read on the scan."
+  },
+  {
+    "find": "in the Starless.. realm",
+    "replace": "in the Starless realm",
+    "why": "typing: no full stops in the print (page 43), read on the scan."
+  },
+  {
+    "find": "Light subsist, as, the Oracles",
+    "replace": "Light subsist, as the Oracles",
+    "why": "typing: no comma after \"as\" in the print (page 43), read on the scan."
+  },
+  {
+    "find": "mercenary fraud:, flee",
+    "replace": "mercenary fraud: flee",
+    "why": "typing: no comma in the print (page 46), read on the scan."
+  },
+  {
+    "find": "Names of Evocation for-there are",
+    "replace": "Names of Evocation for there are",
+    "why": "typing: no hyphen in the print (page 47), read on the scan."
+  },
+  {
+    "find": "Intelligible One, whom it becometh-you",
+    "replace": "Intelligible One whom it becometh you",
+    "why": "typing: no comma and no hyphen in the print (page 48), read on the scan."
+  },
+  {
+    "find": "forth the Amilicti the all-relentless",
+    "replace": "forth the Amilicti, the all-relentless",
+    "why": "typing: the print has a comma (page 33), read on the scan."
+  },
+  {
+    "find": "Damascius in *Parmenidem*. T</Right>",
+    "replace": "Damascius in *Parmenidem*. T.</Right>",
+    "why": "typing: the print ends with a full stop (page 30, oracle 40), read on the scan."
+  },
+  {
+    "find": "Proc. in *Crat*. T</Right>",
+    "replace": "Proc. in *Crat*. T.</Right>",
+    "why": "typing: the print ends with a full stop (page 33, oracle 59), read on the scan."
+  },
+  {
+    "find": "*Pletho*, 21. Z,</Right>",
+    "replace": "*Pletho*, 21. Z.</Right>",
+    "why": "typing: the print has a full stop (page 38), read on the scan."
+  },
+  {
+    "find": "339. Z. or T</Right>",
+    "replace": "339. Z. or T.</Right>",
+    "why": "typing: the print ends with a full stop (page 41, oracle 116), read on the scan."
+  },
+  {
+    "find": "herbs, cheese and bread.",
+    "replace": "herbs, cheese and bread",
+    "why": "as printed: the note ends without a full stop (page 20), read on the scan."
+  },
+  {
+    "find": "some copies give kerata, horns*.",
+    "replace": "some copies give kerata, horus*.",
+    "why": "as printed: the print has \"horus\" (page 27, the note to oracle 19; its fourth letter open at the top, unlike the n's of \"Dominion\" in the line), a misprint for \"horns\" (kerata), kept."
+  },
+  {
+    "find": "1597. Supplies about a hundred verses.",
+    "replace": "1597. *Supplies about a hundred verses*.",
+    "why": "italic: the print sets the sentence in italic (page 6), read on the scan; found by the italic check (italic.py)."
+  },
+  {
+    "find": "1599. This includes the *Commentaries of Pletho and of Psellus in Latin*.",
+    "replace": "1599. *This includes the Commentaries of Pletho and of Psellus in Latin*.",
+    "why": "italic: the print sets the whole sentence in italic (page 6), read on the scan."
+  },
+  {
+    "find": "1688. Contains a version of the Oracles.",
+    "replace": "1688. *Contains a version of the Oracles*.",
+    "why": "italic: the print sets the sentence in italic (page 6), read on the scan."
+  },
+  {
+    "find": "<Right>*Psellus*, 35. Z.</Right>",
+    "replace": "<Right>Psellus, 35. Z.</Right>",
+    "why": "italic: the print has \"Psellus\" in roman here (page 26), read on the scan."
+  },
+  {
+    "find": "<Right>Proclus in Tim., 106. Z. or T.</Right>",
+    "replace": "<Right>Proclus in *Tim*., 106. Z. or T.</Right>",
+    "why": "italic: the print has \"Tim.\" in italic (page 27), read on the scan."
+  },
+  {
+    "find": "all the disordered fabrications",
+    "replace": "all the *disordered* fabrications",
+    "why": "italic: the print sets \"disordered\" in italic (page 35), read on the scan."
+  },
+  {
+    "find": "<Right>Psell., 7. *Nicephotus*.",
+    "replace": "<Right>*Psell*., 7. *Nicephotus*.",
+    "why": "italic: the print has \"Psell.\" in italic (page 47), read on the scan. (\"Nicephotus\", for Nicephorus, is the print's, kept.)"
+  },
+  {
+    "find": "<Right>*Psell*., 11. *Pletho*, 24. Z.</Right>",
+    "replace": "<Right>Psell., 11. Pletho, 24. Z.</Right>",
+    "why": "italic: the print sets this line in roman (page 49), read on the scan."
+  },
+  {
+    "find": "<Right>*Psell*., 11. *Pletho*, 20.",
+    "replace": "<Right>Psell., 11. Pletho, 20.",
+    "why": "italic: the print sets this line in roman (page 49), read on the scan."
+  },
+  {
+    "find": "<Right>*Psell*., 22. *Pletho*, 16. Z.</Right>",
+    "replace": "<Right>Psell., 22. Pletho, 16. Z.</Right>",
+    "why": "italic: the print sets this line in roman (page 50), read on the scan."
+  },
+  {
+    "find": "the Fires of the Sun, of the Moon, and of the Stars.",
+    "replace": "the Fires of the *Sun*, of the *Moon*, and of the *Stars*.",
+    "why": "italic: the print sets \"Sun\", \"Moon\" and \"Stars\" in italic (page 54), read on the scan."
+  },
+  {
+    "find": "*This word is Chaldee, TzBAUT, meaning hosts; but there is also a word SHBOH, meaning The Seven*.",
+    "replace": "*This word is Chaldee, TzBAUT, meaning* hosts; *but there is also a word SHBOH, meaning* The Seven.",
+    "why": "italic: the print sets \"hosts\" and \"The Seven\" in roman in the italic note (page 25), read on the scan."
+  },
+  {
+    "find": "controls consciousness: Believe yourself",
+    "replace": "controls consciousness: \"Believe yourself",
+    "why": "typing: the print opens the quotation (page 22), read on the scan."
+  },
+  {
+    "find": "and as to withdrawn—Arpazo",
+    "replace": "and as to \"withdrawn—Arpazo",
+    "why": "typing: the print has an opening quotation mark before \"withdrawn\" (page 26; it is not closed), read on the scan."
+  },
+  {
+    "find": "always remain' in a ceaseless",
+    "replace": "always remain in a ceaseless",
+    "why": "typing: no apostrophe in the print (page 34), read on the scan."
+  },
+  {
+    "find": "*Note that\" What the",
+    "replace": "*Note that \"What the",
+    "why": "typing: the print opens the quotation after \"that\" (page 28), read on the scan."
+  },
+  {
+    "find": "@3\tTHESE Oracles",
+    "replace": "@3\tThese Oracles",
+    "why": "setting: the Preface's first word is set in capitals after its large initial (page 3); a word, as in the other books."
+  },
+  {
+    "find": "@7\tIT has been believed",
+    "replace": "@7\tIt has been believed",
+    "why": "setting: the Introduction's first word is set in capitals after its large initial (page 7); a word, as in the other books."
+  },
+  {
+    "find": "from TzURA = a figure, and TzIUR= to fashion, ASH = fire, and STR = hidden; from these he gets the words Zairaster = fashioning",
+    "replace": "from TzURA=a figure, and TzIUR=to fashion, ASH=fire, and STR=hidden; from these he gets the words Zairaster=fashioning",
+    "why": "typing: the print sets each \"=\" close (page 3: \"Zairaster=fashioning\", \"Tzuraster=the image\"), read on the scan; the transcription spaces some and not others."
+  }
+]
