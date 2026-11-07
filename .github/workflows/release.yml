@@ -1,0 +1,100 @@
+# The PDFs, built on Linux with a pinned Chrome (the reference machine:
+# Chrome breaks pages slightly differently elsewhere) and published as
+# GitHub Releases:
+#
+#   push to main   the rolling release `latest`: its files replaced, its
+#                  tag moved to the commit. Always the current texts; the
+#                  stable address of a PDF is
+#                  releases/download/latest/<work>-<edition>.pdf
+#   tag v*         a permanent release under that name (v2026.10.29), for
+#                  an edition someone may cite by page.
+#
+# A newer push cancels a build still running, so a burst of corrections
+# costs one build. Every PDF is checked for a font Chrome had to fake or
+# borrow from the system (print/README.md) before anything is published.
+name: PDFs
+
+on:
+  push:
+    branches: [main]
+    tags: ["v*"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pdfs
+  cancel-in-progress: true
+
+jobs:
+  pdfs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # the colophon's `git describe`
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - uses: browser-actions/setup-chrome@v1
+        id: chrome
+        with:
+          chrome-version: 156
+
+      - name: Install
+        run: |
+          npm ci
+          sudo apt-get install -y --no-install-recommends poppler-utils
+
+      - name: Which Chrome
+        env:
+          CHROME_BIN: ${{ steps.chrome.outputs.chrome-path }}
+        run: |
+          "$CHROME_BIN" --version
+
+      - name: Build every edition
+        env:
+          CHROME_BIN: ${{ steps.chrome.outputs.chrome-path }}
+        run: npm run pdf
+
+      - name: Check the fonts
+        run: |
+          status=0
+          for f in dist/*.pdf; do
+            if pdffonts "$f" | grep -qE "Type 3|no  no"; then
+              echo "::error::$f embeds a faked or system font"; pdffonts "$f"; status=1
+            fi
+          done
+          exit $status
+
+      - name: Publish the rolling release
+        if: github.ref == 'refs/heads/main'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git tag -f latest
+          git push -f origin latest
+          notes="Built from ${GITHUB_SHA::7} on $(date -u +%Y-%m-%d). Replaced on every push to main; a tagged release is permanent."
+          if gh release view latest >/dev/null 2>&1; then
+            gh release edit latest --notes "$notes" --prerelease
+          else
+            gh release create latest --title "Latest build" --notes "$notes" --prerelease
+          fi
+          # A file no longer built (a renamed edition) must not linger.
+          for asset in $(gh release view latest --json assets --jq '.assets[].name'); do
+            [ -e "dist/$asset" ] || gh release delete-asset latest "$asset" -y
+          done
+          gh release upload latest dist/*.pdf --clobber
+
+      - name: Publish the tagged release
+        if: startsWith(github.ref, 'refs/tags/v')
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "$GITHUB_REF_NAME" dist/*.pdf \
+            --title "$GITHUB_REF_NAME" \
+            --notes "The texts as of $GITHUB_REF_NAME, set on $(date -u +%Y-%m-%d)."

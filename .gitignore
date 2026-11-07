@@ -1,0 +1,12 @@
+# Source scans, OCR, and one-time import tools are local editorial working
+# files. The published editions are their book.json, MDX, and images/ files.
+**/editorial/
+*.pdf
+*.djvu
+*.traineddata
+__pycache__/
+.DS_Store
+
+# The print build
+node_modules/
+dist/
