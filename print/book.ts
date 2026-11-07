@@ -182,10 +182,10 @@ export function bookCss(record: BookRecord): string {
     color: #9a927f;
   }
 }
-/* The title page carries the book site's address instead of running furniture. */
+/* The title page carries the publisher's address instead of running furniture. */
 @page :first {
   @bottom-center {
-    content: "hermeticorderofaquarius.org";
+    content: "rosicrucian.dev";
     font-family: ${FONT_STACK};
     font-size: 8pt;
     letter-spacing: 0.02em;
