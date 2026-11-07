@@ -182,9 +182,15 @@ export function bookCss(record: BookRecord): string {
     color: #9a927f;
   }
 }
-/* The title page carries no running foot. */
+/* The title page carries the book site's address instead of running furniture. */
 @page :first {
-  @bottom-center { content: none; }
+  @bottom-center {
+    content: "hermeticorderofaquarius.org";
+    font-family: ${FONT_STACK};
+    font-size: 8pt;
+    letter-spacing: 0.02em;
+    color: #9a927f;
+  }
   @bottom-right { content: none; }
 }
 * {
