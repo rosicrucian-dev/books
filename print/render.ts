@@ -311,6 +311,18 @@ function lower(node: MdxNode, inCode: boolean): ElementContent[] {
         ) {
           return [figureFor(only)];
         }
+        // Numbered passages are prose paragraphs in the source, not Markdown
+        // list items. Mark them so their first-line indent stays consistent
+        // even at the start of a chapter or after a source attribution.
+        if (only?.type === "text" && /^\d+\.\s/.test(only.value)) {
+          return [
+            el(
+              "p",
+              { ...properties, className: ["numbered-paragraph"] },
+              lowerAll(node.children as MdxNode[], inCode),
+            ),
+          ];
+        }
       }
       if (tagName === "img") {
         const { alt, width, height } = imageParts(String(properties.alt ?? ""));
@@ -932,12 +944,13 @@ blockquote > * + .quote-end {
   margin-bottom: 0.1in;
   width: 2.2in;
 }
-.footnote {
+.footnotes .footnote {
   color: #4a4438;
   font-size: 0.86em;
   line-height: 1.35;
   margin: 0.08in 0;
   text-align: left;
+  text-indent: 0;
 }
 .footnote sup {
   margin-right: 0.28em;

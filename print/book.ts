@@ -55,6 +55,8 @@ export interface BookRecord {
   note: string;
   /** Use paragraph gaps instead of first-line indents in the PDF. */
   printParagraphs?: "spaced";
+  /** Indent every numbered prose passage, including the first in a chapter. */
+  printNumberedParagraphs?: boolean;
   /** The text's contents, a file each (01.mdx … in the folder); neither
    *  this nor `parts`, one text (text.mdx). */
   contents?: Contents;
@@ -353,6 +355,9 @@ h1, h2, h3, h4, p {
 .book-body p.editor-note {
   text-indent: 0;
 }
+.book-body p.centered { text-align: center; }
+.book-body p.right-set { text-align: right; }
+${record.printNumberedParagraphs ? `.book-body p.numbered-paragraph { text-indent: 0.3in; }` : ""}
 ${sharedElementsCss()}
 ${record.printParagraphs === "spaced" ? `
 /* Communications and other exchange-based texts need visible turns. */
