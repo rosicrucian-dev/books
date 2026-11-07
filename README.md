@@ -23,6 +23,19 @@ that are public domain. A permission-published edition uses `rights` instead;
 its rights statement governs that text, which is outside the scope of this
 repository's CC0 dedication. See the edition's `RIGHTS.md` for source and scope.
 
+## Publishing PDFs
+
+Commit and push a text change to `main`. The `PDFs` workflow builds every
+edition, refreshes the rolling GitHub release, and uploads the PDFs named in
+`publication.json` to the public Cloudflare R2 bucket at
+`pdf.rosicrucian.dev`. No local `npm run` command is needed for publishing.
+Use `npm run pdf` if you want to inspect the PDFs before pushing.
+
+Adding a book to the website is a separate editorial decision: add its PDF
+filename (without `.pdf`) to `publication.json` and its metadata to the
+website's `src/lib/books.ts`. PDFs not listed in `publication.json` are not
+uploaded to the public R2 bucket.
+
 
 ## Formatting
 
