@@ -334,15 +334,17 @@ h1, h2, h3, h4, p {
   flex-wrap: wrap;
   gap: 0.1in;
 }
-.part-masthead .entry-line .eyebrow {
-  margin-bottom: 0;
-}
+.part-masthead .entry-line .eyebrow,
 .part-masthead .entry-line h3 {
+  color: #6b6456;
+  font-size: 10pt;
+  font-weight: 400;
+  letter-spacing: 0.14em;
   margin: 0;
 }
 .part-masthead .entry-separator {
-  color: #b5ad9d;
-  font-size: 9pt;
+  color: #6b6456;
+  font-size: 10pt;
 }
 .part-masthead .rule {
   border: 0;
