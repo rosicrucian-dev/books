@@ -432,14 +432,6 @@ h1, h2, h3, h4, p {
   margin: 0.035in 0;
   padding-left: 0.06in;
 }
-.book-body hr.scheme-divider {
-  width: 3.3in;
-  height: 0.06in;
-  margin: 0.14in auto 0.2in;
-  border: 0;
-  border-top: 0.5pt solid #8a8478;
-  border-bottom: 0.5pt solid #8a8478;
-}
 ${record.printNumberedParagraphs ? `.book-body p.numbered-paragraph { text-indent: 0.3in; }` : ""}
 ${sharedElementsCss()}
 ${record.printParagraphs === "spaced" ? `
