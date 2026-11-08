@@ -357,6 +357,20 @@ h1, h2, h3, h4, p {
 }
 .book-body p.centered { text-align: center; }
 .book-body p.right-set { text-align: right; }
+.book-body .book-dedication {
+  break-inside: avoid;
+  margin-bottom: 0.55in;
+}
+.book-body ol.principles-list {
+  list-style-type: upper-roman;
+  margin: 0.18in 0 0.22in 0.54in;
+  padding-left: 0.12in;
+}
+.book-body ol.principles-list li {
+  break-inside: avoid;
+  margin: 0.035in 0;
+  padding-left: 0.06in;
+}
 .book-body hr.scheme-divider {
   width: 3.3in;
   height: 0.06in;
