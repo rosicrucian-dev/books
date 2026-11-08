@@ -21,6 +21,21 @@ import {
   sharedElementsCss,
 } from "./render.ts";
 
+/**
+ * Who publishes these, and the year of the edition. One line, in one
+ * place, printed on every book — because every one of them is published
+ * here, the 1908 Kybalion as much as a typescript that was never printed
+ * at all. It is not written into the twelve book.json files, where twelve
+ * copies of one fact would drift apart the first time one of them was
+ * edited.
+ *
+ * The year is this programme's, not the day's: a book carries the year it
+ * was issued, so rebuilding an old PDF next year must not quietly restamp
+ * it. A book issued in another year gives its own (`published`).
+ */
+export const PUBLISHER = "Rosicrucian Developers";
+export const PUBLISHED = 2026;
+
 /** A book's contents, a file each (01.mdx …): how many ("Lesson N" each),
  *  or what each is called. */
 export type Contents = number | string[];
@@ -38,6 +53,17 @@ export interface BookRecord {
   title: string;
   subtitle?: string;
   author: string;
+  /**
+   * Where this text came from, in one line: the imprint of the printing
+   * it was set from ("The Yogi Publication Society, Masonic Temple,
+   * Chicago, 1908"), or, for a text that was never printed, what it was
+   * set from instead ("From the School's typed lessons").
+   *
+   * Not who publishes it. That is PUBLISHER, printed under this one on
+   * every book, so the two questions a title page answers — where the
+   * words come from, and who is issuing them — are never answered in the
+   * same breath or in the same line.
+   */
   imprint: string;
   short: string;
   edition: string;
@@ -45,6 +71,8 @@ export interface BookRecord {
   editor?: string;
   /** The year of the printing held, where it is known. */
   year?: number;
+  /** The year this edition was issued, where it is not PUBLISHED. */
+  published?: number;
   /** The language of this edition's text ("English"); the work's if absent. */
   language?: string;
   /** The basis for publication: public-domain status or specific permission. */
@@ -248,12 +276,27 @@ h1, h2, h3, h4, p {
   margin-top: 0.7in;
   text-transform: uppercase;
 }
+/* The foot of the title page: where the text came from, then who is
+   issuing it. The block holds the room, so the publisher's line stands in
+   the same place whether or not the source line is printed above it
+   (showOpeningAttribution). The two are set alike and parted by a line's
+   air: neither is a heading for the other, and the years in them — 1908
+   over 2026 — say which is which without a word of label. */
+.title-page .colophon {
+  margin: 1.2in auto 0;
+  max-width: 4.4in;
+}
 .title-page .imprint {
   color: #6b6456;
   font-size: 10pt;
   line-height: 1.45;
-  margin: 1.2in auto 0;
-  max-width: 4.4in;
+  margin: 0;
+}
+.title-page .publisher {
+  color: #6b6456;
+  font-size: 10pt;
+  line-height: 1.45;
+  margin: 0.3in 0 0;
 }
 .title-page .rights {
   color: #6b6456;
@@ -502,7 +545,10 @@ ${body}
     <h1>${escapeHtml(record.title)}</h1>
     ${record.subtitle ? `<p class="subtitle">${escapeHtml(record.subtitle)}</p>` : ""}
     <p class="author">${escapeHtml(record.author)}</p>
-    ${record.showOpeningAttribution === false ? "" : `<p class="imprint">${escapeHtml(record.imprint)}${people.length ? `<br>${people.map(escapeHtml).join("<br>")}` : ""}</p>`}
+    <div class="colophon">
+      ${record.showOpeningAttribution === false ? "" : `<p class="imprint">${escapeHtml(record.imprint)}${people.length ? `<br>${people.map(escapeHtml).join("<br>")}` : ""}</p>`}
+      <p class="publisher">${escapeHtml(PUBLISHER)}, ${record.published ?? PUBLISHED}</p>
+    </div>
     ${record.showOpeningAttribution !== false && record.rights ? `<p class="rights">${escapeHtml(record.rights)}</p>` : ""}
   </section>
 ${sections.join("\n")}
