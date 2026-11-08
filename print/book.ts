@@ -418,6 +418,11 @@ h1, h2, h3, h4, p {
 }
 .book-body p.centered { text-align: center; }
 .book-body p.right-set { text-align: right; }
+.book-body .source-note-line {
+  /* A hard break within a close-set source note begins at the same first-line
+     inset as the preceding remark, without adding paragraph spacing. */
+  padding-left: 0.3in;
+}
 .book-body .book-dedication {
   break-inside: avoid;
   margin-bottom: 0.55in;
