@@ -285,6 +285,22 @@ h1, h2, h3, h4, p {
   letter-spacing: 0.14em;
   margin-bottom: 0.04in;
 }
+.part-masthead .entry-line {
+  align-items: baseline;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.1in;
+}
+.part-masthead .entry-line .eyebrow {
+  margin-bottom: 0;
+}
+.part-masthead .entry-line h3 {
+  margin: 0;
+}
+.part-masthead .entry-separator {
+  color: #b5ad9d;
+  font-size: 9pt;
+}
 .part-masthead .rule {
   border: 0;
   border-top: 0.75pt solid #cbc4b4;
@@ -442,8 +458,11 @@ export function bookDocumentHtml(options: BookDocumentOptions): string {
       if (part.title) {
         out.push(`<section class="part nested" id="${escapeHtml(id)}">
     <header class="part-masthead">
-      <div class="eyebrow">${escapeHtml(part.title)}</div>
-      <h3>${escapeHtml(label ?? "")}</h3>
+      <div class="entry-line">
+        <div class="eyebrow">${escapeHtml(part.title)}</div>
+        <span class="entry-separator" aria-hidden="true">·</span>
+        <h3>${escapeHtml(label ?? "")}</h3>
+      </div>
       <hr class="rule">
     </header>
     <div class="book-body">
