@@ -1,0 +1,602 @@
+/**
+ * A book: one edition set as a PDF. A title page (from book.json), then
+ * the text: one file, or its contents a file each, every one opening on a
+ * fresh page under its label ("Chapter I", "Letter II", "Lesson 1"), and
+ * where the contents are gathered in parts (the README), each part opening
+ * on a page of its own under its title, its contents one level down. Set
+ * twice, for print (US Letter) and for screen (PAGE_FORMATS), on the
+ * lessons' pages and type, so a book and a lesson from the same shelf look
+ * alike. The text's own headings (## in the source) are the
+ * chapter headings; the renderer sets them one level under the entry's
+ * label, and a part's entries one further. The editors' note on the text
+ * and a colophon (book.json's rights statement and `note`, the revision set
+ * from) are not printed for now: the notes are being rewritten.
+ */
+import * as fs from "node:fs";
+import * as path from "node:path";
+import {
+  FONT_STACK,
+  type Renderer,
+  escapeHtml,
+  fontFaceCss,
+  sharedElementsCss,
+} from "./render.ts";
+
+/**
+ * Who publishes these, and the year of the edition. One line, in one
+ * place, printed on every book — because every one of them is published
+ * here, the 1908 Kybalion as much as a typescript that was never printed
+ * at all. It is not written into the twelve book.json files, where twelve
+ * copies of one fact would drift apart the first time one of them was
+ * edited.
+ *
+ * The year is this programme's, not the day's: a book carries the year it
+ * was issued, so rebuilding an old PDF next year must not quietly restamp
+ * it. A book issued in another year gives its own (`published`).
+ */
+export const PUBLISHER = "Rosicrucian Developers";
+export const PUBLISHED = 2026;
+
+/** A book's contents, a file each (01.mdx …): how many ("Lesson N" each),
+ *  or what each is called. */
+export type Contents = number | string[];
+
+/** A part of a book in parts: its contents in a folder of its own. */
+export interface PartRecord {
+  title: string;
+  /** The folder, under the edition's, holding its 01.mdx … */
+  dir: string;
+  contents: Contents;
+}
+
+/** An edition's record, book.json (the README). */
+export interface BookRecord {
+  title: string;
+  subtitle?: string;
+  author: string;
+  /**
+   * Where this text came from, in one line: the imprint of the printing
+   * it was set from ("The Yogi Publication Society, Masonic Temple,
+   * Chicago, 1908"), or, for a text that was never printed, what it was
+   * set from instead ("From the School's typed lessons").
+   *
+   * Not who publishes it. That is PUBLISHER, printed under this one on
+   * every book, so the two questions a title page answers — where the
+   * words come from, and who is issuing them — are never answered in the
+   * same breath or in the same line.
+   */
+  imprint: string;
+  short: string;
+  edition: string;
+  translator?: string;
+  editor?: string;
+  /** The year of the printing held, where it is known. */
+  year?: number;
+  /** The year this edition was issued, where it is not PUBLISHED. */
+  published?: number;
+  /** The language of this edition's text ("English"); the work's if absent. */
+  language?: string;
+  /** The basis for publication: public-domain status or specific permission. */
+  publicDomain?: string;
+  rights?: string;
+  /** Keep source and permission metadata without showing it on the opening page. */
+  showOpeningAttribution?: boolean;
+  note: string;
+  /** Use paragraph gaps instead of first-line indents in the PDF. */
+  printParagraphs?: "spaced";
+  /** Indent every numbered prose passage, including the first in a chapter. */
+  printNumberedParagraphs?: boolean;
+  /** The text's contents, a file each (01.mdx … in the folder); neither
+   *  this nor `parts`, one text (text.mdx). */
+  contents?: Contents;
+  /** A book in parts, each a folder with contents of its own. */
+  parts?: PartRecord[];
+}
+
+/** One of the contents to set: its file, and its label where the book has
+ *  contents. */
+export interface Entry {
+  file: string;
+  label?: string;
+}
+
+/** A part of the book as set: the entries it gathers, under its title
+ *  where it has one (an ungathered book is one part without). */
+export interface Part {
+  title?: string;
+  /** Its folder's name, where the book is in parts. */
+  dir?: string;
+  entries: Entry[];
+}
+
+export interface BookSource {
+  /** The folder holding the works. */
+  root: string;
+  work: string;
+  edition: string;
+}
+
+/** What each of the contents is called: as named, or "Lesson N". */
+export function contentsLabels(contents: Contents): string[] {
+  return typeof contents === "number"
+    ? Array.from({ length: contents }, (_, i) => `Lesson ${i + 1}`)
+    : contents;
+}
+
+/** The file of the Nth of the contents, 01.mdx … */
+export const entryFile = (n: number) => `${String(n).padStart(2, "0")}.mdx`;
+
+/** The contents of a folder, 01.mdx … NN.mdx, checked: each present, and
+ *  none beyond N. */
+function entriesOf(dir: string, contents: Contents, where: string): Entry[] {
+  const labels = contentsLabels(contents);
+  const entries = labels.map((label, i) => ({
+    file: path.join(dir, entryFile(i + 1)),
+    label,
+  }));
+  for (const { file } of entries) {
+    if (!fs.existsSync(file)) throw new Error(`${where}: no ${file}`);
+  }
+  const present = fs
+    .readdirSync(dir)
+    .filter((f) => /^\d{2}\.mdx$/.test(f)).length;
+  if (present !== entries.length) {
+    throw new Error(
+      `${where}: book.json names ${entries.length} contents; ${dir} has ${present}`,
+    );
+  }
+  return entries;
+}
+
+/** The edition's record and its text, part by part, in order. */
+export function readBook({ root, work, edition }: BookSource) {
+  const dir = path.join(root, work, edition);
+  const where = `${work}/${edition}`;
+  const record = JSON.parse(
+    fs.readFileSync(path.join(dir, "book.json"), "utf8"),
+  ) as BookRecord;
+  if (Boolean(record.publicDomain) === Boolean(record.rights)) {
+    throw new Error(`${where}: book.json must give either publicDomain or rights`);
+  }
+  if (record.contents && record.parts) {
+    throw new Error(`${where}: book.json gives both contents and parts`);
+  }
+  let parts: Part[];
+  if (record.parts) {
+    parts = record.parts.map((part) => ({
+      title: part.title,
+      dir: part.dir,
+      entries: entriesOf(path.join(dir, part.dir), part.contents, where),
+    }));
+  } else if (record.contents) {
+    parts = [{ entries: entriesOf(dir, record.contents, where) }];
+  } else {
+    const file = path.join(dir, "text.mdx");
+    if (!fs.existsSync(file)) throw new Error(`${where}: no ${file}`);
+    parts = [{ entries: [{ file }] }];
+  }
+  return { dir, record, parts };
+}
+
+/** The HTML lang of an edition's language, for hyphenation and the viewer. */
+export function langOf(language: string | undefined): string {
+  const codes: Record<string, string> = {
+    English: "en",
+    German: "de",
+    French: "fr",
+    Spanish: "es",
+    Italian: "it",
+    Latin: "la",
+    Greek: "el",
+    Hebrew: "he",
+  };
+  return codes[language ?? "English"] ?? "en";
+}
+
+/**
+ * The two shapes a book is set in, from one text and one stylesheet.
+ *
+ * print   US Letter, for a home or office printer. The wide side margins
+ *         are what is left of the sheet once the line is a readable length
+ *         (5.7in of 11.5pt Literata, about 70 characters), not ornament.
+ * screen  For reading on a tablet or a computer: a page shaped like a
+ *         tablet held upright (6 × 8.5in, the 1 : 1.42 of current iPads),
+ *         margins only wide enough to frame the text, the same type, and a
+ *         line a little shorter (4.9in, about 60 characters). Fitted to the
+ *         screen, its text is nearly half as large again as Letter's.
+ *
+ * Only the page changes: the type, the elements and the outline are the
+ * same, so the two editions read alike and differ in page breaks alone.
+ */
+export type PageFormat = "print" | "screen";
+export const PAGE_FORMATS: readonly PageFormat[] = ["print", "screen"];
+
+interface PageGeometry {
+  size: string;
+  margin: string;
+  /** How far down the title page's title sits. */
+  titleDrop: string;
+  /** How far down a part's title page sets the part's title. */
+  partDrop: string;
+}
+
+const GEOMETRY: Record<PageFormat, PageGeometry> = {
+  print: {
+    size: "8.5in 11in",
+    margin: "1in 1.4in 0.85in",
+    titleDrop: "2.6in",
+    partDrop: "3.4in",
+  },
+  screen: {
+    size: "6in 8.5in",
+    margin: "0.6in 0.55in 0.7in",
+    titleDrop: "1.7in",
+    partDrop: "2.3in",
+  },
+};
+
+export function bookCss(record: BookRecord, format: PageFormat = "print"): string {
+  const foot = escapeCss(record.short);
+  const page = GEOMETRY[format];
+  return `${fontFaceCss()}
+@page {
+  size: ${page.size};
+  margin: ${page.margin};
+  @bottom-center {
+    content: counter(page);
+    font-family: ${FONT_STACK};
+    font-size: 9pt;
+    color: #6b6456;
+  }
+  @bottom-right {
+    content: "${foot}";
+    font-family: ${FONT_STACK};
+    font-size: 8pt;
+    letter-spacing: 0.02em;
+    color: #9a927f;
+  }
+}
+/* The title page carries the publisher's address instead of running furniture. */
+@page :first {
+  @bottom-center {
+    content: "rosicrucian.dev";
+    font-family: ${FONT_STACK};
+    font-size: 8pt;
+    letter-spacing: 0.02em;
+    color: #9a927f;
+  }
+  @bottom-right { content: none; }
+}
+* {
+  box-sizing: border-box;
+}
+html {
+  color: #211f1a;
+  font-family: ${FONT_STACK};
+  font-size: 11.5pt;
+  line-height: 1.5;
+}
+/* See lessons.ts in botaschool on the 1px: a Chrome print rounding bug. */
+body {
+  margin: 0;
+  padding-right: 1px;
+  font-kerning: normal;
+  text-rendering: optimizeLegibility;
+}
+h1, h2, h3, h4, p {
+  margin: 0;
+}
+/* The title page: the title a third of the way down, the rest beneath. */
+.title-page {
+  break-after: page;
+  padding-top: ${page.titleDrop};
+  text-align: center;
+}
+/* pre-wrap on the headings: Chrome's outline takes a heading's text as laid
+   out and drops the space at every soft wrap ("InvisibleRosicrucian") unless
+   the spaces are preserved. */
+.title-page h1,
+.part-masthead h2,
+.book-body h3,
+.book-body h4,
+.book-body h5 {
+  white-space: pre-wrap;
+}
+.title-page h1 {
+  font-size: 24pt;
+  font-weight: 700;
+  line-height: 1.2;
+}
+.title-page .subtitle {
+  font-size: 12.5pt;
+  font-style: italic;
+  line-height: 1.4;
+  margin: 0.22in auto 0;
+  max-width: 4.4in;
+}
+.title-page .author {
+  font-size: 12pt;
+  letter-spacing: 0.12em;
+  margin-top: 0.7in;
+  text-transform: uppercase;
+}
+/* The foot of the title page: where the text came from, then who is
+   issuing it. The block holds the room, so the publisher's line stands in
+   the same place whether or not the source line is printed above it
+   (showOpeningAttribution). The two are set alike and parted by a line's
+   air: neither is a heading for the other, and the years in them — 1908
+   over 2026 — say which is which without a word of label. */
+.title-page .colophon {
+  margin: 1.2in auto 0;
+  max-width: 4.4in;
+}
+.title-page .imprint {
+  color: #6b6456;
+  font-size: 10pt;
+  line-height: 1.45;
+  margin: 0;
+}
+.title-page .publisher {
+  color: #6b6456;
+  font-size: 10pt;
+  line-height: 1.45;
+  margin: 0.3in 0 0;
+}
+.title-page .rights {
+  color: #6b6456;
+  font-size: 8.5pt;
+  line-height: 1.4;
+  margin: 0.36in auto 0;
+  max-width: 4.4in;
+}
+/* Each entry of the contents on a fresh page, its label over it as the
+   lessons' eyebrow; in a book in parts, the part's title above the label. */
+.part {
+  break-before: page;
+}
+.part-masthead {
+  margin-bottom: 0.34in;
+}
+.part-masthead h2,
+.part-masthead h3 {
+  color: #6b6456;
+  font-size: 10.5pt;
+  font-variant-caps: all-small-caps;
+  font-weight: 400;
+  letter-spacing: 0.14em;
+}
+.part-masthead .eyebrow {
+  color: #9a927f;
+  font-size: 9pt;
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.14em;
+  margin-bottom: 0.04in;
+}
+.part-masthead .entry-line {
+  align-items: baseline;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.1in;
+}
+.part-masthead .entry-line .eyebrow,
+.part-masthead .entry-line h3 {
+  color: #6b6456;
+  font-size: 10pt;
+  font-weight: 400;
+  letter-spacing: 0.14em;
+  margin: 0;
+}
+.part-masthead .entry-separator {
+  color: #6b6456;
+  font-size: 10pt;
+}
+.part-masthead .rule {
+  border: 0;
+  border-top: 0.75pt solid #cbc4b4;
+  margin: 0.14in 0 0;
+}
+/* A part's own page: its title alone, a third of the way down. */
+.part-page {
+  break-before: page;
+  padding-top: ${page.partDrop};
+  text-align: center;
+}
+.part-page h2 {
+  font-size: 18pt;
+  font-variant-caps: all-small-caps;
+  font-weight: 650;
+  letter-spacing: 0.08em;
+  line-height: 1.2;
+  white-space: pre-wrap;
+}
+/* The text's headings: ## is the chapter's (set as the lessons set theirs),
+   ### the section's; within a part each sits one level further down. */
+.book-body h3,
+.book-body h4,
+.book-body h5,
+.book-body h6 {
+  break-after: avoid;
+  font-weight: 650;
+  line-height: 1.2;
+  margin: 0.26in 0 0.08in;
+  text-align: center;
+}
+.book-body h3,
+.nested .book-body h4 {
+  font-size: 16pt;
+  font-variant-caps: all-small-caps;
+  letter-spacing: 0.04em;
+}
+.book-body h4,
+.nested .book-body h5 {
+  font-size: 12.5pt;
+}
+.book-body p {
+  hyphens: auto;
+  orphans: 3;
+  text-align: justify;
+  widows: 3;
+}
+/* The classic book setting: paragraphs run on, the first line indented. */
+.book-body p + p {
+  text-indent: 0.3in;
+}
+.book-body > p + .keep-together > p:first-child {
+  text-indent: 0.3in;
+}
+.book-body h3 + p,
+.book-body h4 + p,
+.book-body h5 + p,
+.book-body h6 + p,
+.book-body blockquote + p,
+.book-body figure + p,
+.book-body table + p,
+.book-body ol + p,
+.book-body ul + p {
+  text-indent: 0;
+}
+.book-body p.centered,
+.book-body p.right-set,
+.book-body p.editor-note {
+  text-indent: 0;
+}
+.book-body p.centered { text-align: center; }
+.book-body p.right-set { text-align: right; }
+.book-body .source-note-line {
+  /* A hard break within a close-set source note begins at the same first-line
+     inset as the preceding remark, without adding paragraph spacing. */
+  padding-left: 0.3in;
+}
+.book-body .book-dedication {
+  break-inside: avoid;
+  margin-bottom: 0.55in;
+}
+.book-body ol.principles-list {
+  list-style-type: upper-roman;
+  margin: 0.18in 0 0.22in 0.54in;
+  padding-left: 0.12in;
+}
+.book-body ol.principles-list li {
+  break-inside: avoid;
+  margin: 0.035in 0;
+  padding-left: 0.06in;
+}
+${record.printNumberedParagraphs ? `.book-body p.numbered-paragraph { text-indent: 0.3in; }` : ""}
+${sharedElementsCss()}
+${record.printParagraphs === "spaced" ? `
+/* Communications and other exchange-based texts need visible turns. */
+.book-body > p + p {
+  margin-top: 0.12in;
+  text-indent: 0;
+}
+.book-body > .keep-together > p + p {
+  margin-top: 0.12in;
+  text-indent: 0;
+}
+.book-body > p + .keep-together > p:first-child {
+  margin-top: 0.12in;
+  text-indent: 0;
+}
+.book-body > p:first-child + p {
+  margin-top: 0.22in;
+}
+` : ""}`;
+}
+
+function escapeCss(value: string): string {
+  return value.replace(/\\/g, "\\\\").replace(/"/g, '\\"');
+}
+
+export interface BookDocumentOptions extends BookSource {
+  renderer: Renderer;
+  /** The repository's revision the text is set from (git describe), and
+   *  the day: for the colophon, when it is printed again. */
+  revision: string;
+  date: string;
+  /** The page it is set on (PAGE_FORMATS); print by default. */
+  format?: PageFormat;
+}
+
+/** A part's entries set one level down: the renderer's h3 (## in the
+ *  source) becomes h4, and so on; the part's title is the h2 and the
+ *  entry's label the h3, so the outline nests part, entry, heading. */
+const nest = (body: string) =>
+  body.replace(
+    /<(\/?)h([3-5])\b/g,
+    (_, slash: string, level: string) => `<${slash}h${Number(level) + 1}`,
+  );
+
+/** The whole document, as HTML for Chrome. */
+export function bookDocumentHtml(options: BookDocumentOptions): string {
+  const { record, parts } = readBook(options);
+  const { renderer } = options;
+  // The anchors a link within the text points at (remark-book-links, given
+  // "#{part}-{n}" and "#{part}" by build.ts).
+  const sections = parts.flatMap((part) => {
+    const out: string[] = [];
+    if (part.title) {
+      out.push(`<section class="part-page" id="${escapeHtml(part.dir ?? "")}">
+    <h2>${escapeHtml(part.title)}</h2>
+  </section>`);
+    }
+    part.entries.forEach(({ file, label }, i) => {
+      const markdown = fs.readFileSync(file, "utf8");
+      const body = renderer.mdxToHtml(markdown, file);
+      const id = part.dir ? `${part.dir}-${i + 1}` : `entry-${i + 1}`;
+      if (part.title) {
+        out.push(`<section class="part nested" id="${escapeHtml(id)}">
+    <header class="part-masthead">
+      <div class="entry-line">
+        <div class="eyebrow">${escapeHtml(part.title)}</div>
+        <span class="entry-separator" aria-hidden="true">·</span>
+        <h3>${escapeHtml(label ?? "")}</h3>
+      </div>
+      <hr class="rule">
+    </header>
+    <div class="book-body">
+${nest(body)}
+    </div>
+  </section>`);
+      } else {
+        const masthead = label
+          ? `<header class="part-masthead">
+      <h2>${escapeHtml(label)}</h2>
+      <hr class="rule">
+    </header>`
+          : "";
+        out.push(`<section class="part"${label ? ` id="${escapeHtml(id)}"` : ""}>
+    ${masthead}
+    <div class="book-body">
+${body}
+    </div>
+  </section>`);
+      }
+    });
+    return out;
+  });
+  const people = [
+    record.translator && `Translated by ${record.translator}`,
+    record.editor && `Edited by ${record.editor}`,
+  ].filter(Boolean) as string[];
+  return `<!doctype html>
+<html lang="${langOf(record.language)}">
+<head>
+  <meta charset="utf-8">
+  <title>${escapeHtml(record.title)}</title>
+  <style>${bookCss(record, options.format)}</style>
+</head>
+<body>
+  <section class="title-page">
+    <h1>${escapeHtml(record.title)}</h1>
+    ${record.subtitle ? `<p class="subtitle">${escapeHtml(record.subtitle)}</p>` : ""}
+    <p class="author">${escapeHtml(record.author)}</p>
+    <div class="colophon">
+      ${record.showOpeningAttribution === false ? "" : `<p class="imprint">${escapeHtml(record.imprint)}${people.length ? `<br>${people.map(escapeHtml).join("<br>")}` : ""}</p>`}
+      <p class="publisher">${escapeHtml(PUBLISHER)}, ${record.published ?? PUBLISHED}</p>
+    </div>
+    ${record.showOpeningAttribution !== false && record.rights ? `<p class="rights">${escapeHtml(record.rights)}</p>` : ""}
+  </section>
+${sections.join("\n")}
+</body>
+</html>`;
+}
