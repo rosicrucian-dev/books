@@ -981,7 +981,7 @@ function chromePath(): string {
 export function buildPdf(
   htmlPath: string,
   pdfPath: string,
-  { outline = false }: { outline?: boolean } = {},
+  { outline = false, info }: { outline?: boolean; info?: PdfInfo } = {},
 ) {
   // `--print-to-pdf` is fire-and-forget: Chrome prints the moment it considers
   // the page "loaded", which does NOT guarantee the @font-face web fonts have
@@ -1014,4 +1014,93 @@ export function buildPdf(
     `--print-to-pdf=${pdfPath}`,
     `file://${htmlPath}`,
   ]);
+  if (info) writePdfInfo(pdfPath, info);
+}
+
+/**
+ * What a PDF says about itself: its document properties, which a viewer
+ * shows and a search engine reads (Google takes a PDF's title for the
+ * result's headline). Chrome writes only the title, from the HTML's
+ * <title>, and ignores <meta> author, description and keywords.
+ */
+export interface PdfInfo {
+  title: string;
+  author?: string;
+  subject?: string;
+  keywords?: string;
+}
+
+/** The publisher, as a PDF names the program or body that made it. */
+const PDF_CREATOR = "Rosicrucian Developers";
+
+/** A PDF text string as UTF-16BE hex, so any character survives (æ, –). */
+function pdfText(value: string): string {
+  const bytes = Buffer.from(`\ufeff${value}`, "utf16le").swap16();
+  return `<${bytes.toString("hex").toUpperCase()}>`;
+}
+
+/**
+ * Gives a PDF Chrome printed its document properties, by an incremental
+ * update: a new Info dictionary, an xref section for it and a trailer
+ * pointing at both, appended after Chrome's %%EOF. Nothing Chrome wrote is
+ * rewritten, so the pages, fonts and outline are byte for byte as printed;
+ * Chrome's dates and producer are carried into the new dictionary. Chrome
+ * writes a classic xref table and trailer; anything else is refused rather
+ * than guessed at.
+ */
+export function writePdfInfo(pdfPath: string, info: PdfInfo) {
+  const pdf = fs.readFileSync(pdfPath);
+  const tail = pdf.subarray(Math.max(0, pdf.length - 4096)).toString("latin1");
+  const startxref = /startxref\s+(\d+)\s+%%EOF\s*$/.exec(tail);
+  const trailer = tail.slice(tail.lastIndexOf("trailer"));
+  const size = /\/Size (\d+)/.exec(trailer);
+  const root = /\/Root (\d+ \d+ R)/.exec(trailer);
+  if (!startxref || !trailer.startsWith("trailer") || !size || !root) {
+    throw new Error(`${pdfPath}: not a PDF with a classic xref trailer`);
+  }
+  const prev = Number(startxref[1]);
+
+  // Chrome's own Info dictionary, found through its xref table, for the
+  // dates and the producer.
+  const keep: string[] = [];
+  const oldInfo = /\/Info (\d+) 0 R/.exec(trailer);
+  if (oldInfo) {
+    const table = pdf.toString("latin1", prev, prev + 64);
+    const first = /^xref\s+(\d+) \d+\s+/.exec(table);
+    const n = Number(oldInfo[1]);
+    if (first && n >= Number(first[1])) {
+      const entryAt = prev + first[0].length + (n - Number(first[1])) * 20;
+      const offset = Number(pdf.toString("latin1", entryAt, entryAt + 10));
+      const object = pdf.toString("latin1", offset, offset + 1024);
+      const dict = object.slice(0, object.indexOf("endobj"));
+      for (const key of ["Producer", "CreationDate", "ModDate"]) {
+        const value = new RegExp(`/${key}\\s*(\\([^)]*\\)|<[0-9A-Fa-f]*>)`).exec(dict);
+        if (value) keep.push(`/${key} ${value[1]}`);
+      }
+    }
+  }
+
+  const fields = [
+    `/Title ${pdfText(info.title)}`,
+    info.author && `/Author ${pdfText(info.author)}`,
+    info.subject && `/Subject ${pdfText(info.subject)}`,
+    info.keywords && `/Keywords ${pdfText(info.keywords)}`,
+    `/Creator ${pdfText(PDF_CREATOR)}`,
+    ...keep,
+  ].filter(Boolean);
+  const number = Number(size[1]);
+  const lead = pdf[pdf.length - 1] === 0x0a ? "" : "\n";
+  const objectAt = pdf.length + lead.length;
+  const object = `${number} 0 obj\n<<${fields.join("\n")}>>\nendobj\n`;
+  const xrefAt = objectAt + Buffer.byteLength(object, "latin1");
+  const update =
+    lead +
+    object +
+    // Object 0's free entry first, as readers expect every xref section
+    // to begin; then the new dictionary's.
+    `xref\n0 1\n0000000000 65535 f \n` +
+    `${number} 1\n${String(objectAt).padStart(10, "0")} 00000 n \n` +
+    `trailer\n<</Size ${number + 1}\n/Root ${root[1]}\n/Info ${number} 0 R\n/Prev ${prev}>>\n` +
+    `startxref\n${xrefAt}\n%%EOF\n`;
+  fs.appendFileSync(pdfPath, update, "latin1");
 }

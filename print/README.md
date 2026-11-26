@@ -42,7 +42,12 @@ outline from the headings (part, entry, the text's own). The editors' note
 and the colophon are not printed for now, while the notes are rewritten. `build.ts`
 sets every edition both ways into `dist/`, `<name>.pdf` and
 `<name>-screen.pdf` (`npm run pdf` at the root; the
-pipeline from `../mdx.mjs`, the figures read from each folder). A book never gets its own
+pipeline from `../mdx.mjs`, the figures read from each folder), gives each PDF
+its document properties (title, author, and the subtitle and edition as its
+subject: `buildPdf`'s `info`, appended after Chrome prints, since Chrome writes
+only the title), and writes `dist/catalog.json` (`catalog.ts`), what every
+edition is, which the release publishes beside the PDFs for the sites that
+list the books. A book never gets its own
 renderer or stylesheet: a construct one book has that the format cannot
 say becomes a tag of the format, lowered here and handled by every
 consumer.

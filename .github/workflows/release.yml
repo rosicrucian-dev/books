@@ -122,6 +122,17 @@ jobs:
               echo "Published ${name}.pdf to R2"
             done
           done < <(jq -r '.pdfs[]' publication.json)
+          # What every edition is (print/catalog.ts), for the sites that
+          # list the books: rosicrucian.dev builds its book pages from it.
+          aws s3api put-object \
+            --bucket rosicrucian-dev-books-public \
+            --key catalog.json \
+            --body dist/catalog.json \
+            --content-type 'application/json; charset=utf-8' \
+            --cache-control 'public, max-age=300' \
+            --endpoint-url "$endpoint" \
+            --no-cli-pager >/dev/null
+          echo "Published catalog.json to R2"
 
       - name: Publish the tagged release
         if: startsWith(github.ref, 'refs/tags/v')

@@ -9,6 +9,9 @@
  *   npm run pdf -- kybalion/1908        one
  *   npm run pdf -- --html-only          the HTML only (dist/html/), no Chrome
  *
+ * Every run also writes dist/catalog.json (catalog.ts): what each edition
+ * built is, for the sites that list the books.
+ *
  * Run from the repository with its dependencies installed (`npm install`).
  * The pipeline is the format's (mdx.mjs), figures read from each edition's
  * folder; the renderer print/render.ts; the document print/book.ts.
@@ -18,7 +21,8 @@ import * as fs from "node:fs";
 import * as path from "node:path";
 import { fileURLToPath } from "node:url";
 import { basePlugins, loadMdxPlugins } from "../mdx.mjs";
-import { PAGE_FORMATS, bookDocumentHtml } from "./book.ts";
+import { PAGE_FORMATS, bookDocumentHtml, readBook } from "./book.ts";
+import { type CatalogBook, catalogBook } from "./catalog.ts";
 import { buildPdf, createRenderer } from "./render.ts";
 
 const ROOT = path.join(import.meta.dirname, "..");
@@ -88,7 +92,17 @@ async function main() {
   const date = new Date().toISOString().slice(0, 10);
 
   fs.mkdirSync(path.join(DIST, "html"), { recursive: true });
+  const catalog: CatalogBook[] = [];
   for (const { work, edition, name } of editions) {
+    catalog.push(catalogBook(BOOKS, work, edition, name));
+    const { record } = readBook({ root: BOOKS, work, edition });
+    // The PDF's own properties (render.ts): what a viewer shows and a
+    // search engine reads.
+    const info = {
+      title: record.title,
+      author: record.author,
+      subject: [record.subtitle, record.edition].filter(Boolean).join(". "),
+    };
     for (const format of PAGE_FORMATS) {
       // The print edition keeps the plain name: it is the address every
       // existing link to a PDF already uses.
@@ -98,10 +112,18 @@ async function main() {
         html,
         bookDocumentHtml({ root: BOOKS, work, edition, renderer, revision: rev, date, format }),
       );
-      if (!htmlOnly) buildPdf(html, path.join(DIST, `${file}.pdf`), { outline: true });
+      if (!htmlOnly) {
+        buildPdf(html, path.join(DIST, `${file}.pdf`), { outline: true, info });
+      }
       console.log(`${htmlOnly ? "html" : "pdf "} ${file}`);
     }
   }
+  // Only the editions built, when some are named: a partial run is for
+  // looking at, and the release builds them all.
+  fs.writeFileSync(
+    path.join(DIST, "catalog.json"),
+    `${JSON.stringify({ books: catalog }, null, 2)}\n`,
+  );
 }
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) await main();
