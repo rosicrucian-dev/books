@@ -47,14 +47,23 @@ export interface Catalog {
   books: CatalogBook[];
 }
 
+/** Straight quotes curled, as the pipeline's smartypants curls them on
+ *  the page: the catalog is shown as text, not run through the pipeline. */
+function curl(text: string): string {
+  return text.replace(/"([^"]*)"/g, "\u201c$1\u201d").replace(/'/g, "\u2019");
+}
+const curlMaybe = (text: string | undefined) => (text ? curl(text) : text);
+
 /** The text of a heading's line, without the format's inline markup. */
 function plain(markdown: string): string {
-  return markdown
-    .replace(/<[^>]+>/g, "")
-    .replace(/\[([^\]]*)\]\([^)]*\)/g, "$1")
-    .replace(/[*_`]/g, "")
-    .replace(/\s+/g, " ")
-    .trim();
+  return curl(
+    markdown
+      .replace(/<[^>]+>/g, "")
+      .replace(/\[([^\]]*)\]\([^)]*\)/g, "$1")
+      .replace(/[*_`]/g, "")
+      .replace(/\s+/g, " ")
+      .trim(),
+  );
 }
 
 /** An entry's first heading (## in the source), where it has one. */
@@ -80,13 +89,13 @@ export function catalogBook(
         `${format === "print" ? name : `${name}-${format}`}.pdf`,
       ]),
     ),
-    title: r.title,
-    subtitle: r.subtitle,
-    author: r.author,
-    translator: r.translator,
-    editor: r.editor,
-    imprint: r.imprint,
-    editionNote: r.edition,
+    title: curl(r.title),
+    subtitle: curlMaybe(r.subtitle),
+    author: curl(r.author),
+    translator: curlMaybe(r.translator),
+    editor: curlMaybe(r.editor),
+    imprint: curl(r.imprint),
+    editionNote: curlMaybe(r.edition),
     language: r.language ?? "English",
     publisher: PUBLISHER,
     published: r.published ?? PUBLISHED,
